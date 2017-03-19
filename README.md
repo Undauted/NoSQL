@@ -27,7 +27,7 @@ Zbiór danych - [Health](https://archive.org/download/stackexchange/health.stack
 
 <h6>Utworzenie tabeli</h6>
 
-<h7>Posts</h7>
+<h6>Posts</h6>
 
 ```
 CREATE TABLE Posts(
@@ -51,7 +51,7 @@ CREATE TABLE Posts(
 );
 ```
 
-<h7>Users</h7>
+<h6>Users</h6>
 
 ```
 CREATE TABLE Users(
