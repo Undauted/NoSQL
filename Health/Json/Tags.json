@@ -1,0 +1,10031 @@
+[
+			{
+				"_Id": "2",
+				"_TagName": "dentistry",
+				"_Count": "103",
+				"_ExcerptPostId": "3741",
+				"_WikiPostId": "3740"
+			},
+			{
+				"_Id": "3",
+				"_TagName": "nutrition",
+				"_Count": "331",
+				"_ExcerptPostId": "133",
+				"_WikiPostId": "132"
+			},
+			{
+				"_Id": "4",
+				"_TagName": "life-expectancy",
+				"_Count": "8"
+			},
+			{
+				"_Id": "5",
+				"_TagName": "disease",
+				"_Count": "25"
+			},
+			{
+				"_Id": "6",
+				"_TagName": "statistics",
+				"_Count": "35"
+			},
+			{
+				"_Id": "7",
+				"_TagName": "immune-system",
+				"_Count": "52",
+				"_ExcerptPostId": "579",
+				"_WikiPostId": "578"
+			},
+			{
+				"_Id": "9",
+				"_TagName": "drug-metabolism",
+				"_Count": "14",
+				"_ExcerptPostId": "184",
+				"_WikiPostId": "183"
+			},
+			{
+				"_Id": "10",
+				"_TagName": "wound",
+				"_Count": "11"
+			},
+			{
+				"_Id": "11",
+				"_TagName": "removal",
+				"_Count": "11"
+			},
+			{
+				"_Id": "15",
+				"_TagName": "ophthalmology",
+				"_Count": "17"
+			},
+			{
+				"_Id": "16",
+				"_TagName": "eye",
+				"_Count": "87",
+				"_ExcerptPostId": "130",
+				"_WikiPostId": "129"
+			},
+			{
+				"_Id": "18",
+				"_TagName": "kidney-stones",
+				"_Count": "6"
+			},
+			{
+				"_Id": "19",
+				"_TagName": "renal",
+				"_Count": "9",
+				"_ExcerptPostId": "211",
+				"_WikiPostId": "210"
+			},
+			{
+				"_Id": "20",
+				"_TagName": "urology",
+				"_Count": "10",
+				"_ExcerptPostId": "4752",
+				"_WikiPostId": "4751"
+			},
+			{
+				"_Id": "22",
+				"_TagName": "clinical-study",
+				"_Count": "8",
+				"_ExcerptPostId": "20",
+				"_WikiPostId": "19"
+			},
+			{
+				"_Id": "23",
+				"_TagName": "wpw-syndrome",
+				"_Count": "2"
+			},
+			{
+				"_Id": "24",
+				"_TagName": "mri",
+				"_Count": "24"
+			},
+			{
+				"_Id": "25",
+				"_TagName": "voice",
+				"_Count": "3"
+			},
+			{
+				"_Id": "28",
+				"_TagName": "computers",
+				"_Count": "39",
+				"_ExcerptPostId": "3826",
+				"_WikiPostId": "3825"
+			},
+			{
+				"_Id": "29",
+				"_TagName": "ankle",
+				"_Count": "9"
+			},
+			{
+				"_Id": "30",
+				"_TagName": "ergonomics",
+				"_Count": "19"
+			},
+			{
+				"_Id": "31",
+				"_TagName": "cellular-phone",
+				"_Count": "7"
+			},
+			{
+				"_Id": "32",
+				"_TagName": "tendinopathy",
+				"_Count": "65",
+				"_ExcerptPostId": "164",
+				"_WikiPostId": "163"
+			},
+			{
+				"_Id": "34",
+				"_TagName": "tendons",
+				"_Count": "33"
+			},
+			{
+				"_Id": "35",
+				"_TagName": "dexamethasone",
+				"_Count": "1",
+				"_ExcerptPostId": "87",
+				"_WikiPostId": "86"
+			},
+			{
+				"_Id": "36",
+				"_TagName": "iontophoresis",
+				"_Count": "1",
+				"_ExcerptPostId": "90",
+				"_WikiPostId": "89"
+			},
+			{
+				"_Id": "38",
+				"_TagName": "tendinitis",
+				"_Count": "13",
+				"_ExcerptPostId": "182",
+				"_WikiPostId": "181"
+			},
+			{
+				"_Id": "39",
+				"_TagName": "otolaryngology",
+				"_Count": "14",
+				"_ExcerptPostId": "3831",
+				"_WikiPostId": "3830"
+			},
+			{
+				"_Id": "40",
+				"_TagName": "infection",
+				"_Count": "81",
+				"_ExcerptPostId": "188",
+				"_WikiPostId": "187"
+			},
+			{
+				"_Id": "41",
+				"_TagName": "treatment",
+				"_Count": "63",
+				"_ExcerptPostId": "4691",
+				"_WikiPostId": "4690"
+			},
+			{
+				"_Id": "42",
+				"_TagName": "diabetes",
+				"_Count": "40",
+				"_ExcerptPostId": "48",
+				"_WikiPostId": "47"
+			},
+			{
+				"_Id": "44",
+				"_TagName": "micronutrients",
+				"_Count": "65",
+				"_ExcerptPostId": "796",
+				"_WikiPostId": "795"
+			},
+			{
+				"_Id": "45",
+				"_TagName": "medications",
+				"_Count": "193",
+				"_ExcerptPostId": "1735",
+				"_WikiPostId": "1734"
+			},
+			{
+				"_Id": "46",
+				"_TagName": "vaccination",
+				"_Count": "35",
+				"_ExcerptPostId": "3925",
+				"_WikiPostId": "3924"
+			},
+			{
+				"_Id": "47",
+				"_TagName": "infant",
+				"_Count": "11",
+				"_ExcerptPostId": "4748",
+				"_WikiPostId": "4747"
+			},
+			{
+				"_Id": "49",
+				"_TagName": "wound-care",
+				"_Count": "15"
+			},
+			{
+				"_Id": "50",
+				"_TagName": "hygiene",
+				"_Count": "25",
+				"_ExcerptPostId": "4728",
+				"_WikiPostId": "4727"
+			},
+			{
+				"_Id": "51",
+				"_TagName": "caffeine",
+				"_Count": "28",
+				"_ExcerptPostId": "4730",
+				"_WikiPostId": "4729"
+			},
+			{
+				"_Id": "52",
+				"_TagName": "bacteria",
+				"_Count": "32"
+			},
+			{
+				"_Id": "53",
+				"_TagName": "essential-oil",
+				"_Count": "5"
+			},
+			{
+				"_Id": "56",
+				"_TagName": "emergency",
+				"_Count": "16",
+				"_ExcerptPostId": "4244",
+				"_WikiPostId": "4243"
+			},
+			{
+				"_Id": "57",
+				"_TagName": "first-aid",
+				"_Count": "27",
+				"_ExcerptPostId": "119",
+				"_WikiPostId": "118"
+			},
+			{
+				"_Id": "58",
+				"_TagName": "spine",
+				"_Count": "20"
+			},
+			{
+				"_Id": "59",
+				"_TagName": "dermatology",
+				"_Count": "128",
+				"_ExcerptPostId": "700",
+				"_WikiPostId": "699"
+			},
+			{
+				"_Id": "60",
+				"_TagName": "sleep-apnea",
+				"_Count": "5"
+			},
+			{
+				"_Id": "61",
+				"_TagName": "cough",
+				"_Count": "11"
+			},
+			{
+				"_Id": "62",
+				"_TagName": "diet",
+				"_Count": "182",
+				"_ExcerptPostId": "299",
+				"_WikiPostId": "298"
+			},
+			{
+				"_Id": "63",
+				"_TagName": "vegetarianism",
+				"_Count": "13",
+				"_ExcerptPostId": "169",
+				"_WikiPostId": "168"
+			},
+			{
+				"_Id": "64",
+				"_TagName": "blood-tests",
+				"_Count": "61"
+			},
+			{
+				"_Id": "65",
+				"_TagName": "liver",
+				"_Count": "20"
+			},
+			{
+				"_Id": "69",
+				"_TagName": "laser",
+				"_Count": "4"
+			},
+			{
+				"_Id": "72",
+				"_TagName": "urinary-system",
+				"_Count": "8"
+			},
+			{
+				"_Id": "73",
+				"_TagName": "medication",
+				"_Count": "18",
+				"_ExcerptPostId": "186",
+				"_WikiPostId": "185"
+			},
+			{
+				"_Id": "75",
+				"_TagName": "muscle",
+				"_Count": "41"
+			},
+			{
+				"_Id": "76",
+				"_TagName": "sports",
+				"_Count": "25"
+			},
+			{
+				"_Id": "77",
+				"_TagName": "migraine",
+				"_Count": "15"
+			},
+			{
+				"_Id": "78",
+				"_TagName": "headache",
+				"_Count": "28"
+			},
+			{
+				"_Id": "80",
+				"_TagName": "dosage",
+				"_Count": "12"
+			},
+			{
+				"_Id": "81",
+				"_TagName": "medical-device",
+				"_Count": "23",
+				"_ExcerptPostId": "127",
+				"_WikiPostId": "126"
+			},
+			{
+				"_Id": "83",
+				"_TagName": "asthma",
+				"_Count": "12"
+			},
+			{
+				"_Id": "86",
+				"_TagName": "alopecia",
+				"_Count": "4",
+				"_ExcerptPostId": "111",
+				"_WikiPostId": "110"
+			},
+			{
+				"_Id": "87",
+				"_TagName": "hairloss",
+				"_Count": "24"
+			},
+			{
+				"_Id": "89",
+				"_TagName": "sugar",
+				"_Count": "36",
+				"_ExcerptPostId": "301",
+				"_WikiPostId": "300"
+			},
+			{
+				"_Id": "90",
+				"_TagName": "steroids",
+				"_Count": "14",
+				"_ExcerptPostId": "720",
+				"_WikiPostId": "719"
+			},
+			{
+				"_Id": "94",
+				"_TagName": "sleep",
+				"_Count": "132",
+				"_ExcerptPostId": "4049",
+				"_WikiPostId": "4048"
+			},
+			{
+				"_Id": "95",
+				"_TagName": "posture",
+				"_Count": "19",
+				"_ExcerptPostId": "4734",
+				"_WikiPostId": "4733"
+			},
+			{
+				"_Id": "98",
+				"_TagName": "optometry",
+				"_Count": "16",
+				"_ExcerptPostId": "3812",
+				"_WikiPostId": "3811"
+			},
+			{
+				"_Id": "99",
+				"_TagName": "surgery",
+				"_Count": "52",
+				"_ExcerptPostId": "4689",
+				"_WikiPostId": "4688"
+			},
+			{
+				"_Id": "107",
+				"_TagName": "calcium",
+				"_Count": "7",
+				"_ExcerptPostId": "1730",
+				"_WikiPostId": "1729"
+			},
+			{
+				"_Id": "109",
+				"_TagName": "dairy",
+				"_Count": "10"
+			},
+			{
+				"_Id": "117",
+				"_TagName": "exercise",
+				"_Count": "76",
+				"_ExcerptPostId": "3921",
+				"_WikiPostId": "3920"
+			},
+			{
+				"_Id": "119",
+				"_TagName": "injections",
+				"_Count": "19"
+			},
+			{
+				"_Id": "121",
+				"_TagName": "cryotherapy",
+				"_Count": "9"
+			},
+			{
+				"_Id": "123",
+				"_TagName": "side-effects",
+				"_Count": "100",
+				"_ExcerptPostId": "195",
+				"_WikiPostId": "194"
+			},
+			{
+				"_Id": "124",
+				"_TagName": "pain",
+				"_Count": "102",
+				"_ExcerptPostId": "303",
+				"_WikiPostId": "302"
+			},
+			{
+				"_Id": "125",
+				"_TagName": "hand",
+				"_Count": "17"
+			},
+			{
+				"_Id": "126",
+				"_TagName": "wrist",
+				"_Count": "10",
+				"_ExcerptPostId": "209",
+				"_WikiPostId": "208"
+			},
+			{
+				"_Id": "127",
+				"_TagName": "pill",
+				"_Count": "4"
+			},
+			{
+				"_Id": "128",
+				"_TagName": "vomit",
+				"_Count": "12"
+			},
+			{
+				"_Id": "129",
+				"_TagName": "carpal-tunnel-syndrome",
+				"_Count": "2",
+				"_ExcerptPostId": "5391",
+				"_WikiPostId": "5390"
+			},
+			{
+				"_Id": "131",
+				"_TagName": "senses",
+				"_Count": "4"
+			},
+			{
+				"_Id": "132",
+				"_TagName": "swimming",
+				"_Count": "5"
+			},
+			{
+				"_Id": "133",
+				"_TagName": "back",
+				"_Count": "23"
+			},
+			{
+				"_Id": "135",
+				"_TagName": "hypertension",
+				"_Count": "5"
+			},
+			{
+				"_Id": "136",
+				"_TagName": "wisdom-teeth",
+				"_Count": "4"
+			},
+			{
+				"_Id": "137",
+				"_TagName": "hips",
+				"_Count": "4"
+			},
+			{
+				"_Id": "138",
+				"_TagName": "cancer",
+				"_Count": "68",
+				"_ExcerptPostId": "3913",
+				"_WikiPostId": "3912"
+			},
+			{
+				"_Id": "141",
+				"_TagName": "weight",
+				"_Count": "46",
+				"_ExcerptPostId": "3915",
+				"_WikiPostId": "3914"
+			},
+			{
+				"_Id": "143",
+				"_TagName": "quantified-self",
+				"_Count": "7"
+			},
+			{
+				"_Id": "144",
+				"_TagName": "body-fat",
+				"_Count": "34",
+				"_ExcerptPostId": "8810",
+				"_WikiPostId": "8809"
+			},
+			{
+				"_Id": "145",
+				"_TagName": "eczema",
+				"_Count": "6"
+			},
+			{
+				"_Id": "146",
+				"_TagName": "rash",
+				"_Count": "6"
+			},
+			{
+				"_Id": "147",
+				"_TagName": "knee",
+				"_Count": "14"
+			},
+			{
+				"_Id": "151",
+				"_TagName": "burns",
+				"_Count": "9"
+			},
+			{
+				"_Id": "152",
+				"_TagName": "home-remedies",
+				"_Count": "17"
+			},
+			{
+				"_Id": "154",
+				"_TagName": "feet",
+				"_Count": "16",
+				"_ExcerptPostId": "4754",
+				"_WikiPostId": "4753"
+			},
+			{
+				"_Id": "155",
+				"_TagName": "fibre",
+				"_Count": "4"
+			},
+			{
+				"_Id": "158",
+				"_TagName": "hearing",
+				"_Count": "30",
+				"_ExcerptPostId": "3917",
+				"_WikiPostId": "3916"
+			},
+			{
+				"_Id": "159",
+				"_TagName": "labeling",
+				"_Count": "8"
+			},
+			{
+				"_Id": "164",
+				"_TagName": "aging",
+				"_Count": "11"
+			},
+			{
+				"_Id": "165",
+				"_TagName": "sanitation",
+				"_Count": "5"
+			},
+			{
+				"_Id": "167",
+				"_TagName": "cpr",
+				"_Count": "7"
+			},
+			{
+				"_Id": "168",
+				"_TagName": "research",
+				"_Count": "50"
+			},
+			{
+				"_Id": "169",
+				"_TagName": "treatment-options",
+				"_Count": "37"
+			},
+			{
+				"_Id": "171",
+				"_TagName": "iron",
+				"_Count": "7"
+			},
+			{
+				"_Id": "173",
+				"_TagName": "folk-medicine",
+				"_Count": "3"
+			},
+			{
+				"_Id": "174",
+				"_TagName": "traditional-medicine",
+				"_Count": "8"
+			},
+			{
+				"_Id": "175",
+				"_TagName": "nose",
+				"_Count": "25"
+			},
+			{
+				"_Id": "176",
+				"_TagName": "pulmonology",
+				"_Count": "9"
+			},
+			{
+				"_Id": "177",
+				"_TagName": "scientific-method",
+				"_Count": "6"
+			},
+			{
+				"_Id": "180",
+				"_TagName": "data",
+				"_Count": "7",
+				"_ExcerptPostId": "1831",
+				"_WikiPostId": "1830"
+			},
+			{
+				"_Id": "181",
+				"_TagName": "instruments",
+				"_Count": "3"
+			},
+			{
+				"_Id": "182",
+				"_TagName": "air-quality",
+				"_Count": "15"
+			},
+			{
+				"_Id": "183",
+				"_TagName": "moisturize",
+				"_Count": "7"
+			},
+			{
+				"_Id": "184",
+				"_TagName": "oil-of-skin",
+				"_Count": "9"
+			},
+			{
+				"_Id": "185",
+				"_TagName": "alcohol",
+				"_Count": "42",
+				"_ExcerptPostId": "4708",
+				"_WikiPostId": "4707"
+			},
+			{
+				"_Id": "186",
+				"_TagName": "pediatrics",
+				"_Count": "27",
+				"_ExcerptPostId": "3575",
+				"_WikiPostId": "3574"
+			},
+			{
+				"_Id": "188",
+				"_TagName": "prescription",
+				"_Count": "22"
+			},
+			{
+				"_Id": "189",
+				"_TagName": "antibiotics",
+				"_Count": "24"
+			},
+			{
+				"_Id": "190",
+				"_TagName": "common-cold",
+				"_Count": "38",
+				"_ExcerptPostId": "581",
+				"_WikiPostId": "580"
+			},
+			{
+				"_Id": "191",
+				"_TagName": "pregnancy",
+				"_Count": "53",
+				"_ExcerptPostId": "3828",
+				"_WikiPostId": "3827"
+			},
+			{
+				"_Id": "192",
+				"_TagName": "smoking",
+				"_Count": "43"
+			},
+			{
+				"_Id": "194",
+				"_TagName": "history",
+				"_Count": "12"
+			},
+			{
+				"_Id": "195",
+				"_TagName": "blood-pressure",
+				"_Count": "56",
+				"_ExcerptPostId": "4493",
+				"_WikiPostId": "4492"
+			},
+			{
+				"_Id": "199",
+				"_TagName": "autism",
+				"_Count": "8"
+			},
+			{
+				"_Id": "200",
+				"_TagName": "placebo",
+				"_Count": "6"
+			},
+			{
+				"_Id": "201",
+				"_TagName": "stress",
+				"_Count": "21"
+			},
+			{
+				"_Id": "210",
+				"_TagName": "heredity",
+				"_Count": "6"
+			},
+			{
+				"_Id": "211",
+				"_TagName": "cardiovascular-disease",
+				"_Count": "21"
+			},
+			{
+				"_Id": "212",
+				"_TagName": "musculoskeletal-system",
+				"_Count": "12"
+			},
+			{
+				"_Id": "213",
+				"_TagName": "cardiology",
+				"_Count": "49",
+				"_ExcerptPostId": "3923",
+				"_WikiPostId": "3922"
+			},
+			{
+				"_Id": "214",
+				"_TagName": "disinfection",
+				"_Count": "5"
+			},
+			{
+				"_Id": "216",
+				"_TagName": "artificial",
+				"_Count": "3"
+			},
+			{
+				"_Id": "218",
+				"_TagName": "resistance",
+				"_Count": "10"
+			},
+			{
+				"_Id": "219",
+				"_TagName": "genetic-engineering",
+				"_Count": "3"
+			},
+			{
+				"_Id": "220",
+				"_TagName": "sti",
+				"_Count": "9",
+				"_ExcerptPostId": "572",
+				"_WikiPostId": "571"
+			},
+			{
+				"_Id": "221",
+				"_TagName": "contraception",
+				"_Count": "17",
+				"_ExcerptPostId": "1024",
+				"_WikiPostId": "1023"
+			},
+			{
+				"_Id": "222",
+				"_TagName": "sex",
+				"_Count": "36",
+				"_ExcerptPostId": "4346",
+				"_WikiPostId": "4345"
+			},
+			{
+				"_Id": "229",
+				"_TagName": "tea",
+				"_Count": "14"
+			},
+			{
+				"_Id": "230",
+				"_TagName": "breathing",
+				"_Count": "31"
+			},
+			{
+				"_Id": "231",
+				"_TagName": "oxygenation",
+				"_Count": "13"
+			},
+			{
+				"_Id": "232",
+				"_TagName": "overdose",
+				"_Count": "4"
+			},
+			{
+				"_Id": "233",
+				"_TagName": "iron-supplements",
+				"_Count": "8"
+			},
+			{
+				"_Id": "238",
+				"_TagName": "head-trauma",
+				"_Count": "3"
+			},
+			{
+				"_Id": "240",
+				"_TagName": "water",
+				"_Count": "59",
+				"_ExcerptPostId": "4724",
+				"_WikiPostId": "4723"
+			},
+			{
+				"_Id": "241",
+				"_TagName": "biological-parameter",
+				"_Count": "14"
+			},
+			{
+				"_Id": "243",
+				"_TagName": "virology",
+				"_Count": "5"
+			},
+			{
+				"_Id": "244",
+				"_TagName": "influenza",
+				"_Count": "20"
+			},
+			{
+				"_Id": "245",
+				"_TagName": "blood",
+				"_Count": "75",
+				"_ExcerptPostId": "4704",
+				"_WikiPostId": "4703"
+			},
+			{
+				"_Id": "246",
+				"_TagName": "donor",
+				"_Count": "6"
+			},
+			{
+				"_Id": "247",
+				"_TagName": "lenses",
+				"_Count": "5",
+				"_ExcerptPostId": "1733",
+				"_WikiPostId": "1732"
+			},
+			{
+				"_Id": "248",
+				"_TagName": "hematology",
+				"_Count": "11",
+				"_ExcerptPostId": "740",
+				"_WikiPostId": "739"
+			},
+			{
+				"_Id": "249",
+				"_TagName": "medical-records",
+				"_Count": "13"
+			},
+			{
+				"_Id": "251",
+				"_TagName": "toxicity",
+				"_Count": "26",
+				"_ExcerptPostId": "4710",
+				"_WikiPostId": "4709"
+			},
+			{
+				"_Id": "253",
+				"_TagName": "radiologic-studies",
+				"_Count": "8"
+			},
+			{
+				"_Id": "254",
+				"_TagName": "stomach",
+				"_Count": "33"
+			},
+			{
+				"_Id": "255",
+				"_TagName": "oil",
+				"_Count": "18"
+			},
+			{
+				"_Id": "256",
+				"_TagName": "digestion",
+				"_Count": "83",
+				"_ExcerptPostId": "4684",
+				"_WikiPostId": "4683"
+			},
+			{
+				"_Id": "257",
+				"_TagName": "neurology",
+				"_Count": "62",
+				"_ExcerptPostId": "4682",
+				"_WikiPostId": "4681"
+			},
+			{
+				"_Id": "259",
+				"_TagName": "venom",
+				"_Count": "5"
+			},
+			{
+				"_Id": "267",
+				"_TagName": "orthopedics",
+				"_Count": "24",
+				"_ExcerptPostId": "4750",
+				"_WikiPostId": "4749"
+			},
+			{
+				"_Id": "269",
+				"_TagName": "addiction",
+				"_Count": "12"
+			},
+			{
+				"_Id": "272",
+				"_TagName": "marijuana",
+				"_Count": "8"
+			},
+			{
+				"_Id": "273",
+				"_TagName": "type-1-diabetes",
+				"_Count": "11"
+			},
+			{
+				"_Id": "275",
+				"_TagName": "repetitive-strain-injury",
+				"_Count": "13"
+			},
+			{
+				"_Id": "277",
+				"_TagName": "plastic",
+				"_Count": "5"
+			},
+			{
+				"_Id": "278",
+				"_TagName": "position",
+				"_Count": "9"
+			},
+			{
+				"_Id": "281",
+				"_TagName": "chemical",
+				"_Count": "11"
+			},
+			{
+				"_Id": "282",
+				"_TagName": "fish",
+				"_Count": "12",
+				"_ExcerptPostId": "11166",
+				"_WikiPostId": "11165"
+			},
+			{
+				"_Id": "284",
+				"_TagName": "typhoid",
+				"_Count": "4"
+			},
+			{
+				"_Id": "292",
+				"_TagName": "post-surgical",
+				"_Count": "7"
+			},
+			{
+				"_Id": "293",
+				"_TagName": "brain",
+				"_Count": "66",
+				"_ExcerptPostId": "3834",
+				"_WikiPostId": "3833"
+			},
+			{
+				"_Id": "294",
+				"_TagName": "mold",
+				"_Count": "4"
+			},
+			{
+				"_Id": "295",
+				"_TagName": "acne",
+				"_Count": "23",
+				"_ExcerptPostId": "4756",
+				"_WikiPostId": "4755"
+			},
+			{
+				"_Id": "300",
+				"_TagName": "symptoms",
+				"_Count": "36",
+				"_ExcerptPostId": "4732",
+				"_WikiPostId": "4731"
+			},
+			{
+				"_Id": "301",
+				"_TagName": "refined-foods",
+				"_Count": "3",
+				"_ExcerptPostId": "627",
+				"_WikiPostId": "626"
+			},
+			{
+				"_Id": "302",
+				"_TagName": "cooking",
+				"_Count": "9",
+				"_ExcerptPostId": "4758",
+				"_WikiPostId": "4757"
+			},
+			{
+				"_Id": "303",
+				"_TagName": "minerals",
+				"_Count": "10"
+			},
+			{
+				"_Id": "306",
+				"_TagName": "natural-remedy",
+				"_Count": "26",
+				"_ExcerptPostId": "5387",
+				"_WikiPostId": "5386"
+			},
+			{
+				"_Id": "309",
+				"_TagName": "injury",
+				"_Count": "27"
+			},
+			{
+				"_Id": "310",
+				"_TagName": "fruits",
+				"_Count": "20"
+			},
+			{
+				"_Id": "317",
+				"_TagName": "nerves",
+				"_Count": "16"
+			},
+			{
+				"_Id": "318",
+				"_TagName": "endocrinology",
+				"_Count": "45",
+				"_ExcerptPostId": "3919",
+				"_WikiPostId": "3918"
+			},
+			{
+				"_Id": "319",
+				"_TagName": "recreational-drugs",
+				"_Count": "14",
+				"_ExcerptPostId": "3767",
+				"_WikiPostId": "3766"
+			},
+			{
+				"_Id": "321",
+				"_TagName": "gallbladder",
+				"_Count": "8"
+			},
+			{
+				"_Id": "322",
+				"_TagName": "gastroenterology",
+				"_Count": "59",
+				"_ExcerptPostId": "4687",
+				"_WikiPostId": "4686"
+			},
+			{
+				"_Id": "327",
+				"_TagName": "deficiency",
+				"_Count": "6"
+			},
+			{
+				"_Id": "329",
+				"_TagName": "organic",
+				"_Count": "3"
+			},
+			{
+				"_Id": "333",
+				"_TagName": "numbness",
+				"_Count": "6",
+				"_ExcerptPostId": "686",
+				"_WikiPostId": "685"
+			},
+			{
+				"_Id": "334",
+				"_TagName": "tingling",
+				"_Count": "1",
+				"_ExcerptPostId": "688",
+				"_WikiPostId": "687"
+			},
+			{
+				"_Id": "335",
+				"_TagName": "sleep-cycles",
+				"_Count": "25",
+				"_ExcerptPostId": "4746",
+				"_WikiPostId": "4745"
+			},
+			{
+				"_Id": "336",
+				"_TagName": "hair",
+				"_Count": "26",
+				"_ExcerptPostId": "704",
+				"_WikiPostId": "703"
+			},
+			{
+				"_Id": "337",
+				"_TagName": "food-poisoning",
+				"_Count": "21",
+				"_ExcerptPostId": "698",
+				"_WikiPostId": "697"
+			},
+			{
+				"_Id": "339",
+				"_TagName": "toxins",
+				"_Count": "8"
+			},
+			{
+				"_Id": "341",
+				"_TagName": "gums",
+				"_Count": "10",
+				"_ExcerptPostId": "7662",
+				"_WikiPostId": "7661"
+			},
+			{
+				"_Id": "347",
+				"_TagName": "seizure",
+				"_Count": "11",
+				"_ExcerptPostId": "4744",
+				"_WikiPostId": "4743"
+			},
+			{
+				"_Id": "348",
+				"_TagName": "prevention",
+				"_Count": "49",
+				"_ExcerptPostId": "4706",
+				"_WikiPostId": "4705"
+			},
+			{
+				"_Id": "351",
+				"_TagName": "massage",
+				"_Count": "4"
+			},
+			{
+				"_Id": "353",
+				"_TagName": "calories",
+				"_Count": "16",
+				"_ExcerptPostId": "799",
+				"_WikiPostId": "798"
+			},
+			{
+				"_Id": "354",
+				"_TagName": "milk",
+				"_Count": "16"
+			},
+			{
+				"_Id": "356",
+				"_TagName": "allergy",
+				"_Count": "37",
+				"_ExcerptPostId": "4726",
+				"_WikiPostId": "4725"
+			},
+			{
+				"_Id": "357",
+				"_TagName": "lactose-intolerant",
+				"_Count": "4"
+			},
+			{
+				"_Id": "359",
+				"_TagName": "pollen",
+				"_Count": "7"
+			},
+			{
+				"_Id": "361",
+				"_TagName": "office",
+				"_Count": "4"
+			},
+			{
+				"_Id": "362",
+				"_TagName": "sexuality",
+				"_Count": "6"
+			},
+			{
+				"_Id": "363",
+				"_TagName": "salt",
+				"_Count": "17",
+				"_ExcerptPostId": "4742",
+				"_WikiPostId": "4741"
+			},
+			{
+				"_Id": "372",
+				"_TagName": "broken-bones",
+				"_Count": "11"
+			},
+			{
+				"_Id": "374",
+				"_TagName": "disorders",
+				"_Count": "7"
+			},
+			{
+				"_Id": "376",
+				"_TagName": "food-safety",
+				"_Count": "48"
+			},
+			{
+				"_Id": "377",
+				"_TagName": "diagnostics",
+				"_Count": "30"
+			},
+			{
+				"_Id": "378",
+				"_TagName": "terminology",
+				"_Count": "34"
+			},
+			{
+				"_Id": "381",
+				"_TagName": "testosterone",
+				"_Count": "7"
+			},
+			{
+				"_Id": "383",
+				"_TagName": "vegetable",
+				"_Count": "9",
+				"_ExcerptPostId": "11158",
+				"_WikiPostId": "11157"
+			},
+			{
+				"_Id": "384",
+				"_TagName": "deodorant",
+				"_Count": "3"
+			},
+			{
+				"_Id": "385",
+				"_TagName": "inhalation",
+				"_Count": "8"
+			},
+			{
+				"_Id": "387",
+				"_TagName": "glucose",
+				"_Count": "6"
+			},
+			{
+				"_Id": "389",
+				"_TagName": "depression",
+				"_Count": "21",
+				"_ExcerptPostId": "3134",
+				"_WikiPostId": "3133"
+			},
+			{
+				"_Id": "390",
+				"_TagName": "cognitive-science",
+				"_Count": "13"
+			},
+			{
+				"_Id": "393",
+				"_TagName": "oral-health",
+				"_Count": "30"
+			},
+			{
+				"_Id": "395",
+				"_TagName": "poison",
+				"_Count": "7",
+				"_ExcerptPostId": "7137",
+				"_WikiPostId": "7136"
+			},
+			{
+				"_Id": "396",
+				"_TagName": "sleep-deprivation",
+				"_Count": "16"
+			},
+			{
+				"_Id": "398",
+				"_TagName": "hepatitis",
+				"_Count": "7"
+			},
+			{
+				"_Id": "399",
+				"_TagName": "recovery",
+				"_Count": "11"
+			},
+			{
+				"_Id": "400",
+				"_TagName": "menstrual-cycle",
+				"_Count": "6"
+			},
+			{
+				"_Id": "401",
+				"_TagName": "psychosomatic-illness",
+				"_Count": "7",
+				"_ExcerptPostId": "1662",
+				"_WikiPostId": "1661"
+			},
+			{
+				"_Id": "404",
+				"_TagName": "nervous-system",
+				"_Count": "7"
+			},
+			{
+				"_Id": "405",
+				"_TagName": "metabolism",
+				"_Count": "17"
+			},
+			{
+				"_Id": "406",
+				"_TagName": "cholesterol",
+				"_Count": "11"
+			},
+			{
+				"_Id": "407",
+				"_TagName": "tumors",
+				"_Count": "9"
+			},
+			{
+				"_Id": "411",
+				"_TagName": "anxiety-disorders",
+				"_Count": "16"
+			},
+			{
+				"_Id": "413",
+				"_TagName": "proteins",
+				"_Count": "16"
+			},
+			{
+				"_Id": "414",
+				"_TagName": "amino-acids",
+				"_Count": "3"
+			},
+			{
+				"_Id": "417",
+				"_TagName": "virus",
+				"_Count": "23"
+			},
+			{
+				"_Id": "418",
+				"_TagName": "probiotics",
+				"_Count": "11",
+				"_ExcerptPostId": "1894",
+				"_WikiPostId": "1893"
+			},
+			{
+				"_Id": "421",
+				"_TagName": "weight-loss",
+				"_Count": "36"
+			},
+			{
+				"_Id": "425",
+				"_TagName": "food-addiction",
+				"_Count": "5"
+			},
+			{
+				"_Id": "429",
+				"_TagName": "herpes",
+				"_Count": "12"
+			},
+			{
+				"_Id": "430",
+				"_TagName": "non-vegetarianism",
+				"_Count": "2",
+				"_ExcerptPostId": "1169",
+				"_WikiPostId": "1168"
+			},
+			{
+				"_Id": "432",
+				"_TagName": "anaesthesia",
+				"_Count": "6"
+			},
+			{
+				"_Id": "434",
+				"_TagName": "electricity",
+				"_Count": "6"
+			},
+			{
+				"_Id": "435",
+				"_TagName": "soap",
+				"_Count": "3"
+			},
+			{
+				"_Id": "436",
+				"_TagName": "sun-burn",
+				"_Count": "2"
+			},
+			{
+				"_Id": "438",
+				"_TagName": "home-medical-equipment",
+				"_Count": "10"
+			},
+			{
+				"_Id": "439",
+				"_TagName": "bones",
+				"_Count": "15",
+				"_ExcerptPostId": "1728",
+				"_WikiPostId": "1727"
+			},
+			{
+				"_Id": "440",
+				"_TagName": "penis",
+				"_Count": "12"
+			},
+			{
+				"_Id": "441",
+				"_TagName": "death",
+				"_Count": "14"
+			},
+			{
+				"_Id": "445",
+				"_TagName": "mental-health",
+				"_Count": "96",
+				"_ExcerptPostId": "1670",
+				"_WikiPostId": "1669"
+			},
+			{
+				"_Id": "447",
+				"_TagName": "untagged",
+				"_Count": "4",
+				"_ExcerptPostId": "4738",
+				"_WikiPostId": "4737"
+			},
+			{
+				"_Id": "448",
+				"_TagName": "productivity",
+				"_Count": "4"
+			},
+			{
+				"_Id": "449",
+				"_TagName": "behavior",
+				"_Count": "5"
+			},
+			{
+				"_Id": "450",
+				"_TagName": "lifestyle",
+				"_Count": "34",
+				"_ExcerptPostId": "3824",
+				"_WikiPostId": "3823"
+			},
+			{
+				"_Id": "452",
+				"_TagName": "drug-withdrawal",
+				"_Count": "8"
+			},
+			{
+				"_Id": "455",
+				"_TagName": "heart-attack",
+				"_Count": "14"
+			},
+			{
+				"_Id": "456",
+				"_TagName": "angioplasty",
+				"_Count": "5"
+			},
+			{
+				"_Id": "457",
+				"_TagName": "sensors",
+				"_Count": "2"
+			},
+			{
+				"_Id": "458",
+				"_TagName": "radioactivity",
+				"_Count": "9"
+			},
+			{
+				"_Id": "463",
+				"_TagName": "health-informatics",
+				"_Count": "25"
+			},
+			{
+				"_Id": "465",
+				"_TagName": "heart-disease",
+				"_Count": "43",
+				"_ExcerptPostId": "8985",
+				"_WikiPostId": "8984"
+			},
+			{
+				"_Id": "468",
+				"_TagName": "diclofenac",
+				"_Count": "6"
+			},
+			{
+				"_Id": "471",
+				"_TagName": "sweat",
+				"_Count": "8"
+			},
+			{
+				"_Id": "474",
+				"_TagName": "infectious-diseases",
+				"_Count": "22"
+			},
+			{
+				"_Id": "475",
+				"_TagName": "rabies",
+				"_Count": "5"
+			},
+			{
+				"_Id": "476",
+				"_TagName": "lyme-disease",
+				"_Count": "2"
+			},
+			{
+				"_Id": "477",
+				"_TagName": "lungs",
+				"_Count": "33",
+				"_ExcerptPostId": "4736",
+				"_WikiPostId": "4735"
+			},
+			{
+				"_Id": "478",
+				"_TagName": "heart-transplant",
+				"_Count": "3"
+			},
+			{
+				"_Id": "479",
+				"_TagName": "autoimmune-disease",
+				"_Count": "22"
+			},
+			{
+				"_Id": "480",
+				"_TagName": "thyroid",
+				"_Count": "18",
+				"_ExcerptPostId": "4510",
+				"_WikiPostId": "4509"
+			},
+			{
+				"_Id": "481",
+				"_TagName": "urine",
+				"_Count": "11"
+			},
+			{
+				"_Id": "482",
+				"_TagName": "ear",
+				"_Count": "19",
+				"_ExcerptPostId": "4740",
+				"_WikiPostId": "4739"
+			},
+			{
+				"_Id": "483",
+				"_TagName": "food-supplements",
+				"_Count": "31"
+			},
+			{
+				"_Id": "485",
+				"_TagName": "light",
+				"_Count": "5"
+			},
+			{
+				"_Id": "486",
+				"_TagName": "adhd",
+				"_Count": "8",
+				"_ExcerptPostId": "3117",
+				"_WikiPostId": "3116"
+			},
+			{
+				"_Id": "487",
+				"_TagName": "antidepressants",
+				"_Count": "7"
+			},
+			{
+				"_Id": "488",
+				"_TagName": "obsessive-compulsive",
+				"_Count": "3",
+				"_ExcerptPostId": "3115",
+				"_WikiPostId": "3114"
+			},
+			{
+				"_Id": "494",
+				"_TagName": "anorexia",
+				"_Count": "2"
+			},
+			{
+				"_Id": "495",
+				"_TagName": "eating-disorder",
+				"_Count": "2"
+			},
+			{
+				"_Id": "497",
+				"_TagName": "practice-of-medicine",
+				"_Count": "29",
+				"_ExcerptPostId": "3244",
+				"_WikiPostId": "3243"
+			},
+			{
+				"_Id": "498",
+				"_TagName": "disease-transmission",
+				"_Count": "32",
+				"_ExcerptPostId": "4380",
+				"_WikiPostId": "4379"
+			},
+			{
+				"_Id": "499",
+				"_TagName": "pathophysiology",
+				"_Count": "12",
+				"_ExcerptPostId": "3277",
+				"_WikiPostId": "3276"
+			},
+			{
+				"_Id": "501",
+				"_TagName": "epicondylitis",
+				"_Count": "29",
+				"_ExcerptPostId": "5359",
+				"_WikiPostId": "5358"
+			},
+			{
+				"_Id": "502",
+				"_TagName": "blood-circulation",
+				"_Count": "22"
+			},
+			{
+				"_Id": "503",
+				"_TagName": "congenital",
+				"_Count": "6"
+			},
+			{
+				"_Id": "505",
+				"_TagName": "health-outcomes",
+				"_Count": "5"
+			},
+			{
+				"_Id": "506",
+				"_TagName": "angina",
+				"_Count": "4",
+				"_ExcerptPostId": "8983",
+				"_WikiPostId": "8982"
+			},
+			{
+				"_Id": "508",
+				"_TagName": "stroke",
+				"_Count": "7"
+			},
+			{
+				"_Id": "509",
+				"_TagName": "angiography",
+				"_Count": "4"
+			},
+			{
+				"_Id": "510",
+				"_TagName": "stress-test",
+				"_Count": "4"
+			},
+			{
+				"_Id": "512",
+				"_TagName": "stem-cells",
+				"_Count": "4"
+			},
+			{
+				"_Id": "513",
+				"_TagName": "fatigue",
+				"_Count": "14"
+			},
+			{
+				"_Id": "517",
+				"_TagName": "irritable-bowel-syndrome",
+				"_Count": "10"
+			},
+			{
+				"_Id": "518",
+				"_TagName": "triglycerides",
+				"_Count": "2"
+			},
+			{
+				"_Id": "519",
+				"_TagName": "lipids",
+				"_Count": "4"
+			},
+			{
+				"_Id": "520",
+				"_TagName": "scoliosis",
+				"_Count": "4"
+			},
+			{
+				"_Id": "521",
+				"_TagName": "breastfeeding",
+				"_Count": "7"
+			},
+			{
+				"_Id": "522",
+				"_TagName": "miscarriage",
+				"_Count": "3"
+			},
+			{
+				"_Id": "523",
+				"_TagName": "vision",
+				"_Count": "20"
+			},
+			{
+				"_Id": "524",
+				"_TagName": "body-weight",
+				"_Count": "19"
+			},
+			{
+				"_Id": "525",
+				"_TagName": "reproduction",
+				"_Count": "10"
+			},
+			{
+				"_Id": "526",
+				"_TagName": "health-education",
+				"_Count": "20"
+			},
+			{
+				"_Id": "527",
+				"_TagName": "bath",
+				"_Count": "3"
+			},
+			{
+				"_Id": "529",
+				"_TagName": "bone-marrow",
+				"_Count": "3"
+			},
+			{
+				"_Id": "531",
+				"_TagName": "evolution",
+				"_Count": "4"
+			},
+			{
+				"_Id": "532",
+				"_TagName": "chickenpox",
+				"_Count": "5"
+			},
+			{
+				"_Id": "533",
+				"_TagName": "parasites",
+				"_Count": "7"
+			},
+			{
+				"_Id": "534",
+				"_TagName": "epidemiology",
+				"_Count": "4"
+			},
+			{
+				"_Id": "535",
+				"_TagName": "hiv",
+				"_Count": "11"
+			},
+			{
+				"_Id": "536",
+				"_TagName": "diagnosis",
+				"_Count": "19"
+			},
+			{
+				"_Id": "537",
+				"_TagName": "memory",
+				"_Count": "14"
+			},
+			{
+				"_Id": "539",
+				"_TagName": "birth-defect",
+				"_Count": "2"
+			},
+			{
+				"_Id": "542",
+				"_TagName": "shingles",
+				"_Count": "3"
+			},
+			{
+				"_Id": "543",
+				"_TagName": "fever",
+				"_Count": "10"
+			},
+			{
+				"_Id": "544",
+				"_TagName": "ulcers",
+				"_Count": "5"
+			},
+			{
+				"_Id": "546",
+				"_TagName": "medical-imaging",
+				"_Count": "14"
+			},
+			{
+				"_Id": "548",
+				"_TagName": "inflammation",
+				"_Count": "14"
+			},
+			{
+				"_Id": "549",
+				"_TagName": "nausea",
+				"_Count": "7"
+			},
+			{
+				"_Id": "552",
+				"_TagName": "mosquito",
+				"_Count": "7"
+			},
+			{
+				"_Id": "554",
+				"_TagName": "allergen",
+				"_Count": "8"
+			},
+			{
+				"_Id": "555",
+				"_TagName": "stitches",
+				"_Count": "4"
+			},
+			{
+				"_Id": "557",
+				"_TagName": "syncope",
+				"_Count": "4",
+				"_ExcerptPostId": "3853",
+				"_WikiPostId": "3852"
+			},
+			{
+				"_Id": "558",
+				"_TagName": "blood-donation",
+				"_Count": "19",
+				"_ExcerptPostId": "3931",
+				"_WikiPostId": "3930"
+			},
+			{
+				"_Id": "562",
+				"_TagName": "travel",
+				"_Count": "7"
+			},
+			{
+				"_Id": "563",
+				"_TagName": "mechanical-ventilation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "564",
+				"_TagName": "achromotrichia",
+				"_Count": "1",
+				"_ExcerptPostId": "3958",
+				"_WikiPostId": "3957"
+			},
+			{
+				"_Id": "565",
+				"_TagName": "liquids",
+				"_Count": "6"
+			},
+			{
+				"_Id": "566",
+				"_TagName": "arthritis",
+				"_Count": "12"
+			},
+			{
+				"_Id": "567",
+				"_TagName": "tuberculosis",
+				"_Count": "8"
+			},
+			{
+				"_Id": "568",
+				"_TagName": "crohns",
+				"_Count": "7"
+			},
+			{
+				"_Id": "569",
+				"_TagName": "alzheimers",
+				"_Count": "10"
+			},
+			{
+				"_Id": "570",
+				"_TagName": "hyperthyroid",
+				"_Count": "8"
+			},
+			{
+				"_Id": "571",
+				"_TagName": "hypothyroid",
+				"_Count": "8"
+			},
+			{
+				"_Id": "574",
+				"_TagName": "gynaecology",
+				"_Count": "12",
+				"_ExcerptPostId": "4047",
+				"_WikiPostId": "4046"
+			},
+			{
+				"_Id": "575",
+				"_TagName": "hypnotherapy",
+				"_Count": "2",
+				"_ExcerptPostId": "4071",
+				"_WikiPostId": "4070"
+			},
+			{
+				"_Id": "576",
+				"_TagName": "magnesium",
+				"_Count": "6"
+			},
+			{
+				"_Id": "577",
+				"_TagName": "supplement",
+				"_Count": "15"
+			},
+			{
+				"_Id": "578",
+				"_TagName": "height",
+				"_Count": "7"
+			},
+			{
+				"_Id": "580",
+				"_TagName": "trauma",
+				"_Count": "5"
+			},
+			{
+				"_Id": "581",
+				"_TagName": "meditation",
+				"_Count": "6"
+			},
+			{
+				"_Id": "584",
+				"_TagName": "measurement",
+				"_Count": "17"
+			},
+			{
+				"_Id": "585",
+				"_TagName": "tenocyte",
+				"_Count": "2"
+			},
+			{
+				"_Id": "586",
+				"_TagName": "collagen",
+				"_Count": "6"
+			},
+			{
+				"_Id": "596",
+				"_TagName": "retainers",
+				"_Count": "4"
+			},
+			{
+				"_Id": "598",
+				"_TagName": "legal",
+				"_Count": "9"
+			},
+			{
+				"_Id": "600",
+				"_TagName": "hospital",
+				"_Count": "5"
+			},
+			{
+				"_Id": "607",
+				"_TagName": "test",
+				"_Count": "8"
+			},
+			{
+				"_Id": "609",
+				"_TagName": "zika-virus",
+				"_Count": "5",
+				"_ExcerptPostId": "5389",
+				"_WikiPostId": "5388"
+			},
+			{
+				"_Id": "610",
+				"_TagName": "microcephaly",
+				"_Count": "2",
+				"_ExcerptPostId": "5384",
+				"_WikiPostId": "5383"
+			},
+			{
+				"_Id": "613",
+				"_TagName": "hemorrhoids",
+				"_Count": "4"
+			},
+			{
+				"_Id": "615",
+				"_TagName": "microwaves",
+				"_Count": "4",
+				"_ExcerptPostId": "11160",
+				"_WikiPostId": "11159"
+			},
+			{
+				"_Id": "616",
+				"_TagName": "naps",
+				"_Count": "3"
+			},
+			{
+				"_Id": "621",
+				"_TagName": "coffee",
+				"_Count": "8"
+			},
+			{
+				"_Id": "622",
+				"_TagName": "hydration",
+				"_Count": "11"
+			},
+			{
+				"_Id": "625",
+				"_TagName": "dementia",
+				"_Count": "6"
+			},
+			{
+				"_Id": "626",
+				"_TagName": "genetics",
+				"_Count": "10"
+			},
+			{
+				"_Id": "627",
+				"_TagName": "prp",
+				"_Count": "3"
+			},
+			{
+				"_Id": "629",
+				"_TagName": "occupational-therapy",
+				"_Count": "1",
+				"_ExcerptPostId": "5158",
+				"_WikiPostId": "5157"
+			},
+			{
+				"_Id": "631",
+				"_TagName": "itching",
+				"_Count": "6"
+			},
+			{
+				"_Id": "632",
+				"_TagName": "autologous-blood-inject",
+				"_Count": "3"
+			},
+			{
+				"_Id": "634",
+				"_TagName": "herpes-simplex",
+				"_Count": "3",
+				"_ExcerptPostId": "5403",
+				"_WikiPostId": "5402"
+			},
+			{
+				"_Id": "635",
+				"_TagName": "fibromyalgia",
+				"_Count": "7",
+				"_ExcerptPostId": "5405",
+				"_WikiPostId": "5404"
+			},
+			{
+				"_Id": "636",
+				"_TagName": "physiology",
+				"_Count": "16"
+			},
+			{
+				"_Id": "637",
+				"_TagName": "differential-diagnosis",
+				"_Count": "8",
+				"_ExcerptPostId": "5437",
+				"_WikiPostId": "5436"
+			},
+			{
+				"_Id": "638",
+				"_TagName": "breast",
+				"_Count": "7"
+			},
+			{
+				"_Id": "639",
+				"_TagName": "clothes",
+				"_Count": "7"
+			},
+			{
+				"_Id": "640",
+				"_TagName": "swelling",
+				"_Count": "5"
+			},
+			{
+				"_Id": "641",
+				"_TagName": "yeast",
+				"_Count": "3"
+			},
+			{
+				"_Id": "644",
+				"_TagName": "neuropathy",
+				"_Count": "6"
+			},
+			{
+				"_Id": "645",
+				"_TagName": "masturbation",
+				"_Count": "5"
+			},
+			{
+				"_Id": "646",
+				"_TagName": "tens",
+				"_Count": "3",
+				"_ExcerptPostId": "5550",
+				"_WikiPostId": "5549"
+			},
+			{
+				"_Id": "647",
+				"_TagName": "tongue",
+				"_Count": "2"
+			},
+			{
+				"_Id": "648",
+				"_TagName": "opthalmology",
+				"_Count": "3"
+			},
+			{
+				"_Id": "650",
+				"_TagName": "stretching",
+				"_Count": "7",
+				"_ExcerptPostId": "5732",
+				"_WikiPostId": "5731"
+			},
+			{
+				"_Id": "654",
+				"_TagName": "patches",
+				"_Count": "3"
+			},
+			{
+				"_Id": "656",
+				"_TagName": "counterforce-brace",
+				"_Count": "2"
+			},
+			{
+				"_Id": "657",
+				"_TagName": "toxicology",
+				"_Count": "2"
+			},
+			{
+				"_Id": "659",
+				"_TagName": "pancreas",
+				"_Count": "4"
+			},
+			{
+				"_Id": "663",
+				"_TagName": "kidney",
+				"_Count": "7"
+			},
+			{
+				"_Id": "664",
+				"_TagName": "fungal-infection",
+				"_Count": "5"
+			},
+			{
+				"_Id": "666",
+				"_TagName": "sinus",
+				"_Count": "7"
+			},
+			{
+				"_Id": "668",
+				"_TagName": "rotator-cuff",
+				"_Count": "3"
+			},
+			{
+				"_Id": "669",
+				"_TagName": "insect-bites",
+				"_Count": "2"
+			},
+			{
+				"_Id": "672",
+				"_TagName": "physiotherapy",
+				"_Count": "12"
+			},
+			{
+				"_Id": "674",
+				"_TagName": "menstruation",
+				"_Count": "7",
+				"_ExcerptPostId": "8880",
+				"_WikiPostId": "8879"
+			},
+			{
+				"_Id": "675",
+				"_TagName": "neosporin",
+				"_Count": "4"
+			},
+			{
+				"_Id": "678",
+				"_TagName": "health-policy",
+				"_Count": "3"
+			},
+			{
+				"_Id": "679",
+				"_TagName": "sperm",
+				"_Count": "3"
+			},
+			{
+				"_Id": "680",
+				"_TagName": "sperm-count",
+				"_Count": "3"
+			},
+			{
+				"_Id": "682",
+				"_TagName": "growth-hormones",
+				"_Count": "2"
+			},
+			{
+				"_Id": "686",
+				"_TagName": "overweight",
+				"_Count": "5"
+			},
+			{
+				"_Id": "687",
+				"_TagName": "energy-drinks",
+				"_Count": "3"
+			},
+			{
+				"_Id": "688",
+				"_TagName": "cannabidiol",
+				"_Count": "2"
+			},
+			{
+				"_Id": "690",
+				"_TagName": "valsalva-maneuver",
+				"_Count": "2"
+			},
+			{
+				"_Id": "693",
+				"_TagName": "heart",
+				"_Count": "14"
+			},
+			{
+				"_Id": "695",
+				"_TagName": "endometriosis",
+				"_Count": "4"
+			},
+			{
+				"_Id": "697",
+				"_TagName": "blister",
+				"_Count": "3"
+			},
+			{
+				"_Id": "698",
+				"_TagName": "vagina",
+				"_Count": "3"
+			},
+			{
+				"_Id": "699",
+				"_TagName": "platelet-count",
+				"_Count": "6"
+			},
+			{
+				"_Id": "701",
+				"_TagName": "uterus",
+				"_Count": "4"
+			},
+			{
+				"_Id": "702",
+				"_TagName": "contraceptive",
+				"_Count": "4"
+			},
+			{
+				"_Id": "703",
+				"_TagName": "pcos",
+				"_Count": "5"
+			},
+			{
+				"_Id": "704",
+				"_TagName": "ovarian-cysts",
+				"_Count": "4"
+			},
+			{
+				"_Id": "705",
+				"_TagName": "lupus",
+				"_Count": "14"
+			},
+			{
+				"_Id": "706",
+				"_TagName": "add-adhd",
+				"_Count": "5"
+			},
+			{
+				"_Id": "707",
+				"_TagName": "fertility",
+				"_Count": "9"
+			},
+			{
+				"_Id": "708",
+				"_TagName": "cervix",
+				"_Count": "1"
+			},
+			{
+				"_Id": "709",
+				"_TagName": "pms",
+				"_Count": "1"
+			},
+			{
+				"_Id": "712",
+				"_TagName": "sunlight",
+				"_Count": "3"
+			},
+			{
+				"_Id": "713",
+				"_TagName": "flare-ups",
+				"_Count": "2"
+			},
+			{
+				"_Id": "714",
+				"_TagName": "triggers",
+				"_Count": "9"
+			},
+			{
+				"_Id": "715",
+				"_TagName": "sun-exposure",
+				"_Count": "2"
+			},
+			{
+				"_Id": "717",
+				"_TagName": "heat",
+				"_Count": "7"
+			},
+			{
+				"_Id": "718",
+				"_TagName": "parkinson",
+				"_Count": "3"
+			},
+			{
+				"_Id": "719",
+				"_TagName": "heart-rate",
+				"_Count": "5"
+			},
+			{
+				"_Id": "720",
+				"_TagName": "brain-fog",
+				"_Count": "6"
+			},
+			{
+				"_Id": "721",
+				"_TagName": "fungi",
+				"_Count": "1"
+			},
+			{
+				"_Id": "722",
+				"_TagName": "jet-lag",
+				"_Count": "1"
+			},
+			{
+				"_Id": "723",
+				"_TagName": "staph-infections",
+				"_Count": "4"
+			},
+			{
+				"_Id": "724",
+				"_TagName": "mrsa",
+				"_Count": "3"
+			},
+			{
+				"_Id": "725",
+				"_TagName": "test-results",
+				"_Count": "14"
+			},
+			{
+				"_Id": "726",
+				"_TagName": "ketone",
+				"_Count": "3"
+			},
+			{
+				"_Id": "727",
+				"_TagName": "leukocytes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "728",
+				"_TagName": "active-release-technique",
+				"_Count": "1"
+			},
+			{
+				"_Id": "729",
+				"_TagName": "antiseptics",
+				"_Count": "3"
+			},
+			{
+				"_Id": "731",
+				"_TagName": "blind",
+				"_Count": "6"
+			},
+			{
+				"_Id": "732",
+				"_TagName": "ultrasounds",
+				"_Count": "6"
+			},
+			{
+				"_Id": "733",
+				"_TagName": "sodium",
+				"_Count": "9"
+			},
+			{
+				"_Id": "735",
+				"_TagName": "preservitives",
+				"_Count": "6"
+			},
+			{
+				"_Id": "736",
+				"_TagName": "chest",
+				"_Count": "4"
+			},
+			{
+				"_Id": "737",
+				"_TagName": "spasms",
+				"_Count": "3"
+			},
+			{
+				"_Id": "738",
+				"_TagName": "dizziness",
+				"_Count": "12"
+			},
+			{
+				"_Id": "739",
+				"_TagName": "concussion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "740",
+				"_TagName": "hydrogen-peroxide",
+				"_Count": "5"
+			},
+			{
+				"_Id": "741",
+				"_TagName": "scalp",
+				"_Count": "6"
+			},
+			{
+				"_Id": "742",
+				"_TagName": "astigmatism",
+				"_Count": "3"
+			},
+			{
+				"_Id": "744",
+				"_TagName": "glasses",
+				"_Count": "12"
+			},
+			{
+				"_Id": "745",
+				"_TagName": "mad-cow-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "746",
+				"_TagName": "second-hand-smoke",
+				"_Count": "7"
+			},
+			{
+				"_Id": "747",
+				"_TagName": "social",
+				"_Count": "2"
+			},
+			{
+				"_Id": "748",
+				"_TagName": "muscle-tremor-twitch",
+				"_Count": "4"
+			},
+			{
+				"_Id": "749",
+				"_TagName": "pelvic-inflammation-pid",
+				"_Count": "2"
+			},
+			{
+				"_Id": "750",
+				"_TagName": "inter-uterine-device-iud",
+				"_Count": "6"
+			},
+			{
+				"_Id": "751",
+				"_TagName": "white-blood-count",
+				"_Count": "5"
+			},
+			{
+				"_Id": "752",
+				"_TagName": "nasal-congestion",
+				"_Count": "3"
+			},
+			{
+				"_Id": "753",
+				"_TagName": "vasomotor-rhinitis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "754",
+				"_TagName": "abs",
+				"_Count": "2"
+			},
+			{
+				"_Id": "755",
+				"_TagName": "speech",
+				"_Count": "4"
+			},
+			{
+				"_Id": "756",
+				"_TagName": "serotonin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "757",
+				"_TagName": "retina",
+				"_Count": "1"
+			},
+			{
+				"_Id": "758",
+				"_TagName": "visual-acuity",
+				"_Count": "2"
+			},
+			{
+				"_Id": "761",
+				"_TagName": "white-noise",
+				"_Count": "1"
+			},
+			{
+				"_Id": "762",
+				"_TagName": "earplugs-earphones",
+				"_Count": "3"
+			},
+			{
+				"_Id": "763",
+				"_TagName": "mouthwash",
+				"_Count": "4"
+			},
+			{
+				"_Id": "764",
+				"_TagName": "water-weight",
+				"_Count": "2"
+			},
+			{
+				"_Id": "765",
+				"_TagName": "water-retention",
+				"_Count": "5"
+			},
+			{
+				"_Id": "766",
+				"_TagName": "bloated-bloating",
+				"_Count": "4"
+			},
+			{
+				"_Id": "768",
+				"_TagName": "dry-lips",
+				"_Count": "3"
+			},
+			{
+				"_Id": "770",
+				"_TagName": "audiology",
+				"_Count": "4"
+			},
+			{
+				"_Id": "771",
+				"_TagName": "tinnitus",
+				"_Count": "7"
+			},
+			{
+				"_Id": "772",
+				"_TagName": "vitamin-d",
+				"_Count": "3"
+			},
+			{
+				"_Id": "773",
+				"_TagName": "hdl",
+				"_Count": "2"
+			},
+			{
+				"_Id": "774",
+				"_TagName": "ldl",
+				"_Count": "3"
+			},
+			{
+				"_Id": "775",
+				"_TagName": "circadian-rythym",
+				"_Count": "4"
+			},
+			{
+				"_Id": "776",
+				"_TagName": "anemia",
+				"_Count": "7"
+			},
+			{
+				"_Id": "777",
+				"_TagName": "b-12-supplements",
+				"_Count": "3"
+			},
+			{
+				"_Id": "778",
+				"_TagName": "fasting",
+				"_Count": "5"
+			},
+			{
+				"_Id": "779",
+				"_TagName": "circumcision",
+				"_Count": "3"
+			},
+			{
+				"_Id": "780",
+				"_TagName": "foreskin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "781",
+				"_TagName": "vaseline",
+				"_Count": "2"
+			},
+			{
+				"_Id": "782",
+				"_TagName": "vertigo",
+				"_Count": "4"
+			},
+			{
+				"_Id": "783",
+				"_TagName": "labyrinthitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "784",
+				"_TagName": "body-mass-index-bmi",
+				"_Count": "6"
+			},
+			{
+				"_Id": "785",
+				"_TagName": "anus",
+				"_Count": "4"
+			},
+			{
+				"_Id": "786",
+				"_TagName": "polyp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "787",
+				"_TagName": "organ-donation",
+				"_Count": "3"
+			},
+			{
+				"_Id": "788",
+				"_TagName": "physical-therapy",
+				"_Count": "5"
+			},
+			{
+				"_Id": "789",
+				"_TagName": "osteoarthritis",
+				"_Count": "3"
+			},
+			{
+				"_Id": "790",
+				"_TagName": "joints",
+				"_Count": "8"
+			},
+			{
+				"_Id": "791",
+				"_TagName": "shoulder",
+				"_Count": "7"
+			},
+			{
+				"_Id": "793",
+				"_TagName": "biopsy",
+				"_Count": "4"
+			},
+			{
+				"_Id": "794",
+				"_TagName": "hypnosis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "795",
+				"_TagName": "insomnia",
+				"_Count": "7"
+			},
+			{
+				"_Id": "796",
+				"_TagName": "tourette-syndrome",
+				"_Count": "2"
+			},
+			{
+				"_Id": "797",
+				"_TagName": "arthrogram",
+				"_Count": "1"
+			},
+			{
+				"_Id": "798",
+				"_TagName": "hearing-aids",
+				"_Count": "2"
+			},
+			{
+				"_Id": "799",
+				"_TagName": "earwax",
+				"_Count": "3"
+			},
+			{
+				"_Id": "800",
+				"_TagName": "hearing-impaired",
+				"_Count": "5"
+			},
+			{
+				"_Id": "801",
+				"_TagName": "dry-mouth",
+				"_Count": "5"
+			},
+			{
+				"_Id": "803",
+				"_TagName": "electric-stimulation-ems",
+				"_Count": "1"
+			},
+			{
+				"_Id": "804",
+				"_TagName": "scar-tissue-scars",
+				"_Count": "7"
+			},
+			{
+				"_Id": "805",
+				"_TagName": "moles",
+				"_Count": "4"
+			},
+			{
+				"_Id": "806",
+				"_TagName": "melanoma",
+				"_Count": "3"
+			},
+			{
+				"_Id": "808",
+				"_TagName": "chiropractor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "809",
+				"_TagName": "neck",
+				"_Count": "10"
+			},
+			{
+				"_Id": "810",
+				"_TagName": "conjoined-siamese-twins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "811",
+				"_TagName": "klippel-feil-syndrome",
+				"_Count": "4"
+			},
+			{
+				"_Id": "812",
+				"_TagName": "congenital-bone-fusions",
+				"_Count": "1"
+			},
+			{
+				"_Id": "813",
+				"_TagName": "diarrhea",
+				"_Count": "6"
+			},
+			{
+				"_Id": "814",
+				"_TagName": "sleep-aids",
+				"_Count": "8"
+			},
+			{
+				"_Id": "815",
+				"_TagName": "drug-tolerance",
+				"_Count": "5"
+			},
+			{
+				"_Id": "816",
+				"_TagName": "antihistamines",
+				"_Count": "3"
+			},
+			{
+				"_Id": "817",
+				"_TagName": "coloration-discoloration",
+				"_Count": "18"
+			},
+			{
+				"_Id": "818",
+				"_TagName": "yeast-infection",
+				"_Count": "2"
+			},
+			{
+				"_Id": "819",
+				"_TagName": "douching",
+				"_Count": "1"
+			},
+			{
+				"_Id": "820",
+				"_TagName": "chronic-fatigue-synd.-cfs",
+				"_Count": "3"
+			},
+			{
+				"_Id": "821",
+				"_TagName": "energy",
+				"_Count": "4"
+			},
+			{
+				"_Id": "822",
+				"_TagName": "drug-interactions",
+				"_Count": "10"
+			},
+			{
+				"_Id": "823",
+				"_TagName": "wrinkles",
+				"_Count": "3"
+			},
+			{
+				"_Id": "824",
+				"_TagName": "dandruff",
+				"_Count": "1"
+			},
+			{
+				"_Id": "825",
+				"_TagName": "shaving-razor-burn",
+				"_Count": "3"
+			},
+			{
+				"_Id": "826",
+				"_TagName": "skin-sagging",
+				"_Count": "1"
+			},
+			{
+				"_Id": "827",
+				"_TagName": "perspiration",
+				"_Count": "2"
+			},
+			{
+				"_Id": "828",
+				"_TagName": "body-temperature",
+				"_Count": "16"
+			},
+			{
+				"_Id": "830",
+				"_TagName": "bone-dislocation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "831",
+				"_TagName": "ct-scans",
+				"_Count": "4"
+			},
+			{
+				"_Id": "832",
+				"_TagName": "x-rays",
+				"_Count": "7"
+			},
+			{
+				"_Id": "833",
+				"_TagName": "endoscopy",
+				"_Count": "3"
+			},
+			{
+				"_Id": "834",
+				"_TagName": "ligament",
+				"_Count": "2"
+			},
+			{
+				"_Id": "835",
+				"_TagName": "cervical-spine-ligament",
+				"_Count": "2"
+			},
+			{
+				"_Id": "836",
+				"_TagName": "tear-torn",
+				"_Count": "2"
+			},
+			{
+				"_Id": "837",
+				"_TagName": "self-healing-repairing",
+				"_Count": "4"
+			},
+			{
+				"_Id": "838",
+				"_TagName": "saliva",
+				"_Count": "6"
+			},
+			{
+				"_Id": "839",
+				"_TagName": "ivf-invitro-fertilization",
+				"_Count": "1"
+			},
+			{
+				"_Id": "840",
+				"_TagName": "surrogacy",
+				"_Count": "1",
+				"_ExcerptPostId": "11172",
+				"_WikiPostId": "11171"
+			},
+			{
+				"_Id": "841",
+				"_TagName": "egg-freezing",
+				"_Count": "1",
+				"_ExcerptPostId": "11168",
+				"_WikiPostId": "11167"
+			},
+			{
+				"_Id": "842",
+				"_TagName": "infertile",
+				"_Count": "3"
+			},
+			{
+				"_Id": "843",
+				"_TagName": "ovary",
+				"_Count": "2"
+			},
+			{
+				"_Id": "845",
+				"_TagName": "transvaginal-ultrasound",
+				"_Count": "3"
+			},
+			{
+				"_Id": "846",
+				"_TagName": "epilepsy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "847",
+				"_TagName": "cerebal-palsy-cp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "848",
+				"_TagName": "joint-replacements",
+				"_Count": "1"
+			},
+			{
+				"_Id": "849",
+				"_TagName": "hemoglobin",
+				"_Count": "5"
+			},
+			{
+				"_Id": "850",
+				"_TagName": "fad-diet",
+				"_Count": "7"
+			},
+			{
+				"_Id": "851",
+				"_TagName": "drug-tapering-weaning",
+				"_Count": "2"
+			},
+			{
+				"_Id": "852",
+				"_TagName": "accutane",
+				"_Count": "3"
+			},
+			{
+				"_Id": "853",
+				"_TagName": "stomach-ache",
+				"_Count": "1"
+			},
+			{
+				"_Id": "854",
+				"_TagName": "gender-sex-identity",
+				"_Count": "2"
+			},
+			{
+				"_Id": "855",
+				"_TagName": "downs-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "856",
+				"_TagName": "prenatal-testing-nipt",
+				"_Count": "1"
+			},
+			{
+				"_Id": "857",
+				"_TagName": "conjunctivitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "858",
+				"_TagName": "lasik",
+				"_Count": "3"
+			},
+			{
+				"_Id": "861",
+				"_TagName": "mucus-phlegm",
+				"_Count": "5"
+			},
+			{
+				"_Id": "862",
+				"_TagName": "sore-throat",
+				"_Count": "3"
+			},
+			{
+				"_Id": "863",
+				"_TagName": "nasal-drip",
+				"_Count": "1"
+			},
+			{
+				"_Id": "864",
+				"_TagName": "cells",
+				"_Count": "1"
+			},
+			{
+				"_Id": "865",
+				"_TagName": "fibroids",
+				"_Count": "1"
+			},
+			{
+				"_Id": "866",
+				"_TagName": "cysts",
+				"_Count": "3"
+			},
+			{
+				"_Id": "868",
+				"_TagName": "bone-density",
+				"_Count": "2"
+			},
+			{
+				"_Id": "869",
+				"_TagName": "ejaculation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "870",
+				"_TagName": "cornea",
+				"_Count": "2"
+			},
+			{
+				"_Id": "871",
+				"_TagName": "artificial-tear-eye-drops",
+				"_Count": "4"
+			},
+			{
+				"_Id": "872",
+				"_TagName": "blepheritis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "873",
+				"_TagName": "pectus-excavatum",
+				"_Count": "2"
+			},
+			{
+				"_Id": "875",
+				"_TagName": "cavity",
+				"_Count": "5"
+			},
+			{
+				"_Id": "876",
+				"_TagName": "fillings",
+				"_Count": "2"
+			},
+			{
+				"_Id": "877",
+				"_TagName": "hernia",
+				"_Count": "3"
+			},
+			{
+				"_Id": "878",
+				"_TagName": "abdominal",
+				"_Count": "5"
+			},
+			{
+				"_Id": "879",
+				"_TagName": "esophagus",
+				"_Count": "3"
+			},
+			{
+				"_Id": "880",
+				"_TagName": "stools-fecal-matter-poop",
+				"_Count": "5"
+			},
+			{
+				"_Id": "881",
+				"_TagName": "dna",
+				"_Count": "3"
+			},
+			{
+				"_Id": "882",
+				"_TagName": "flora",
+				"_Count": "1"
+			},
+			{
+				"_Id": "883",
+				"_TagName": "autopsy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "884",
+				"_TagName": "procedure-purposes",
+				"_Count": "6"
+			},
+			{
+				"_Id": "885",
+				"_TagName": "medical-malpractice",
+				"_Count": "2"
+			},
+			{
+				"_Id": "886",
+				"_TagName": "mono-mononucleosis",
+				"_Count": "4"
+			},
+			{
+				"_Id": "887",
+				"_TagName": "swine-flu-h1n1",
+				"_Count": "1"
+			},
+			{
+				"_Id": "888",
+				"_TagName": "black-mold-stachybotrys",
+				"_Count": "1"
+			},
+			{
+				"_Id": "889",
+				"_TagName": "contributing-factors",
+				"_Count": "10"
+			},
+			{
+				"_Id": "890",
+				"_TagName": "deaf",
+				"_Count": "4"
+			},
+			{
+				"_Id": "891",
+				"_TagName": "panic-attack",
+				"_Count": "5"
+			},
+			{
+				"_Id": "892",
+				"_TagName": "social-anxiety",
+				"_Count": "4"
+			},
+			{
+				"_Id": "893",
+				"_TagName": "light-sensitivity",
+				"_Count": "4"
+			},
+			{
+				"_Id": "894",
+				"_TagName": "migraine-auras",
+				"_Count": "3"
+			},
+			{
+				"_Id": "895",
+				"_TagName": "led-lights",
+				"_Count": "2"
+			},
+			{
+				"_Id": "896",
+				"_TagName": "uv-rays",
+				"_Count": "3"
+			},
+			{
+				"_Id": "897",
+				"_TagName": "protection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "899",
+				"_TagName": "tmj-jaw-pain",
+				"_Count": "1"
+			},
+			{
+				"_Id": "900",
+				"_TagName": "subconscious-stress",
+				"_Count": "5"
+			},
+			{
+				"_Id": "901",
+				"_TagName": "mouth-guard",
+				"_Count": "2"
+			},
+			{
+				"_Id": "902",
+				"_TagName": "endorphins",
+				"_Count": "2"
+			},
+			{
+				"_Id": "903",
+				"_TagName": "lasting-effects-duration",
+				"_Count": "39"
+			},
+			{
+				"_Id": "904",
+				"_TagName": "medical-billing",
+				"_Count": "6"
+			},
+			{
+				"_Id": "905",
+				"_TagName": "splints-casts",
+				"_Count": "2"
+			},
+			{
+				"_Id": "906",
+				"_TagName": "ehr",
+				"_Count": "1",
+				"_ExcerptPostId": "9619",
+				"_WikiPostId": "9618"
+			},
+			{
+				"_Id": "907",
+				"_TagName": "meat",
+				"_Count": "3"
+			},
+			{
+				"_Id": "908",
+				"_TagName": "sleep-walking",
+				"_Count": "2"
+			},
+			{
+				"_Id": "909",
+				"_TagName": "amitriptilyne",
+				"_Count": "2"
+			},
+			{
+				"_Id": "910",
+				"_TagName": "music-therapy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "911",
+				"_TagName": "estrogen",
+				"_Count": "2"
+			},
+			{
+				"_Id": "912",
+				"_TagName": "prostate",
+				"_Count": "1"
+			},
+			{
+				"_Id": "913",
+				"_TagName": "smell",
+				"_Count": "3"
+			},
+			{
+				"_Id": "914",
+				"_TagName": "hyperhidrosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "915",
+				"_TagName": "athletes-foot",
+				"_Count": "3"
+			},
+			{
+				"_Id": "916",
+				"_TagName": "hair-transplant",
+				"_Count": "1"
+			},
+			{
+				"_Id": "917",
+				"_TagName": "baldness-balding-bald",
+				"_Count": "6"
+			},
+			{
+				"_Id": "919",
+				"_TagName": "nuclear-medicine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "920",
+				"_TagName": "radiation",
+				"_Count": "3"
+			},
+			{
+				"_Id": "921",
+				"_TagName": "bone-scan",
+				"_Count": "1"
+			},
+			{
+				"_Id": "922",
+				"_TagName": "weather",
+				"_Count": "1"
+			},
+			{
+				"_Id": "923",
+				"_TagName": "age",
+				"_Count": "5"
+			},
+			{
+				"_Id": "924",
+				"_TagName": "tonsil-tonsillectomy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "925",
+				"_TagName": "maturation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "926",
+				"_TagName": "acidic",
+				"_Count": "6"
+			},
+			{
+				"_Id": "927",
+				"_TagName": "enamel",
+				"_Count": "6"
+			},
+			{
+				"_Id": "928",
+				"_TagName": "toe",
+				"_Count": "4"
+			},
+			{
+				"_Id": "929",
+				"_TagName": "podiatry",
+				"_Count": "4"
+			},
+			{
+				"_Id": "931",
+				"_TagName": "insulin-resistance",
+				"_Count": "1"
+			},
+			{
+				"_Id": "933",
+				"_TagName": "iron-deficiency",
+				"_Count": "1"
+			},
+			{
+				"_Id": "934",
+				"_TagName": "menorrhagia",
+				"_Count": "2"
+			},
+			{
+				"_Id": "937",
+				"_TagName": "ana-antinuclear-antibody",
+				"_Count": "1"
+			},
+			{
+				"_Id": "938",
+				"_TagName": "rheumatology",
+				"_Count": "3"
+			},
+			{
+				"_Id": "939",
+				"_TagName": "general-practitioners",
+				"_Count": "2"
+			},
+			{
+				"_Id": "940",
+				"_TagName": "different-national-health",
+				"_Count": "12"
+			},
+			{
+				"_Id": "942",
+				"_TagName": "gingivitis",
+				"_Count": "3"
+			},
+			{
+				"_Id": "943",
+				"_TagName": "periodontal-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "944",
+				"_TagName": "tooth-decay",
+				"_Count": "9"
+			},
+			{
+				"_Id": "945",
+				"_TagName": "mch-levels",
+				"_Count": "1"
+			},
+			{
+				"_Id": "946",
+				"_TagName": "ears-nose-throat-ent",
+				"_Count": "4"
+			},
+			{
+				"_Id": "947",
+				"_TagName": "melatonin",
+				"_Count": "4"
+			},
+			{
+				"_Id": "949",
+				"_TagName": "waking-up",
+				"_Count": "7"
+			},
+			{
+				"_Id": "950",
+				"_TagName": "hives-urticaria",
+				"_Count": "1"
+			},
+			{
+				"_Id": "951",
+				"_TagName": "constipation",
+				"_Count": "3"
+			},
+			{
+				"_Id": "953",
+				"_TagName": "narcotic-pain-meds",
+				"_Count": "1"
+			},
+			{
+				"_Id": "955",
+				"_TagName": "nsaids-pain-meds",
+				"_Count": "3"
+			},
+			{
+				"_Id": "956",
+				"_TagName": "acetaminophen-pain-meds",
+				"_Count": "2"
+			},
+			{
+				"_Id": "957",
+				"_TagName": "dry-eye",
+				"_Count": "1"
+			},
+			{
+				"_Id": "961",
+				"_TagName": "home-remedy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "962",
+				"_TagName": "taste-buds",
+				"_Count": "1"
+			},
+			{
+				"_Id": "963",
+				"_TagName": "catarrh",
+				"_Count": "2"
+			},
+			{
+				"_Id": "964",
+				"_TagName": "nasal-cavity",
+				"_Count": "2"
+			},
+			{
+				"_Id": "965",
+				"_TagName": "tall-height",
+				"_Count": "1"
+			},
+			{
+				"_Id": "966",
+				"_TagName": "large-size",
+				"_Count": "1"
+			},
+			{
+				"_Id": "967",
+				"_TagName": "risks",
+				"_Count": "27"
+			},
+			{
+				"_Id": "968",
+				"_TagName": "sedentary-lifestyle",
+				"_Count": "2"
+			},
+			{
+				"_Id": "969",
+				"_TagName": "exercise-induced-asthma",
+				"_Count": "2"
+			},
+			{
+				"_Id": "970",
+				"_TagName": "wheezing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "971",
+				"_TagName": "tight-chest",
+				"_Count": "2"
+			},
+			{
+				"_Id": "972",
+				"_TagName": "seasonal-asthma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "973",
+				"_TagName": "asthma-inhalors",
+				"_Count": "2"
+			},
+			{
+				"_Id": "974",
+				"_TagName": "lordosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "977",
+				"_TagName": "pleurisy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "978",
+				"_TagName": "pneumonia",
+				"_Count": "3"
+			},
+			{
+				"_Id": "979",
+				"_TagName": "bronchitis",
+				"_Count": "3"
+			},
+			{
+				"_Id": "981",
+				"_TagName": "effectiveness",
+				"_Count": "29"
+			},
+			{
+				"_Id": "982",
+				"_TagName": "shunt",
+				"_Count": "3"
+			},
+			{
+				"_Id": "983",
+				"_TagName": "dialation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "984",
+				"_TagName": "heart-chambers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "985",
+				"_TagName": "ventricular-spetal-defect",
+				"_Count": "2"
+			},
+			{
+				"_Id": "986",
+				"_TagName": "guidelines",
+				"_Count": "1"
+			},
+			{
+				"_Id": "987",
+				"_TagName": "canker-sores",
+				"_Count": "3"
+			},
+			{
+				"_Id": "988",
+				"_TagName": "cold-sores",
+				"_Count": "2"
+			},
+			{
+				"_Id": "989",
+				"_TagName": "vitamin-c",
+				"_Count": "7"
+			},
+			{
+				"_Id": "990",
+				"_TagName": "bruising-bruise",
+				"_Count": "3"
+			},
+			{
+				"_Id": "991",
+				"_TagName": "scurvy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "992",
+				"_TagName": "kinesiotherapy-tapes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "993",
+				"_TagName": "omega-3",
+				"_Count": "10"
+			},
+			{
+				"_Id": "994",
+				"_TagName": "medicine-warning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "995",
+				"_TagName": "face",
+				"_Count": "7"
+			},
+			{
+				"_Id": "996",
+				"_TagName": "topical-cream-gel",
+				"_Count": "22"
+			},
+			{
+				"_Id": "997",
+				"_TagName": "dramatic-personality-dis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "998",
+				"_TagName": "narcissistic-personality",
+				"_Count": "1"
+			},
+			{
+				"_Id": "999",
+				"_TagName": "borderline-personality",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1000",
+				"_TagName": "victim-mentality",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1001",
+				"_TagName": "time-of-day",
+				"_Count": "14"
+			},
+			{
+				"_Id": "1002",
+				"_TagName": "meal",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1003",
+				"_TagName": "diuretics",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1004",
+				"_TagName": "incontinence",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1006",
+				"_TagName": "ionization",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1007",
+				"_TagName": "soundwaves",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1009",
+				"_TagName": "alertness-level",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1010",
+				"_TagName": "reactive-arthritis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1011",
+				"_TagName": "cold-compress",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1012",
+				"_TagName": "elevating-elevation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1013",
+				"_TagName": "body-shape",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1014",
+				"_TagName": "diaphragm",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1015",
+				"_TagName": "vaginal-delivery",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1016",
+				"_TagName": "birth",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1018",
+				"_TagName": "c-section",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1019",
+				"_TagName": "ovulation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1020",
+				"_TagName": "progesterone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1021",
+				"_TagName": "hypotension",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1022",
+				"_TagName": "lubrication",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1023",
+				"_TagName": "muscle-relaxers",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1024",
+				"_TagName": "buffers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1025",
+				"_TagName": "nostolgia-nostolgic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1026",
+				"_TagName": "taste",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1027",
+				"_TagName": "benefits",
+				"_Count": "18"
+			},
+			{
+				"_Id": "1028",
+				"_TagName": "reflex-impulse",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1029",
+				"_TagName": "yawning-yawn",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1030",
+				"_TagName": "hiccup-hiccuping",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1031",
+				"_TagName": "function",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1032",
+				"_TagName": "psychosomatic-symptom",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1033",
+				"_TagName": "cure",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1034",
+				"_TagName": "restless-sleep",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1035",
+				"_TagName": "floss-flossing",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1036",
+				"_TagName": "detox-purge",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1037",
+				"_TagName": "pores",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1038",
+				"_TagName": "steam",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1039",
+				"_TagName": "neutrophil-levels",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1040",
+				"_TagName": "organ-failure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1041",
+				"_TagName": "ratio",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1042",
+				"_TagName": "gerd-acid-reflux",
+				"_Count": "8"
+			},
+			{
+				"_Id": "1043",
+				"_TagName": "lower-esoph-sphincter-les",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1044",
+				"_TagName": "emt",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1045",
+				"_TagName": "vein-venous",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1046",
+				"_TagName": "pressure",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1047",
+				"_TagName": "urinary-tract-infect-uti",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1048",
+				"_TagName": "vaginal-itching",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1049",
+				"_TagName": "premature-ejaculation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1051",
+				"_TagName": "stamina",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1052",
+				"_TagName": "scab",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1053",
+				"_TagName": "aloe-vera",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1054",
+				"_TagName": "salicylic-acid",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1055",
+				"_TagName": "benzoyl-peroxide",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1057",
+				"_TagName": "antibiotic-cream",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1058",
+				"_TagName": "teeth-sensitivity",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1059",
+				"_TagName": "stool-softner",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1060",
+				"_TagName": "laxative",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1061",
+				"_TagName": "hydrocephalus",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1062",
+				"_TagName": "myelopathy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1063",
+				"_TagName": "allograft",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1064",
+				"_TagName": "spinal-cord",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1065",
+				"_TagName": "stenosis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1067",
+				"_TagName": "herbs",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1068",
+				"_TagName": "medication-directions",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1074",
+				"_TagName": "coma-comatose",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1075",
+				"_TagName": "instinct",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1076",
+				"_TagName": "iv-intravaneous",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1077",
+				"_TagName": "contractions",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1078",
+				"_TagName": "low-motor-skills",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1079",
+				"_TagName": "dexterity",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1080",
+				"_TagName": "fiesta-sequence",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1081",
+				"_TagName": "hoffman-sign",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1082",
+				"_TagName": "bicep-escape-sign",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1083",
+				"_TagName": "pigment",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1084",
+				"_TagName": "keratin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1085",
+				"_TagName": "vitamin-e",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1086",
+				"_TagName": "iris",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1087",
+				"_TagName": "pupil",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1088",
+				"_TagName": "pathological-liar",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1089",
+				"_TagName": "sociopath",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1090",
+				"_TagName": "compulsive-habitual-liar",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1091",
+				"_TagName": "truth-serum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1092",
+				"_TagName": "public-awareness",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1093",
+				"_TagName": "spectrum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1094",
+				"_TagName": "electric-shock-therapy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1095",
+				"_TagName": "electrocution",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1096",
+				"_TagName": "psychiatrist-psychiatry",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1097",
+				"_TagName": "psychology-psychology",
+				"_Count": "10"
+			},
+			{
+				"_Id": "1098",
+				"_TagName": "sneeze-sneezing",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1099",
+				"_TagName": "watery-eyes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1100",
+				"_TagName": "pluck-plucking",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1101",
+				"_TagName": "eyebrows",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1102",
+				"_TagName": "necrosis-dead-skin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1103",
+				"_TagName": "gangrene",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1104",
+				"_TagName": "amputation",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1105",
+				"_TagName": "maggots",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1106",
+				"_TagName": "adams-apple",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1108",
+				"_TagName": "swallow-swallowing",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1109",
+				"_TagName": "sexual-diamorphism",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1110",
+				"_TagName": "larynx",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1111",
+				"_TagName": "adenosine-triphsphate-atp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1112",
+				"_TagName": "ancient-medicine",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1113",
+				"_TagName": "skin-grafts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1114",
+				"_TagName": "fingers",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1115",
+				"_TagName": "blood-thinner",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1117",
+				"_TagName": "dimples",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1118",
+				"_TagName": "cleft-chins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1119",
+				"_TagName": "chins",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1121",
+				"_TagName": "legionnaries-disease",
+				"_Count": "1",
+				"_ExcerptPostId": "9837",
+				"_WikiPostId": "9836"
+			},
+			{
+				"_Id": "1122",
+				"_TagName": "rapid-eye-movement-rem",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1123",
+				"_TagName": "slow-wave-sleep-sws",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1124",
+				"_TagName": "concentration",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1125",
+				"_TagName": "experiment",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1126",
+				"_TagName": "metal",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1127",
+				"_TagName": "electrolytes",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1128",
+				"_TagName": "diluting",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1129",
+				"_TagName": "hallucinate-hallucogenic",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1130",
+				"_TagName": "ergotism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1131",
+				"_TagName": "mass-hysteria",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1132",
+				"_TagName": "tyramine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1133",
+				"_TagName": "botox",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1134",
+				"_TagName": "fda-food-drug-admin",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1135",
+				"_TagName": "overactive-bladder",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1136",
+				"_TagName": "cheeks",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1137",
+				"_TagName": "eyelids",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1138",
+				"_TagName": "cystic-acne",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1139",
+				"_TagName": "pus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1140",
+				"_TagName": "cellulitis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1141",
+				"_TagName": "boils",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1142",
+				"_TagName": "anti-inflammatory",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1143",
+				"_TagName": "potassium",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1145",
+				"_TagName": "antioxidant",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1146",
+				"_TagName": "knuckles",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1147",
+				"_TagName": "medical-myths",
+				"_Count": "13"
+			},
+			{
+				"_Id": "1148",
+				"_TagName": "pubic-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1149",
+				"_TagName": "ingrown-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1150",
+				"_TagName": "hashimotos-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1151",
+				"_TagName": "tsh-levels",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1152",
+				"_TagName": "thyroid-lymphoma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1153",
+				"_TagName": "methylsulfonylmethane",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1154",
+				"_TagName": "fluoride",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1155",
+				"_TagName": "bleach-teeth-whitening",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1156",
+				"_TagName": "toothpaste",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1157",
+				"_TagName": "weightlifting",
+				"_Count": "8"
+			},
+			{
+				"_Id": "1158",
+				"_TagName": "heredomacula-degeneration",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1159",
+				"_TagName": "degenerative-diseases",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1160",
+				"_TagName": "heimlich-maneuver",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1161",
+				"_TagName": "choking",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1162",
+				"_TagName": "ribs-ribcage",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1163",
+				"_TagName": "sternum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1164",
+				"_TagName": "navel-belly-button",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1165",
+				"_TagName": "vitamin-k",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1166",
+				"_TagName": "nipples",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1167",
+				"_TagName": "lactation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1168",
+				"_TagName": "hyponychium",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1169",
+				"_TagName": "nails",
+				"_Count": "8"
+			},
+			{
+				"_Id": "1170",
+				"_TagName": "omega-6",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1171",
+				"_TagName": "enzyme",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1172",
+				"_TagName": "hyperosmia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1173",
+				"_TagName": "olfactory",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1174",
+				"_TagName": "pheromones",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1175",
+				"_TagName": "nostrils",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1176",
+				"_TagName": "secretion-secrete",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1177",
+				"_TagName": "vaginal-aliphatic-acids",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1178",
+				"_TagName": "axillary-steroids",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1179",
+				"_TagName": "sociosexual-behavior",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1180",
+				"_TagName": "dominant-gene",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1181",
+				"_TagName": "recessive-gene",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1182",
+				"_TagName": "body-odor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1183",
+				"_TagName": "tear-duct",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1184",
+				"_TagName": "colonoscopy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1185",
+				"_TagName": "colon",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1186",
+				"_TagName": "sedative-sedation",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1187",
+				"_TagName": "drowsy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1188",
+				"_TagName": "intestine",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1189",
+				"_TagName": "congenital-analgesia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1190",
+				"_TagName": "pain-tolerance",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1191",
+				"_TagName": "rare-diseases",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1192",
+				"_TagName": "tooth-avulsion",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1193",
+				"_TagName": "implant",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1194",
+				"_TagName": "blemishes",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1195",
+				"_TagName": "hemorrhage",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1196",
+				"_TagName": "pancreatitis",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1197",
+				"_TagName": "blood-transfusion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1198",
+				"_TagName": "internal-bleeding",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1199",
+				"_TagName": "icu-intensive-care-unit",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1200",
+				"_TagName": "aspergers-syndrome",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1201",
+				"_TagName": "high-functioning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1202",
+				"_TagName": "speech-therapy",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1203",
+				"_TagName": "introvert",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1204",
+				"_TagName": "emotional-support-animal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1205",
+				"_TagName": "ptsd",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1206",
+				"_TagName": "service-animals",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1207",
+				"_TagName": "impetigo",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1208",
+				"_TagName": "abscess-lesions",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1209",
+				"_TagName": "pimple",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1210",
+				"_TagName": "zit",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1211",
+				"_TagName": "acupressure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1212",
+				"_TagName": "pressure-points",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1213",
+				"_TagName": "anti-nausea",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1214",
+				"_TagName": "motion-sickness",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1215",
+				"_TagName": "acupressure-wristband",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1216",
+				"_TagName": "ebola",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1217",
+				"_TagName": "pandemic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1218",
+				"_TagName": "endemic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1219",
+				"_TagName": "polio",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1220",
+				"_TagName": "center-disease-control",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1221",
+				"_TagName": "cytokines",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1222",
+				"_TagName": "epi-pen-epinephrine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1223",
+				"_TagName": "anaphylactic-shock",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1224",
+				"_TagName": "latex",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1225",
+				"_TagName": "antigen",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1226",
+				"_TagName": "pulse",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1227",
+				"_TagName": "pornography",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1228",
+				"_TagName": "erectile-dysfunction",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1229",
+				"_TagName": "orgasm-climax",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1230",
+				"_TagName": "libido",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1231",
+				"_TagName": "porn-creep",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1232",
+				"_TagName": "identical-twins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1233",
+				"_TagName": "blood-type",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1234",
+				"_TagName": "fingerprints",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1235",
+				"_TagName": "clones-cloning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1236",
+				"_TagName": "glossophobia",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1238",
+				"_TagName": "stammering-stuttering",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1239",
+				"_TagName": "shake-tremble-fidget",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1240",
+				"_TagName": "adrenaline",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1241",
+				"_TagName": "flatulence-gas-fart",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1242",
+				"_TagName": "methane",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1243",
+				"_TagName": "burp-belch",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1244",
+				"_TagName": "fermentation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1245",
+				"_TagName": "gut-microbiota-flora",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1247",
+				"_TagName": "freckles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1248",
+				"_TagName": "birthmarks",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1249",
+				"_TagName": "melanin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1250",
+				"_TagName": "raynaud-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1251",
+				"_TagName": "hypoxia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1252",
+				"_TagName": "petechiae",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1253",
+				"_TagName": "arteries-artery",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1254",
+				"_TagName": "umbilical-cord",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1255",
+				"_TagName": "breech-birth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1256",
+				"_TagName": "midwife-midwifery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1257",
+				"_TagName": "natural-birth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1258",
+				"_TagName": "epidural",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1259",
+				"_TagName": "placenta",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1260",
+				"_TagName": "postpartum-depression",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1261",
+				"_TagName": "fetus",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1262",
+				"_TagName": "prostaglandin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1263",
+				"_TagName": "oxytocin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1264",
+				"_TagName": "smallpox",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1265",
+				"_TagName": "measles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1266",
+				"_TagName": "mumps",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1267",
+				"_TagName": "malaria",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1268",
+				"_TagName": "eradication-of-diseaseas",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1269",
+				"_TagName": "who-world-health-org",
+				"_Count": "6"
+			},
+			{
+				"_Id": "1270",
+				"_TagName": "svalbard-glbl-seed-vault",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1271",
+				"_TagName": "bubonic-plague",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1272",
+				"_TagName": "cholera",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1273",
+				"_TagName": "vials",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1274",
+				"_TagName": "paraben",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1275",
+				"_TagName": "beta-blockers",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1276",
+				"_TagName": "cluster-headache",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1277",
+				"_TagName": "rebound-headache",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1278",
+				"_TagName": "tension-headache",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1279",
+				"_TagName": "sinus-headache",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1280",
+				"_TagName": "puberty",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1281",
+				"_TagName": "vocal-chords",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1282",
+				"_TagName": "androgen",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1283",
+				"_TagName": "vocal-pitch",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1284",
+				"_TagName": "dysphonia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1286",
+				"_TagName": "heartburn",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1287",
+				"_TagName": "cochlear-implant",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1288",
+				"_TagName": "throat",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1289",
+				"_TagName": "drug-allergy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1290",
+				"_TagName": "epidermolysis-bullosa",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1295",
+				"_TagName": "scrotum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1296",
+				"_TagName": "testicles",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1298",
+				"_TagName": "low-grade-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1300",
+				"_TagName": "molars",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1301",
+				"_TagName": "resin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1302",
+				"_TagName": "baby-teeth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1303",
+				"_TagName": "tooth-extraction",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1304",
+				"_TagName": "stockholm-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1305",
+				"_TagName": "battered-wife-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1306",
+				"_TagName": "physical-abuse",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1307",
+				"_TagName": "codependency",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1308",
+				"_TagName": "traumatic-bonding",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1309",
+				"_TagName": "patient-zero-0",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1310",
+				"_TagName": "index-case",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1311",
+				"_TagName": "hand-ft-mouth-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1312",
+				"_TagName": "warts",
+				"_Count": "2",
+				"_ExcerptPostId": "11162",
+				"_WikiPostId": "11161"
+			},
+			{
+				"_Id": "1313",
+				"_TagName": "genital-warts",
+				"_Count": "2",
+				"_ExcerptPostId": "11164",
+				"_WikiPostId": "11163"
+			},
+			{
+				"_Id": "1314",
+				"_TagName": "hpv-infection",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1315",
+				"_TagName": "liquid-nitrogen",
+				"_Count": "1",
+				"_ExcerptPostId": "11170",
+				"_WikiPostId": "11169"
+			},
+			{
+				"_Id": "1316",
+				"_TagName": "virginity-virgin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1317",
+				"_TagName": "albium",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1318",
+				"_TagName": "bladder-infection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1319",
+				"_TagName": "urethra",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1320",
+				"_TagName": "scleroderma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1321",
+				"_TagName": "osteoporosis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1322",
+				"_TagName": "ph-levels",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1324",
+				"_TagName": "bleeding",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1325",
+				"_TagName": "thigh",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1326",
+				"_TagName": "lazy-eye",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1327",
+				"_TagName": "equilibrium-balance",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1329",
+				"_TagName": "brushing-teeth",
+				"_Count": "9"
+			},
+			{
+				"_Id": "1330",
+				"_TagName": "insulin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1331",
+				"_TagName": "protein-supplement",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1332",
+				"_TagName": "rheumatic-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1333",
+				"_TagName": "miliary-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1335",
+				"_TagName": "streptococcal-infection",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1336",
+				"_TagName": "ectopic-pregnancy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1337",
+				"_TagName": "auto-brewery-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1338",
+				"_TagName": "ethanol",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1339",
+				"_TagName": "intoxication",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1340",
+				"_TagName": "hangover-hungover",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1341",
+				"_TagName": "blood-alcohol-levels",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1342",
+				"_TagName": "goosebumps",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1343",
+				"_TagName": "insulation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1344",
+				"_TagName": "fight-or-flight",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1345",
+				"_TagName": "euphoria",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1347",
+				"_TagName": "hair-follicle",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1348",
+				"_TagName": "adrenocortical-adenoma-aa",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1349",
+				"_TagName": "medicare",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1350",
+				"_TagName": "nursing-convalescent-home",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1351",
+				"_TagName": "pre-suregery-pre-op",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1352",
+				"_TagName": "bone-fractures",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1353",
+				"_TagName": "tibia",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1354",
+				"_TagName": "jaw",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1358",
+				"_TagName": "expiration-dates",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1359",
+				"_TagName": "pharmaceutical",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1360",
+				"_TagName": "snore-snoring",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1361",
+				"_TagName": "ketosis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1362",
+				"_TagName": "keto-adaption",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1363",
+				"_TagName": "fatty-acids",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1364",
+				"_TagName": "acetoacetate",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1365",
+				"_TagName": "nrem-nonrapid-eye-sleep",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1366",
+				"_TagName": "blood-vessels",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1367",
+				"_TagName": "weight-training",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1368",
+				"_TagName": "spleen",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1369",
+				"_TagName": "alcoholic-alcoholism",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1371",
+				"_TagName": "alcohol-poisoning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1372",
+				"_TagName": "drug-rehab-rehabilitation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1373",
+				"_TagName": "halitosis-bad-breath",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1374",
+				"_TagName": "caffeine-adrenal-exhaust",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1375",
+				"_TagName": "nitrousoxide-laughing-gas",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1376",
+				"_TagName": "lidocaine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1377",
+				"_TagName": "blood-letting-leeches",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1378",
+				"_TagName": "bruxium-teeth-grinding",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1379",
+				"_TagName": "dopamine",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1380",
+				"_TagName": "self-loathing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1381",
+				"_TagName": "xanax",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1382",
+				"_TagName": "kleptomania",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1383",
+				"_TagName": "bipolar-disorder",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1384",
+				"_TagName": "intoeing-pigeon-toe-foot",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1385",
+				"_TagName": "hoarding-disorder",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1386",
+				"_TagName": "schizotypal-disorder-stpd",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1387",
+				"_TagName": "diogenes-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1388",
+				"_TagName": "chafing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1389",
+				"_TagName": "quadriceps",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1390",
+				"_TagName": "baby-powder",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1391",
+				"_TagName": "sign-language",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1392",
+				"_TagName": "braille",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1393",
+				"_TagName": "mute",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1394",
+				"_TagName": "toothbrush",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1395",
+				"_TagName": "plaque",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1396",
+				"_TagName": "tartar",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1399",
+				"_TagName": "ada-american-dental-assn",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1400",
+				"_TagName": "albinism-albinos",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1401",
+				"_TagName": "hyperventilation",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1402",
+				"_TagName": "heart-palpitations",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1403",
+				"_TagName": "suicide",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1404",
+				"_TagName": "tunnel-vision",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1405",
+				"_TagName": "nicotine",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1406",
+				"_TagName": "fire-safety",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1407",
+				"_TagName": "smoke-inhalation",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1408",
+				"_TagName": "unconsciousness",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1409",
+				"_TagName": "carbon-monoxide-poisoning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1410",
+				"_TagName": "unresponsiveness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1411",
+				"_TagName": "social-cues",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1412",
+				"_TagName": "sex-therapy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1413",
+				"_TagName": "parasympathetic-system",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1414",
+				"_TagName": "carbohydrates",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1415",
+				"_TagName": "meal-replacement",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1416",
+				"_TagName": "ulcerative-colitis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1417",
+				"_TagName": "satiety-fullness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1418",
+				"_TagName": "tobacco",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1419",
+				"_TagName": "exhaust-gas",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1420",
+				"_TagName": "plastic-surgery",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1421",
+				"_TagName": "prosthesis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1422",
+				"_TagName": "dentures",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1423",
+				"_TagName": "carbon-dioxide",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1424",
+				"_TagName": "dust",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1425",
+				"_TagName": "environmental-conditions",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1426",
+				"_TagName": "walking",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1427",
+				"_TagName": "hemochromatosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1428",
+				"_TagName": "organ-damage",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1429",
+				"_TagName": "cataracts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1430",
+				"_TagName": "irreversible-damage",
+				"_Count": "8"
+			},
+			{
+				"_Id": "1431",
+				"_TagName": "eye-strain",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1432",
+				"_TagName": "folic-acid",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1433",
+				"_TagName": "ferrograd-c",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1434",
+				"_TagName": "hair-removal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1435",
+				"_TagName": "waxing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1436",
+				"_TagName": "laser-hair-removal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1437",
+				"_TagName": "hemodialysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1438",
+				"_TagName": "glomerular-filtration-grf",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1439",
+				"_TagName": "diastasis-recti",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1440",
+				"_TagName": "aerophagia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1441",
+				"_TagName": "dr-patient-priviledge",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1442",
+				"_TagName": "medical-ethics",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1443",
+				"_TagName": "humerus",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1444",
+				"_TagName": "weight-gain",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1445",
+				"_TagName": "biotype",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1446",
+				"_TagName": "whey-protein",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1447",
+				"_TagName": "diapers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1448",
+				"_TagName": "tampons",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1449",
+				"_TagName": "toxic-shock-syndrome-tss",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1450",
+				"_TagName": "feminine-hygiene-products",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1451",
+				"_TagName": "incisors",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1452",
+				"_TagName": "mood-moodiness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1453",
+				"_TagName": "bronchiolitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1454",
+				"_TagName": "dental-sealants",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1455",
+				"_TagName": "corticosteroids",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1456",
+				"_TagName": "preterm-labor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1457",
+				"_TagName": "technology",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1458",
+				"_TagName": "keratoconus",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1459",
+				"_TagName": "water-temperature",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1460",
+				"_TagName": "ear-infection",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1461",
+				"_TagName": "groin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1462",
+				"_TagName": "sialolithiasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1463",
+				"_TagName": "calculi-stones",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1464",
+				"_TagName": "submandibular-gland",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1465",
+				"_TagName": "cat-scratch-fever",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1467",
+				"_TagName": "zoonotic-diseases",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1468",
+				"_TagName": "salmonella",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1469",
+				"_TagName": "west-nile-virus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1470",
+				"_TagName": "leprosy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1471",
+				"_TagName": "avian-bird-flu",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1472",
+				"_TagName": "tularemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1473",
+				"_TagName": "rocky-mt-spotted-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1474",
+				"_TagName": "rift-valley-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1475",
+				"_TagName": "speech-impediment",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1476",
+				"_TagName": "speech-pathology",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1477",
+				"_TagName": "benzodiazepines",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1478",
+				"_TagName": "anti-anxiety-meds",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1479",
+				"_TagName": "geography",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1480",
+				"_TagName": "aggresion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1481",
+				"_TagName": "environmental-climate",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1482",
+				"_TagName": "violent-behavior",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1483",
+				"_TagName": "social-anthropology",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1484",
+				"_TagName": "chloride",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1485",
+				"_TagName": "radius-radial-bone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1486",
+				"_TagName": "whitehead",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1487",
+				"_TagName": "blackhead",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1488",
+				"_TagName": "sebum-oil",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1489",
+				"_TagName": "earlobes",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1490",
+				"_TagName": "cartilage",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1491",
+				"_TagName": "myocarditis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1492",
+				"_TagName": "deja-vu",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1493",
+				"_TagName": "dreams",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1494",
+				"_TagName": "suppressed-memory",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1495",
+				"_TagName": "cryptomnesia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1496",
+				"_TagName": "stigmatization-stigmas",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1497",
+				"_TagName": "xyy-karyotype",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1498",
+				"_TagName": "y-chromosome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1499",
+				"_TagName": "x-chromosome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1500",
+				"_TagName": "biological-germ-warfare",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1501",
+				"_TagName": "ricin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1502",
+				"_TagName": "anthrax",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1503",
+				"_TagName": "brucellosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1504",
+				"_TagName": "melioidosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1505",
+				"_TagName": "baking-soda",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1506",
+				"_TagName": "shampoo",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1507",
+				"_TagName": "hair-conditioner",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1508",
+				"_TagName": "greasy-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1509",
+				"_TagName": "lactate-dehydrogenase-ldh",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1510",
+				"_TagName": "transudates",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1511",
+				"_TagName": "exudates",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1512",
+				"_TagName": "phototherapy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1513",
+				"_TagName": "bile",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1514",
+				"_TagName": "bilirubin",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1515",
+				"_TagName": "jaundice",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1516",
+				"_TagName": "baby-formula",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1517",
+				"_TagName": "colic",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1518",
+				"_TagName": "crying",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1519",
+				"_TagName": "shaken-baby-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1520",
+				"_TagName": "anal-fissures",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1521",
+				"_TagName": "subdural-hematoma-sdh",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1522",
+				"_TagName": "otorhinolaryngology",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1523",
+				"_TagName": "nasal-spray-drop",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1524",
+				"_TagName": "decongestants",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1526",
+				"_TagName": "ethnicity",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1527",
+				"_TagName": "mitochondrial-dna",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1528",
+				"_TagName": "nature-vs.-nurture",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1529",
+				"_TagName": "vapor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1530",
+				"_TagName": "carbon-tetrachloride",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1531",
+				"_TagName": "drowning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1532",
+				"_TagName": "resuscitation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1533",
+				"_TagName": "clavicle-collar-bone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1534",
+				"_TagName": "williams-syndrome-ws",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1535",
+				"_TagName": "stranger-anxiety",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1536",
+				"_TagName": "extrovert",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1537",
+				"_TagName": "development-disorder",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1538",
+				"_TagName": "empathy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1539",
+				"_TagName": "self-esteem",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1540",
+				"_TagName": "sensitivity-intolerance",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1541",
+				"_TagName": "scrotal-sac",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1543",
+				"_TagName": "liposuction",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1544",
+				"_TagName": "cryolipolysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1547",
+				"_TagName": "streptococcus-aureus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1548",
+				"_TagName": "tonsillar-lacunae",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1549",
+				"_TagName": "pityriasis-rosea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1550",
+				"_TagName": "claustrophobia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1551",
+				"_TagName": "suffocation",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1552",
+				"_TagName": "amygdala",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1553",
+				"_TagName": "classical-conditioning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1554",
+				"_TagName": "genetic-predisposition",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1555",
+				"_TagName": "physiology-or-disorder",
+				"_Count": "4",
+				"_ExcerptPostId": "10156",
+				"_WikiPostId": "10155"
+			},
+			{
+				"_Id": "1558",
+				"_TagName": "forearm",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1559",
+				"_TagName": "dwarfism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1560",
+				"_TagName": "little-people-lp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1561",
+				"_TagName": "short-stature",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1562",
+				"_TagName": "whooping-cough-pertussis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1563",
+				"_TagName": "laryngitis-croup-cough",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1564",
+				"_TagName": "copd",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1565",
+				"_TagName": "lozenge-cough-drop",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1566",
+				"_TagName": "cough-syrup",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1567",
+				"_TagName": "dyes",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1568",
+				"_TagName": "cosmetics",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1569",
+				"_TagName": "carcinogens",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1570",
+				"_TagName": "pesticides",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1571",
+				"_TagName": "nitrogen-dioxide-no2",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1572",
+				"_TagName": "nitric-oxide-no",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1573",
+				"_TagName": "menieres-disease",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1575",
+				"_TagName": "underarm-armpit-axilla",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1576",
+				"_TagName": "thermolysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1578",
+				"_TagName": "local-anesthetics",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1579",
+				"_TagName": "aphonia-lost-voice",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1580",
+				"_TagName": "laryngitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1581",
+				"_TagName": "blood-shot-eyes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1584",
+				"_TagName": "kegel-exercise",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1585",
+				"_TagName": "multiple-sclerosis",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1587",
+				"_TagName": "mouth",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1588",
+				"_TagName": "bite",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1589",
+				"_TagName": "mpv-level",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1590",
+				"_TagName": "scabies",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1591",
+				"_TagName": "diabetes-mellitus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1592",
+				"_TagName": "skull",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1593",
+				"_TagName": "craniotomy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1594",
+				"_TagName": "sutures",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1595",
+				"_TagName": "gout",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1596",
+				"_TagName": "anger-management",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1597",
+				"_TagName": "coping-skills",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1598",
+				"_TagName": "chew-chewing",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1599",
+				"_TagName": "mandible",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1600",
+				"_TagName": "hematuria-bloody-urine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1601",
+				"_TagName": "urine-test",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1603",
+				"_TagName": "kidney-disease",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1604",
+				"_TagName": "frequency",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1605",
+				"_TagName": "proper-use",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1606",
+				"_TagName": "sublingual-sl-sprays",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1607",
+				"_TagName": "drug-administration",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1608",
+				"_TagName": "procedural-behavior",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1609",
+				"_TagName": "procedural-expectations",
+				"_Count": "9"
+			},
+			{
+				"_Id": "1610",
+				"_TagName": "acwy-vaccine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1611",
+				"_TagName": "meningoccal-meningitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1612",
+				"_TagName": "meningitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1613",
+				"_TagName": "shock",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1614",
+				"_TagName": "incubator",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1615",
+				"_TagName": "optic-nerve",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1616",
+				"_TagName": "color-blindness",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1617",
+				"_TagName": "hippocampus",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1618",
+				"_TagName": "mydriasis-dialated-pupil",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1619",
+				"_TagName": "elbow",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1620",
+				"_TagName": "cochlea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1621",
+				"_TagName": "auditory-cortex",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1622",
+				"_TagName": "coagulation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1623",
+				"_TagName": "blood-clotting",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1624",
+				"_TagName": "needles-cannula",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1626",
+				"_TagName": "paunch",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1627",
+				"_TagName": "orthotics",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1629",
+				"_TagName": "arch-supports-foot",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1630",
+				"_TagName": "appendix",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1631",
+				"_TagName": "appendicitis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1632",
+				"_TagName": "emergency-surgery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1633",
+				"_TagName": "appendectomy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1634",
+				"_TagName": "arsenic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1635",
+				"_TagName": "livestock",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1636",
+				"_TagName": "turmeric",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1637",
+				"_TagName": "sinus-congestion",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1638",
+				"_TagName": "gallstone",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1639",
+				"_TagName": "bile-biliary-duct",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1640",
+				"_TagName": "choledocholithiasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1641",
+				"_TagName": "biliary-microlithiasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1642",
+				"_TagName": "dermatillomania",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1643",
+				"_TagName": "breaking-habits",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1644",
+				"_TagName": "rosacea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1645",
+				"_TagName": "butterfly-rash",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1646",
+				"_TagName": "drop-attacks",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1647",
+				"_TagName": "inner-ear",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1648",
+				"_TagName": "stain-removal-teeth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1649",
+				"_TagName": "white-strips-teeth",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1650",
+				"_TagName": "buccal-nerve",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1651",
+				"_TagName": "microneedling",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1652",
+				"_TagName": "face-mask-respirator",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1653",
+				"_TagName": "periorbital-dark-circles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1654",
+				"_TagName": "periorbital-puffiness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1655",
+				"_TagName": "blood-sugar",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1656",
+				"_TagName": "multi-task",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1657",
+				"_TagName": "coordination",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1658",
+				"_TagName": "left-vs-right-brain",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1659",
+				"_TagName": "bimanual-interference",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1660",
+				"_TagName": "stroop-effect",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1661",
+				"_TagName": "gilberts-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1662",
+				"_TagName": "penicillin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1663",
+				"_TagName": "heartbeat",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1664",
+				"_TagName": "warm-compress",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1665",
+				"_TagName": "hairline",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1666",
+				"_TagName": "dental-floss-pick",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1667",
+				"_TagName": "vital-signs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1668",
+				"_TagName": "chronic-pancreatitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1669",
+				"_TagName": "susceptibility",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1670",
+				"_TagName": "psychogenic-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1671",
+				"_TagName": "emergency-room-er",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1672",
+				"_TagName": "lumbago-low-back-pain",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1674",
+				"_TagName": "neurodegenerative-disease",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1676",
+				"_TagName": "sma-spinal-musc-atrophy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1677",
+				"_TagName": "stiff-tight-joints",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1678",
+				"_TagName": "hinge-joints",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1679",
+				"_TagName": "electromagnetism",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1680",
+				"_TagName": "vibrations",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1681",
+				"_TagName": "vitamin-a",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1682",
+				"_TagName": "healthy-cooking",
+				"_Count": "7"
+			},
+			{
+				"_Id": "1683",
+				"_TagName": "artificial-flavor",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1684",
+				"_TagName": "nutritional-info",
+				"_Count": "14"
+			},
+			{
+				"_Id": "1685",
+				"_TagName": "medical-training",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1686",
+				"_TagName": "iron-oxide-rust",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1690",
+				"_TagName": "shape-form-pattern",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1691",
+				"_TagName": "sprain-strain-twist",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1692",
+				"_TagName": "swimmers-ear",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1693",
+				"_TagName": "ear-irrigation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1694",
+				"_TagName": "lip-augmentation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1695",
+				"_TagName": "lip-injection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1696",
+				"_TagName": "silicone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1697",
+				"_TagName": "lip-plumper",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1698",
+				"_TagName": "zinc",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1699",
+				"_TagName": "papilledema",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1700",
+				"_TagName": "myopia-nearsightedness",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1701",
+				"_TagName": "iih-idiopath-intracra-hyp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1702",
+				"_TagName": "csf-cerebrospinal-fluid",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1703",
+				"_TagName": "myofascial-pain-syndrome",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1704",
+				"_TagName": "referred-pain",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1705",
+				"_TagName": "neurotransmitter",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1706",
+				"_TagName": "ach-acetylcholine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1707",
+				"_TagName": "ans-autonom-nervous-syst",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1708",
+				"_TagName": "biochemistry",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1709",
+				"_TagName": "neuroscience",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1710",
+				"_TagName": "nymphomania-satyriasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1711",
+				"_TagName": "mallet-finger",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1712",
+				"_TagName": "rehabilitation-exercises",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1713",
+				"_TagName": "sexual-penetration",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1714",
+				"_TagName": "airborne-transmission",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1715",
+				"_TagName": "contagion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1716",
+				"_TagName": "manic-state-mania",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1717",
+				"_TagName": "delusions",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1718",
+				"_TagName": "grandiose-delusions",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1719",
+				"_TagName": "vector",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1720",
+				"_TagName": "pearly-penile-papule-ppp",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1721",
+				"_TagName": "infrasound",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1722",
+				"_TagName": "eeg-electroencephalgrphy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1723",
+				"_TagName": "pre-ejaculate-cum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1724",
+				"_TagName": "erection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1725",
+				"_TagName": "sexual-arousal",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1726",
+				"_TagName": "heel",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1727",
+				"_TagName": "infrared",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1729",
+				"_TagName": "phantom-pain",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1730",
+				"_TagName": "limbs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1731",
+				"_TagName": "somatosensory-cortex-s1",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1732",
+				"_TagName": "clubfoot-cvet",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1733",
+				"_TagName": "fetal-positioning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1734",
+				"_TagName": "shins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1735",
+				"_TagName": "hamstring",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1736",
+				"_TagName": "stretch-marks-striae",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1737",
+				"_TagName": "restless-leg-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1738",
+				"_TagName": "acupuncture",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1739",
+				"_TagName": "superfuncdication",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1740",
+				"_TagName": "fraternal-twins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1741",
+				"_TagName": "half-siblings",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1742",
+				"_TagName": "sober",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1743",
+				"_TagName": "dehydratration",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1744",
+				"_TagName": "hang-nail",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1745",
+				"_TagName": "ganglion-cysts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1746",
+				"_TagName": "norovirus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1748",
+				"_TagName": "texture",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1749",
+				"_TagName": "catabolism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1750",
+				"_TagName": "time-management",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1753",
+				"_TagName": "stimulants",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1755",
+				"_TagName": "right-upper-quadraunt-ruq",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1756",
+				"_TagName": "myocardial-infarction-mi",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1757",
+				"_TagName": "coronary-bypass",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1758",
+				"_TagName": "prognosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1759",
+				"_TagName": "fallopian-tubes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1760",
+				"_TagName": "ovum-egg-oocyte",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1761",
+				"_TagName": "de-graafs-follicles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1762",
+				"_TagName": "plasma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1763",
+				"_TagName": "lymph-nodes",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1764",
+				"_TagName": "calluses",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1765",
+				"_TagName": "palms",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1766",
+				"_TagName": "substance-abuse",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1767",
+				"_TagName": "penetrate-trauma-wound",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1768",
+				"_TagName": "knife-stab-wound",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1769",
+				"_TagName": "proptosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1770",
+				"_TagName": "graves-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1771",
+				"_TagName": "corneal-limbus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1772",
+				"_TagName": "bleeding-ulcers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1773",
+				"_TagName": "bakers-cysts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1774",
+				"_TagName": "deep-vein-thrombosis-dvt",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1775",
+				"_TagName": "spinal-cord-compression",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1776",
+				"_TagName": "tree-man-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1777",
+				"_TagName": "health-insurance",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1778",
+				"_TagName": "gene-therapy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1779",
+				"_TagName": "sickle-cell-anemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1780",
+				"_TagName": "crispr-cas-system",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1781",
+				"_TagName": "altitude-sickness",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1782",
+				"_TagName": "footwear",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1783",
+				"_TagName": "myalgia-muscle-pain",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1784",
+				"_TagName": "strength-training",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1785",
+				"_TagName": "ischaemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1786",
+				"_TagName": "oedema",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1787",
+				"_TagName": "missed-dose",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1788",
+				"_TagName": "icd-intrntl-classif-disea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1791",
+				"_TagName": "gargling-gargle",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1792",
+				"_TagName": "echolocate-echolocation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1793",
+				"_TagName": "neuroplasticity",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1794",
+				"_TagName": "sensory-substituion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1795",
+				"_TagName": "rinsing-mouth",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1796",
+				"_TagName": "lunar-effect",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1797",
+				"_TagName": "birth-order",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1798",
+				"_TagName": "sibling-rivalry",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1799",
+				"_TagName": "middle-child-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1800",
+				"_TagName": "firstborn",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1801",
+				"_TagName": "parenting",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1802",
+				"_TagName": "anatomy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1803",
+				"_TagName": "dissection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1804",
+				"_TagName": "mummification",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1805",
+				"_TagName": "proton-pump-inhibitors",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1806",
+				"_TagName": "adolescents-teenagers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1807",
+				"_TagName": "fodmap",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1808",
+				"_TagName": "eyelash",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1809",
+				"_TagName": "idiopathic-hypersomnia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1810",
+				"_TagName": "eds-excess-day-sleepiness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1811",
+				"_TagName": "insect-repellents",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1812",
+				"_TagName": "insecticides",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1813",
+				"_TagName": "saline",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1814",
+				"_TagName": "breast-augmentation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1815",
+				"_TagName": "fructose",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1816",
+				"_TagName": "contact-lenses",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1817",
+				"_TagName": "brands",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1818",
+				"_TagName": "pcv-pneumococcal-vaccine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1819",
+				"_TagName": "os-oxidative-stress",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1820",
+				"_TagName": "mental-exhaustion",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1821",
+				"_TagName": "runny-nose",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1822",
+				"_TagName": "humidifier",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1823",
+				"_TagName": "yoga",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1824",
+				"_TagName": "cyanosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1825",
+				"_TagName": "phytoestrogens",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1826",
+				"_TagName": "amphetamine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1827",
+				"_TagName": "facial-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1828",
+				"_TagName": "acne-scar-laser-treatment",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1829",
+				"_TagName": "decomposition",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1830",
+				"_TagName": "ischemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1831",
+				"_TagName": "reattachment-surgery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1832",
+				"_TagName": "hemolysis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1833",
+				"_TagName": "atrial-septal-defect-asd",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1834",
+				"_TagName": "patent-ductus-arteriosus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1835",
+				"_TagName": "pitted-keratolysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1836",
+				"_TagName": "root-canal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1837",
+				"_TagName": "foreign-accent-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1838",
+				"_TagName": "amnesia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1839",
+				"_TagName": "pareidolia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1840",
+				"_TagName": "eardrum",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1841",
+				"_TagName": "perforate-perforation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1842",
+				"_TagName": "barotrauma",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1843",
+				"_TagName": "aviation",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1844",
+				"_TagName": "schwannoma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1845",
+				"_TagName": "neurofibromatosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1846",
+				"_TagName": "tapeworm",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1847",
+				"_TagName": "ringworm",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1848",
+				"_TagName": "starvation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1849",
+				"_TagName": "malnutrition",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1850",
+				"_TagName": "ecg-ekg-electrocardiogram",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1851",
+				"_TagName": "hymen",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1852",
+				"_TagName": "vulva",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1853",
+				"_TagName": "torso",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1854",
+				"_TagName": "aneurism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1855",
+				"_TagName": "e-coli",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1856",
+				"_TagName": "chlorine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1857",
+				"_TagName": "e-cigarette-vape",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1858",
+				"_TagName": "goose-egg",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1859",
+				"_TagName": "charley-horse",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1860",
+				"_TagName": "cramps",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1861",
+				"_TagName": "hematoma",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1862",
+				"_TagName": "tailbone-coccyx",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1864",
+				"_TagName": "appendage",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1865",
+				"_TagName": "spina-bifida",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1866",
+				"_TagName": "human-vestigial-features",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1867",
+				"_TagName": "brisk-reflexes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1868",
+				"_TagName": "dead-tooth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1869",
+				"_TagName": "lactase",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1870",
+				"_TagName": "myelin-sheath",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1871",
+				"_TagName": "calcific-tendonitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1872",
+				"_TagName": "lavage-aspiration",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1873",
+				"_TagName": "needle-aspiration",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1874",
+				"_TagName": "tweezers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1875",
+				"_TagName": "navel-stones-omphalolith",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1876",
+				"_TagName": "leukonychia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1877",
+				"_TagName": "vitiligo",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1878",
+				"_TagName": "oral-sex",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1879",
+				"_TagName": "fellatio",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1880",
+				"_TagName": "condom",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1881",
+				"_TagName": "genital-herpes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1882",
+				"_TagName": "vascularization",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1883",
+				"_TagName": "ahus-haemolytic-uremic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1884",
+				"_TagName": "creatinine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1886",
+				"_TagName": "blush-blushing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1887",
+				"_TagName": "flush-face-body",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1888",
+				"_TagName": "head-lice",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1889",
+				"_TagName": "abortion",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1890",
+				"_TagName": "aerobic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1891",
+				"_TagName": "crp-c-reactive-protein",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1892",
+				"_TagName": "vertebrae",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1893",
+				"_TagName": "cervical-vertebrae-cv",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1894",
+				"_TagName": "cuticle",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1895",
+				"_TagName": "blood-blister",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1896",
+				"_TagName": "tetanus-shot",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1897",
+				"_TagName": "fibula",
+				"_Count": "4"
+			},
+			{
+				"_Id": "1898",
+				"_TagName": "femur",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1899",
+				"_TagName": "ulna",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1900",
+				"_TagName": "ac-joint",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1901",
+				"_TagName": "scapula",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1902",
+				"_TagName": "pain-management",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1903",
+				"_TagName": "deltoid-muscle",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1904",
+				"_TagName": "biceps",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1905",
+				"_TagName": "sleep-paralysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1906",
+				"_TagName": "night-terrors",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1908",
+				"_TagName": "mastectomy-breast-removal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1909",
+				"_TagName": "mastalgia-breast-pain",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1910",
+				"_TagName": "sbt-supernumry-breast-tis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1911",
+				"_TagName": "mercury",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1912",
+				"_TagName": "mastitis-breast-infect",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1913",
+				"_TagName": "safety",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1914",
+				"_TagName": "vasopressin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1915",
+				"_TagName": "hypothalamus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1916",
+				"_TagName": "pituitary-gland",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1917",
+				"_TagName": "eye-patch",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1918",
+				"_TagName": "depth-perception",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1919",
+				"_TagName": "intertrigo",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1920",
+				"_TagName": "alkaline",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1921",
+				"_TagName": "maxilla",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1922",
+				"_TagName": "epistaxis--bloody-nose",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1923",
+				"_TagName": "dry-nose",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1924",
+				"_TagName": "hyperpigmentation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1926",
+				"_TagName": "phosphate",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1927",
+				"_TagName": "angular-spatial-resoluton",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1928",
+				"_TagName": "chalazion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1929",
+				"_TagName": "stys",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1930",
+				"_TagName": "pbcst-bloodcell-trnsplant",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1931",
+				"_TagName": "cobbs-angles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1932",
+				"_TagName": "vcm-vertebral-curve-angle",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1933",
+				"_TagName": "cravings",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1934",
+				"_TagName": "thalassemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1935",
+				"_TagName": "thrombocytopenia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1936",
+				"_TagName": "carrier-genetic",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1937",
+				"_TagName": "traumatic-encephalopathy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1942",
+				"_TagName": "fpies--protein-enterocol",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1943",
+				"_TagName": "moleskin-ft-shoe-padding",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1944",
+				"_TagName": "bandaid-plaster-bandage",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1945",
+				"_TagName": "overbite",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1946",
+				"_TagName": "fetoscopy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1947",
+				"_TagName": "amniotic-cavity",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1948",
+				"_TagName": "laparoscopy-keyhole",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1949",
+				"_TagName": "opioids-opiates",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1950",
+				"_TagName": "1st-trimester",
+				"_Count": "5"
+			},
+			{
+				"_Id": "1951",
+				"_TagName": "2nd-trimester",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1952",
+				"_TagName": "3rd-trimester",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1953",
+				"_TagName": "blurry-vision",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1954",
+				"_TagName": "pregnancy-test",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1955",
+				"_TagName": "malt",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1956",
+				"_TagName": "sublingual-gland",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1957",
+				"_TagName": "varicose-veins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1958",
+				"_TagName": "exertion",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1959",
+				"_TagName": "internal-fixation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1960",
+				"_TagName": "areola",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1961",
+				"_TagName": "areolar-montgomery-glands",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1962",
+				"_TagName": "lactiferous-ducts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1968",
+				"_TagName": "drainage",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1969",
+				"_TagName": "gaba-receptor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1970",
+				"_TagName": "apathy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1971",
+				"_TagName": "preventative-medicine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1972",
+				"_TagName": "dietician",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1973",
+				"_TagName": "personal-trainer",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1974",
+				"_TagName": "life-coach",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1975",
+				"_TagName": "stress-management",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1976",
+				"_TagName": "short-term-memory-loss",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1977",
+				"_TagName": "qualifiy-certify",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1978",
+				"_TagName": "thrombosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1979",
+				"_TagName": "calf-muscles-calves",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1980",
+				"_TagName": "loss-of-appetite",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1981",
+				"_TagName": "dorsiflexion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1982",
+				"_TagName": "laminectomy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1983",
+				"_TagName": "progeria",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1984",
+				"_TagName": "menopause",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1985",
+				"_TagName": "hot-flashes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1986",
+				"_TagName": "hypogonadism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1987",
+				"_TagName": "premature-menopause",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1988",
+				"_TagName": "indigestion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1990",
+				"_TagName": "superfood",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1991",
+				"_TagName": "sweeteners",
+				"_Count": "3"
+			},
+			{
+				"_Id": "1992",
+				"_TagName": "relapse",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1993",
+				"_TagName": "rubbing-alcohol-isopropyl",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1994",
+				"_TagName": "epa-eicosapentaenoic-acid",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1995",
+				"_TagName": "dha-docosahexaenoic-acid",
+				"_Count": "2"
+			},
+			{
+				"_Id": "1996",
+				"_TagName": "zio-patch",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1997",
+				"_TagName": "gastrocnemius-muscle",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1998",
+				"_TagName": "contracture",
+				"_Count": "1"
+			},
+			{
+				"_Id": "1999",
+				"_TagName": "peroneus-muscles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2000",
+				"_TagName": "achilles-tendon",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2001",
+				"_TagName": "gastroc.rel.-strayer-pro",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2002",
+				"_TagName": "prenatal-vitamins",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2003",
+				"_TagName": "a-linolenic-acid-ala",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2004",
+				"_TagName": "pre-diabetes",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2005",
+				"_TagName": "jendrassik-maneuver",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2006",
+				"_TagName": "gamma-motor-neuron",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2007",
+				"_TagName": "kyphosis-hunchback",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2008",
+				"_TagName": "back-brace",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2009",
+				"_TagName": "genome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2010",
+				"_TagName": "prolactin-levels",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2011",
+				"_TagName": "aed-defibrillator",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2012",
+				"_TagName": "aorta",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2013",
+				"_TagName": "body-piercings",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2014",
+				"_TagName": "helix-ear",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2015",
+				"_TagName": "fed-state",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2016",
+				"_TagName": "dialysis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2017",
+				"_TagName": "otc-over-the-counter",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2018",
+				"_TagName": "antidiarrheals",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2019",
+				"_TagName": "mastocytoma",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2020",
+				"_TagName": "mastocytosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2021",
+				"_TagName": "developmental-milestones",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2022",
+				"_TagName": "benign",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2023",
+				"_TagName": "malignant",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2024",
+				"_TagName": "tia-ischemic-attack",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2025",
+				"_TagName": "partial-binocular-blind",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2026",
+				"_TagName": "eus-endoscopic-ultrasound",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2027",
+				"_TagName": "egd-upper-endoscopy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2028",
+				"_TagName": "ercp-scope",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2029",
+				"_TagName": "duodenum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2030",
+				"_TagName": "bates-method-vision",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2031",
+				"_TagName": "synovial-fluid",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2032",
+				"_TagName": "race",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2033",
+				"_TagName": "type-2-diabetes",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2034",
+				"_TagName": "appetite",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2035",
+				"_TagName": "cpap-airway-machine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2036",
+				"_TagName": "nose-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2037",
+				"_TagName": "iui-intrauterine-insemin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2038",
+				"_TagName": "trendelenburgs-sign",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2039",
+				"_TagName": "pompe-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2040",
+				"_TagName": "sarcopenia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2041",
+				"_TagName": "gait-walk-abnormalities",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2042",
+				"_TagName": "double-jointed",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2043",
+				"_TagName": "breast-reduction-surgery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2044",
+				"_TagName": "bursitis",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2045",
+				"_TagName": "fes-funct-electr-stim",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2046",
+				"_TagName": "tanning",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2047",
+				"_TagName": "psoriasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2048",
+				"_TagName": "psvt-heart",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2049",
+				"_TagName": "ventricles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2050",
+				"_TagName": "congestive-prostatis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2051",
+				"_TagName": "chlamydia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2052",
+				"_TagName": "jock-itch-tinea-cruris",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2053",
+				"_TagName": "otitis-media-glue-ear",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2054",
+				"_TagName": "decibels",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2055",
+				"_TagName": "middle-ear",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2056",
+				"_TagName": "grommets-vent.-tubes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2057",
+				"_TagName": "gonorrhea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2058",
+				"_TagName": "syphilis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2059",
+				"_TagName": "yellow-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2060",
+				"_TagName": "epidemic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2061",
+				"_TagName": "postherpetic-neuralgia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2062",
+				"_TagName": "analgesic-pain-killer",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2063",
+				"_TagName": "medical-anthropology",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2064",
+				"_TagName": "ingrown-toenails",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2065",
+				"_TagName": "onset-early-stage-illness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2066",
+				"_TagName": "cracked-broken-tooth",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2067",
+				"_TagName": "screen-time-limits",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2068",
+				"_TagName": "class-schedule-of-drugs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2069",
+				"_TagName": "fop-stone-man-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2070",
+				"_TagName": "ossification",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2071",
+				"_TagName": "latent-disease-infection",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2072",
+				"_TagName": "alleles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2073",
+				"_TagName": "connective-tissue-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2074",
+				"_TagName": "leg-length-discrepancy",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2075",
+				"_TagName": "cirrhosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2076",
+				"_TagName": "fatty-liver-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2077",
+				"_TagName": "honey",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2078",
+				"_TagName": "triptane-tryptamine-meds",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2079",
+				"_TagName": "adhesives",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2080",
+				"_TagName": "trachoma",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2081",
+				"_TagName": "blink-blinking",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2082",
+				"_TagName": "alopecia-areata-lash-loss",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2085",
+				"_TagName": "addison-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2086",
+				"_TagName": "listeria",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2087",
+				"_TagName": "antibodies",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2088",
+				"_TagName": "euthanasia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2089",
+				"_TagName": "knotted-tangled-hair",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2090",
+				"_TagName": "detangler-spray",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2091",
+				"_TagName": "split-ends",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2092",
+				"_TagName": "comb-combing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2095",
+				"_TagName": "heroin",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2096",
+				"_TagName": "antidote",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2097",
+				"_TagName": "mastoid-bone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2098",
+				"_TagName": "hypoglycemia",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2099",
+				"_TagName": "biomagnetism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2100",
+				"_TagName": "water-breaking",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2101",
+				"_TagName": "labor-birth-coach",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2102",
+				"_TagName": "labor-birthing-classes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2103",
+				"_TagName": "braxton-hicks-false-labor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2104",
+				"_TagName": "scotomas-blind-spots",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2105",
+				"_TagName": "fortification-spectra",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2106",
+				"_TagName": "scintilla-flashing-lights",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2107",
+				"_TagName": "paresthesia-pins-needles",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2108",
+				"_TagName": "cns-central-nervous-systm",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2109",
+				"_TagName": "pinched-nerve",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2110",
+				"_TagName": "hypnic-jerks",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2112",
+				"_TagName": "mastoiditis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2113",
+				"_TagName": "litmus-test",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2114",
+				"_TagName": "hepatolithiasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2115",
+				"_TagName": "nerve-agt-organophospha",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2116",
+				"_TagName": "vx",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2117",
+				"_TagName": "chemical-warfare",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2118",
+				"_TagName": "sarin-gb",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2119",
+				"_TagName": "wmd-weapons-destruction",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2120",
+				"_TagName": "graft-versus-host-disease",
+				"_Count": "1",
+				"_ExcerptPostId": "11330",
+				"_WikiPostId": "11329"
+			},
+			{
+				"_Id": "2121",
+				"_TagName": "electromyography",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2122",
+				"_TagName": "magnetic-fields",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2124",
+				"_TagName": "flat-feet-fallen-arches",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2125",
+				"_TagName": "stethoscope",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2126",
+				"_TagName": "canine-tooth",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2127",
+				"_TagName": "vegan",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2128",
+				"_TagName": "folliculitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2129",
+				"_TagName": "anomic-aphasia-4get-words",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2130",
+				"_TagName": "monoamine-depletion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2131",
+				"_TagName": "blood-brain-barrier-bbb",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2132",
+				"_TagName": "second-opinion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2133",
+				"_TagName": "tc-total-cholesterol-lvl",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2134",
+				"_TagName": "obesity",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2135",
+				"_TagName": "squinted-eyes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2137",
+				"_TagName": "retrolisthesis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2138",
+				"_TagName": "sagittal-plane-balance",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2139",
+				"_TagName": "earthquake-safety",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2140",
+				"_TagName": "natural-disaster-safety",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2141",
+				"_TagName": "search-and-rescue-team",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2144",
+				"_TagName": "racing-thoughts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2146",
+				"_TagName": "aluminum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2147",
+				"_TagName": "cortisol",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2148",
+				"_TagName": "heat-exhaustion",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2149",
+				"_TagName": "heatstroke",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2150",
+				"_TagName": "hyperinsulinemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2151",
+				"_TagName": "metabolic-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2152",
+				"_TagName": "stents",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2153",
+				"_TagName": "hardware-removal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2154",
+				"_TagName": "esophageal-manometry",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2155",
+				"_TagName": "hidradenitis-suppurativa",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2156",
+				"_TagName": "emotional-eating",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2157",
+				"_TagName": "co-morbid",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2158",
+				"_TagName": "lip-balm",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2159",
+				"_TagName": "spf-sun-protection-factor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2160",
+				"_TagName": "cracked-lips",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2161",
+				"_TagName": "ichor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2162",
+				"_TagName": "double-vision",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2163",
+				"_TagName": "peripheral-vision",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2164",
+				"_TagName": "binocular-vision",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2165",
+				"_TagName": "pet-scan",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2166",
+				"_TagName": "soy",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2167",
+				"_TagName": "anti-angiogenesis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2168",
+				"_TagName": "tofu",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2169",
+				"_TagName": "gynecomastia-man-boobs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2170",
+				"_TagName": "gmo",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2171",
+				"_TagName": "collapsed-lung",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2172",
+				"_TagName": "vasectomy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2173",
+				"_TagName": "sids-sudden-infant-death",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2174",
+				"_TagName": "gluten",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2175",
+				"_TagName": "celiac-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2176",
+				"_TagName": "edible",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2177",
+				"_TagName": "msg",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2178",
+				"_TagName": "fmt-fecal-transplant",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2179",
+				"_TagName": "clostridium-difficile",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2180",
+				"_TagName": "adem-encephalomyelitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2181",
+				"_TagName": "demyelinating-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2182",
+				"_TagName": "typhus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2183",
+				"_TagName": "eva-vestibular-aqueduct",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2184",
+				"_TagName": "morphine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2185",
+				"_TagName": "acute-heart-failure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2186",
+				"_TagName": "dengue",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2187",
+				"_TagName": "iq-intelligence",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2188",
+				"_TagName": "femoral-artery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2189",
+				"_TagName": "radial-artery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2190",
+				"_TagName": "muscular-atrophy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2191",
+				"_TagName": "muscular-dystrophy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2192",
+				"_TagName": "flexing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2193",
+				"_TagName": "coronary-calcium-scan",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2194",
+				"_TagName": "artery-calcification",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2195",
+				"_TagName": "smith-lemli-opitz-syn",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2196",
+				"_TagName": "mutations",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2197",
+				"_TagName": "dental-braces",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2198",
+				"_TagName": "teeth-alignment",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2199",
+				"_TagName": "lithium",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2200",
+				"_TagName": "ammonia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2201",
+				"_TagName": "aphrodasiac",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2202",
+				"_TagName": "conceive",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2203",
+				"_TagName": "cbc-complete-blood-count",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2204",
+				"_TagName": "body-building",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2205",
+				"_TagName": "rectus-abdominis-6-pack",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2206",
+				"_TagName": "nose-blowing",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2207",
+				"_TagName": "noise-protection-earmuffs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2208",
+				"_TagName": "safety-gear",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2209",
+				"_TagName": "buergers-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2210",
+				"_TagName": "legs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2211",
+				"_TagName": "stapes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2212",
+				"_TagName": "incus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2213",
+				"_TagName": "malleus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2214",
+				"_TagName": "organ-of-corti",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2215",
+				"_TagName": "inner-hair-cells",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2216",
+				"_TagName": "chemophobia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2217",
+				"_TagName": "epinephrine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2219",
+				"_TagName": "hypochondria",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2221",
+				"_TagName": "munchausen-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2222",
+				"_TagName": "sinus-rhythm",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2223",
+				"_TagName": "left-axis-deviation-lad",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2224",
+				"_TagName": "acrophobia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2225",
+				"_TagName": "utricle-saccule",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2226",
+				"_TagName": "vestibular-system",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2227",
+				"_TagName": "phagophobia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2228",
+				"_TagName": "gag-reflex",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2229",
+				"_TagName": "nosemaphobia",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2230",
+				"_TagName": "medical-miracles",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2231",
+				"_TagName": "brain-dead",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2232",
+				"_TagName": "embryo",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2233",
+				"_TagName": "osmophobia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2234",
+				"_TagName": "malabsorption-syndrome",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2235",
+				"_TagName": "kwashiorkor",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2236",
+				"_TagName": "noise-induce-hearing-harm",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2237",
+				"_TagName": "seasickness",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2238",
+				"_TagName": "gunshot-wounds",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2239",
+				"_TagName": "altas-c1",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2240",
+				"_TagName": "axis-c2",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2241",
+				"_TagName": "posterior-bulging-discs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2242",
+				"_TagName": "dural-thecal-sac",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2243",
+				"_TagName": "cauda-equina-syndrome-ces",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2244",
+				"_TagName": "costochondritis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2245",
+				"_TagName": "thoracic-vertebrae",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2246",
+				"_TagName": "kendrick-extricate-device",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2247",
+				"_TagName": "arachnoid-cysts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2248",
+				"_TagName": "mucous-retention-cyst",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2249",
+				"_TagName": "amniocentesis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2250",
+				"_TagName": "antenatal-package",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2251",
+				"_TagName": "rubella",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2252",
+				"_TagName": "glycated-hemoglobin-hba1c",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2253",
+				"_TagName": "urea",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2254",
+				"_TagName": "hand-sanitizers",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2255",
+				"_TagName": "antibacterial-resistance",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2256",
+				"_TagName": "ssis-meds",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2257",
+				"_TagName": "chemotherapy",
+				"_Count": "6"
+			},
+			{
+				"_Id": "2258",
+				"_TagName": "antineoplastic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2259",
+				"_TagName": "metastatic-cancer",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2260",
+				"_TagName": "lower-palate",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2261",
+				"_TagName": "oxygen",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2262",
+				"_TagName": "cocaine",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2263",
+				"_TagName": "acl-ligament",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2264",
+				"_TagName": "dorsal-upper-back-side",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2265",
+				"_TagName": "dermatomes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2266",
+				"_TagName": "poison-ivy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2267",
+				"_TagName": "spider-bites",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2268",
+				"_TagName": "hiatal-hernia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2269",
+				"_TagName": "hyperkalemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2270",
+				"_TagName": "hyponatremia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2271",
+				"_TagName": "bioinformatics",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2272",
+				"_TagName": "mesothelioma-disease",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2273",
+				"_TagName": "asbestos-exposure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2274",
+				"_TagName": "cytology",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2275",
+				"_TagName": "dyspnoea-short-breath",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2276",
+				"_TagName": "osteomyelitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2277",
+				"_TagName": "stillbirth-iufd",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2278",
+				"_TagName": "obstetrical-complications",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2279",
+				"_TagName": "amoebiasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2280",
+				"_TagName": "filariasis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2281",
+				"_TagName": "hypodermic",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2282",
+				"_TagName": "false-memory",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2283",
+				"_TagName": "heaf-test",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2284",
+				"_TagName": "starch",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2285",
+				"_TagName": "air-pressure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2286",
+				"_TagName": "water-pressure",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2287",
+				"_TagName": "kinesthesia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2288",
+				"_TagName": "air-filter-purifier",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2289",
+				"_TagName": "water-filter-purifier",
+				"_Count": "3"
+			},
+			{
+				"_Id": "2290",
+				"_TagName": "contaminate",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2291",
+				"_TagName": "public-sanitation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2292",
+				"_TagName": "hay-fever",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2293",
+				"_TagName": "eidetic-photograph-memory",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2294",
+				"_TagName": "hyperthymesia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2295",
+				"_TagName": "memory-palace",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2296",
+				"_TagName": "white-matter",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2297",
+				"_TagName": "hyperintense-focus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2298",
+				"_TagName": "gyrus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2299",
+				"_TagName": "grey-matter",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2300",
+				"_TagName": "parietal-lobes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2301",
+				"_TagName": "temporal-lobe",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2302",
+				"_TagName": "carbonated-carbonation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2303",
+				"_TagName": "mildew",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2304",
+				"_TagName": "synthetic-fabric",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2305",
+				"_TagName": "waterproof-repellent",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2306",
+				"_TagName": "formaldehyde",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2307",
+				"_TagName": "legumes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2308",
+				"_TagName": "crowns-dental",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2309",
+				"_TagName": "whiplash",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2310",
+				"_TagName": "spondylosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2311",
+				"_TagName": "asymptomatic",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2312",
+				"_TagName": "bifasicular-block",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2313",
+				"_TagName": "purkinje-fibers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2314",
+				"_TagName": "bundle-of-his",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2315",
+				"_TagName": "pacemaker",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2316",
+				"_TagName": "sulphate",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2317",
+				"_TagName": "capillary-capillaries",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2318",
+				"_TagName": "reticular-dermis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2319",
+				"_TagName": "dermal-elastic-fibers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2320",
+				"_TagName": "cremation",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2321",
+				"_TagName": "ashes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2322",
+				"_TagName": "human-remains",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2323",
+				"_TagName": "cadavears",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2324",
+				"_TagName": "glottis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2325",
+				"_TagName": "exhale-exhaling",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2326",
+				"_TagName": "ross-river-virus",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2327",
+				"_TagName": "hyperprolactinemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2328",
+				"_TagName": "fsh-follicule-hormone",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2329",
+				"_TagName": "chilblains",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2330",
+				"_TagName": "extremities",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2331",
+				"_TagName": "erythema",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2332",
+				"_TagName": "frostbite",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2333",
+				"_TagName": "polycythemia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2334",
+				"_TagName": "laryngomalacia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2335",
+				"_TagName": "nocturia",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2336",
+				"_TagName": "refrigerate-refrigeration",
+				"_Count": "2"
+			},
+			{
+				"_Id": "2337",
+				"_TagName": "peptide",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2338",
+				"_TagName": "drooling",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2339",
+				"_TagName": "body-type",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2340",
+				"_TagName": "siblings",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2341",
+				"_TagName": "keloids",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2342",
+				"_TagName": "papules",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2343",
+				"_TagName": "nodules",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2344",
+				"_TagName": "acne-vulgaris",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2345",
+				"_TagName": "plantar-wart",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2346",
+				"_TagName": "palmar-warts",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2347",
+				"_TagName": "carotid-artery",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2348",
+				"_TagName": "atherosclerosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2349",
+				"_TagName": "hair-color",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2350",
+				"_TagName": "hair-type",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2351",
+				"_TagName": "internal-organs",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2352",
+				"_TagName": "surgical-masks",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2353",
+				"_TagName": "usmle-exam",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2354",
+				"_TagName": "img-exam",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2355",
+				"_TagName": "juice",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2356",
+				"_TagName": "tonsillitis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2357",
+				"_TagName": "red-cross",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2358",
+				"_TagName": "arthoscropy",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2359",
+				"_TagName": "embolism",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2360",
+				"_TagName": "medical-history",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2362",
+				"_TagName": "lips",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2363",
+				"_TagName": "hickey",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2364",
+				"_TagName": "incision",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2365",
+				"_TagName": "alpha-blockers",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2366",
+				"_TagName": "bladder-neck",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2367",
+				"_TagName": "anastomosis",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2368",
+				"_TagName": "cotton-swabs-q-tips",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2369",
+				"_TagName": "ear-canal",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2370",
+				"_TagName": "vinegar",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2371",
+				"_TagName": "cotton-balls",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2372",
+				"_TagName": "thermometer",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2373",
+				"_TagName": "copper",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2374",
+				"_TagName": "eye-floaters",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2375",
+				"_TagName": "zygote",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2376",
+				"_TagName": "blighted-ovum",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2377",
+				"_TagName": "gestation-period",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2378",
+				"_TagName": "chromosomes",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2379",
+				"_TagName": "vehicle-car-accident",
+				"_Count": "1"
+			},
+			{
+				"_Id": "2380",
+				"_TagName": "ambulance",
+				"_Count": "1"
+			}
+		]
