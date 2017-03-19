@@ -105,7 +105,7 @@ Users - 18,384 ms
 ```
 SELECT Title,CreationDate 
 FROM Posts 
-ORDER BY CREATIONDATE 
+ORDER BY CreationDate 
 ASC LIMIT 5;
 ```
 
