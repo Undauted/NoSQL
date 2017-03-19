@@ -23,6 +23,8 @@ Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-d
 
 ### PostgreSQL
 
+Zbiór danych - [Health](https://archive.org/download/stackexchange/health.stackexchange.com.7z)
+
 <h6>Utworzenie tabeli</h6>
 
 <h7>Posts</h7>
