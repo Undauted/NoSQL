@@ -14,14 +14,14 @@ Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
 
 Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-data/)
 
-## Zaliczenie:
+# Zaliczenie:
 
-### Zadanie GEO
+## Zadanie GEO
 [Zadanie GEO](https://undauted.github.io/NoSQL/) 
      
-### Zadanie 1
+## Zadanie 1
 
-#### PostgreSQL
+### PostgreSQL
 
 <h6>Utworzenie tabeli</h6>
 
@@ -298,7 +298,7 @@ DESC LIMIT 8;
      </tbody>
 </table>
 
-#### MongoDB
+### MongoDB
 
 Zbiór danych - [Health](https://archive.org/download/stackexchange/health.stackexchange.com.7z)
 
