@@ -1,0 +1,436 @@
+{ 
+ "type": "FeatureCollection",
+  "features":[{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16dd"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			21,
+			52.233
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Warsaw",
+		"city": "Warsaw"
+	},
+	"id": "Warsaw"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16da"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			19.933,
+			50.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Krak%C3%B3w",
+		"city": "Krak%C3%B3w"
+	},
+	"id": "Krak%C3%B3w"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16dc"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			20.517,
+			54.717
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Kaliningrad",
+		"city": "Kaliningrad"
+	},
+	"id": "Kaliningrad"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16d6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			18.667,
+			54.35
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Gda%C5%84sk",
+		"city": "Gda%C5%84sk"
+	},
+	"id": "Gda%C5%84sk"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16e4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			24.017,
+			49.85
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Lviv",
+		"city": "Lviv"
+	},
+	"id": "Lviv"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16e9"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			25.283,
+			54.683
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Vilnius",
+		"city": "Vilnius"
+	},
+	"id": "Vilnius"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16f4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			27.567,
+			53.9
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Minsk",
+		"city": "Minsk"
+	},
+	"id": "Minsk"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16c0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			13.417,
+			52.517
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Berlin",
+		"city": "Berlin"
+	},
+	"id": "Berlin"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16c4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			14.417,
+			50.083
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Prague",
+		"city": "Prague"
+	},
+	"id": "Prague"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16c1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			13.733,
+			51.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Dresden",
+		"city": "Dresden"
+	},
+	"id": "Dresden"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16d1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			17.1,
+			48.133
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Bratislava",
+		"city": "Bratislava"
+	},
+	"id": "Bratislava"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16d7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			19.05,
+			47.467
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Budapest",
+		"city": "Budapest"
+	},
+	"id": "Budapest"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16cf"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			16.367,
+			48.2
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Vienna",
+		"city": "Vienna"
+	},
+	"id": "Vienna"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16e5"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			24.133,
+			56.967
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Riga",
+		"city": "Riga"
+	},
+	"id": "Riga"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16b7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			12.383,
+			51.333
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Leipzig",
+		"city": "Leipzig"
+	},
+	"id": "Leipzig"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16bc"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			13.033,
+			55.583
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Malm%C3%B6",
+		"city": "Malm%C3%B6"
+	},
+	"id": "Malm%C3%B6"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16c3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			14.283,
+			48.3
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Linz",
+		"city": "Linz"
+	},
+	"id": "Linz"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16bb"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			12.567,
+			55.667
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Copenhagen",
+		"city": "Copenhagen"
+	},
+	"id": "Copenhagen"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1702"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			30.517,
+			50.45
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Kiev",
+		"city": "Kiev"
+	},
+	"id": "Kiev"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16cc"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			15.433,
+			47.067
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Graz",
+		"city": "Graz"
+	},
+	"id": "Graz"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16bd"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			13.033,
+			47.8
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Salzburg",
+		"city": "Salzburg"
+	},
+	"id": "Salzburg"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16af"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			9.983,
+			53.583
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Hamburg",
+		"city": "Hamburg"
+	},
+	"id": "Hamburg"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16ae"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			9.717,
+			52.367
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Hanover",
+		"city": "Hanover"
+	},
+	"id": "Hanover"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16ef"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			26.717,
+			58.383
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Tartu",
+		"city": "Tartu"
+	},
+	"id": "Tartu"
+}]
+
+}

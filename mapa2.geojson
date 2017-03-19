@@ -1,0 +1,1425 @@
+{ 
+ "type": "FeatureCollection",
+  "features":[{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf159b"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-122.667,
+			45.517
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Portland,_Oregon",
+		"city": "Portland"
+	},
+	"id": "Portland"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf159c"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-122.417,
+			37.767
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "San_Francisco",
+		"city": "San Francisco"
+	},
+	"id": "San Francisco"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf159d"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-122.317,
+			47.6
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Seattle",
+		"city": "Seattle"
+	},
+	"id": "Seattle"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf159e"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-121.467,
+			38.55
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Sacramento,_California",
+		"city": "Sacramento"
+	},
+	"id": "Sacramento"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf159f"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-118.25,
+			34.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Los_Angeles",
+		"city": "Los Angeles"
+	},
+	"id": "Los Angeles"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-117.383,
+			33.933
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Riverside,_California",
+		"city": "Riverside"
+	},
+	"id": "Riverside"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-117.15,
+			32.767
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "San_Diego",
+		"city": "San Diego"
+	},
+	"id": "San Diego"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a2"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-117.033,
+			32.517
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Tijuana",
+		"city": "Tijuana"
+	},
+	"id": "Tijuana"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-115.467,
+			32.667
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Mexicali",
+		"city": "Mexicali"
+	},
+	"id": "Mexicali"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-115.133,
+			36.167
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Las_Vegas,_Nevada",
+		"city": "Las Vegas"
+	},
+	"id": "Las Vegas"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a8"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-112.067,
+			33.433
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Phoenix,_Arizona",
+		"city": "Phoenix"
+	},
+	"id": "Phoenix"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15a9"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-111.883,
+			40.75
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Salt_Lake_City",
+		"city": "Salt Lake City"
+	},
+	"id": "Salt Lake City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15aa"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-110.917,
+			32.2
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Tucson,_Arizona",
+		"city": "Tucson"
+	},
+	"id": "Tucson"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ab"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-109.433,
+			27.15
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Hanga_Roa",
+		"city": "Hanga Roa"
+	},
+	"id": "Hanga Roa"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ad"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-106.6,
+			35.1
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Albuquerque,_New_Mexico",
+		"city": "Albuquerque"
+	},
+	"id": "Albuquerque"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ae"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-106.417,
+			31.783
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "El_Paso,_Texas",
+		"city": "El Paso"
+	},
+	"id": "El Paso"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15af"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-106,
+			28.1
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Chihuahua,_Chihuahua",
+		"city": "Chihuahua"
+	},
+	"id": "Chihuahua"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-104.983,
+			39.733
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Denver",
+		"city": "Denver"
+	},
+	"id": "Denver"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-104.667,
+			24.017
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Durango,_Durango",
+		"city": "Durango"
+	},
+	"id": "Durango"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-103.4,
+			20.767
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Zapopan,_Jalisco",
+		"city": "Zapopan"
+	},
+	"id": "Zapopan"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-103.35,
+			20.667
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Guadalajara,_Jalisco",
+		"city": "Guadalajara"
+	},
+	"id": "Guadalajara"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b5"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-100.3,
+			25.667
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Monterrey",
+		"city": "Monterrey"
+	},
+	"id": "Monterrey"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-99.117,
+			19.4
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Mexico_City",
+		"city": "Mexico City"
+	},
+	"id": "Mexico City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-98.467,
+			29.533
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "San_Antonio",
+		"city": "San Antonio"
+	},
+	"id": "San Antonio"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b8"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-98.2,
+			19.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Puebla,_Puebla",
+		"city": "Puebla"
+	},
+	"id": "Puebla"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15b9"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-97.767,
+			30.267
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Austin,_Texas",
+		"city": "Austin"
+	},
+	"id": "Austin"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ba"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-97.533,
+			35.467
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Oklahoma_City",
+		"city": "Oklahoma City"
+	},
+	"id": "Oklahoma City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15bb"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-97.333,
+			37.683
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Wichita,_Kansas",
+		"city": "Wichita"
+	},
+	"id": "Wichita"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15bd"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-96.8,
+			32.767
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Dallas",
+		"city": "Dallas"
+	},
+	"id": "Dallas"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15be"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-96.133,
+			19.183
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Veracruz,_Veracruz",
+		"city": "Veracruz"
+	},
+	"id": "Veracruz"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15bf"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-95.367,
+			29.75
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Houston",
+		"city": "Houston"
+	},
+	"id": "Houston"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-94.567,
+			39.1
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Kansas_City,_Missouri",
+		"city": "Kansas City"
+	},
+	"id": "Kansas City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-93.25,
+			44.967
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Minneapolis",
+		"city": "Minneapolis"
+	},
+	"id": "Minneapolis"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-90.183,
+			38.617
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "St._Louis,_Missouri",
+		"city": "St. Louis"
+	},
+	"id": "St. Louis"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c5"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-90.067,
+			29.967
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "New_Orleans",
+		"city": "New Orleans"
+	},
+	"id": "New Orleans"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-89.967,
+			35.117
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Memphis,_Tennessee",
+		"city": "Memphis"
+	},
+	"id": "Memphis"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15c7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-89.617,
+			20.967
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "M%C3%A9rida,_Yucat%C3%A1n",
+		"city": "M%C3%A9rida"
+	},
+	"id": "M%C3%A9rida"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15cb"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-87.95,
+			47.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Milwaukee",
+		"city": "Milwaukee"
+	},
+	"id": "Milwaukee"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15cc"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-87.617,
+			41.867
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Chicago",
+		"city": "Chicago"
+	},
+	"id": "Chicago"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ce"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-86.783,
+			36.167
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Nashville,_Tennessee",
+		"city": "Nashville"
+	},
+	"id": "Nashville"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-86.15,
+			39.783
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Indianapolis",
+		"city": "Indianapolis"
+	},
+	"id": "Indianapolis"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-85.75,
+			38.25
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Louisville,_Kentucky",
+		"city": "Louisville"
+	},
+	"id": "Louisville"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d2"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-84.5,
+			39.133
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Cincinnati",
+		"city": "Cincinnati"
+	},
+	"id": "Cincinnati"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-84.383,
+			33.75
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Atlanta",
+		"city": "Atlanta"
+	},
+	"id": "Atlanta"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d5"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-83.05,
+			42.333
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Detroit",
+		"city": "Detroit"
+	},
+	"id": "Detroit"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-82.983,
+			39.983
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Columbus,_Ohio",
+		"city": "Columbus"
+	},
+	"id": "Columbus"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-82.467,
+			27.967
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Tampa,_Florida",
+		"city": "Tampa"
+	},
+	"id": "Tampa"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d8"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-82.383,
+			23.133
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Havana",
+		"city": "Havana"
+	},
+	"id": "Havana"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15d9"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-81.667,
+			41.483
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Cleveland",
+		"city": "Cleveland"
+	},
+	"id": "Cleveland"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15da"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-81.65,
+			30.317
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Jacksonville,_Florida",
+		"city": "Jacksonville"
+	},
+	"id": "Jacksonville"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15dc"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-80.817,
+			35.2
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Charlotte,_North_Carolina",
+		"city": "Charlotte"
+	},
+	"id": "Charlotte"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15dd"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-80.217,
+			25.783
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Miami",
+		"city": "Miami"
+	},
+	"id": "Miami"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15de"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.967,
+			40.433
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Pittsburgh",
+		"city": "Pittsburgh"
+	},
+	"id": "Pittsburgh"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.383,
+			43.65
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Toronto",
+		"city": "Toronto"
+	},
+	"id": "Toronto"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e2"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-78.85,
+			42.9
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Buffalo,_New_York",
+		"city": "Buffalo"
+	},
+	"id": "Buffalo"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-78.633,
+			35.817
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Raleigh,_North_Carolina",
+		"city": "Raleigh"
+	},
+	"id": "Raleigh"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e5"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-77.6,
+			43.15
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Rochester,_New_York",
+		"city": "Rochester"
+	},
+	"id": "Rochester"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-77.333,
+			25.05
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Nassau,_Bahamas",
+		"city": "Nassau"
+	},
+	"id": "Nassau"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15e7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-77.033,
+			38.883
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Washington,_D.C.",
+		"city": "Washington"
+	},
+	"id": "Washington"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ea"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-76.617,
+			39.283
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Baltimore",
+		"city": "Baltimore"
+	},
+	"id": "Baltimore"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ec"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-75.983,
+			36.85
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Virginia_Beach",
+		"city": "Virginia Beach"
+	},
+	"id": "Virginia Beach"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ed"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-75.8,
+			20.017
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Santiago_de_Cuba",
+		"city": "Santiago de Cuba"
+	},
+	"id": "Santiago de Cuba"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15ee"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-75.683,
+			45.417
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Ottawa",
+		"city": "Ottawa"
+	},
+	"id": "Ottawa"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15f1"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-75.167,
+			39.95
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Philadelphia",
+		"city": "Philadelphia"
+	},
+	"id": "Philadelphia"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15f3"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-74.183,
+			39.817
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Forked_River",
+		"city": "Forked River"
+	},
+	"id": "Forked River"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15f4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-74.133,
+			41.433
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Jersey_City,_New_Jersey",
+		"city": "Jersey City"
+	},
+	"id": "Jersey City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15f6"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-74,
+			40.717
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "New_York_City",
+		"city": "New York City"
+	},
+	"id": "New York City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf15f7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-73.55,
+			45.5
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Montreal",
+		"city": "Montreal"
+	},
+	"id": "Montreal"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1600"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-71.417,
+			41.817
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Providence,_Rhode_Island",
+		"city": "Providence"
+	},
+	"id": "Providence"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1603"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-71.217,
+			46.8
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Quebec_City",
+		"city": "Quebec City"
+	},
+	"id": "Quebec City"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1604"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-71.133,
+			21.45
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Cockburn_Town",
+		"city": "Cockburn Town"
+	},
+	"id": "Cockburn Town"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1605"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-71.05,
+			42.35
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Boston",
+		"city": "Boston"
+	},
+	"id": "Boston"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1615"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-66.667,
+			45.95
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Fredericton",
+		"city": "Fredericton"
+	},
+	"id": "Fredericton"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1617"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-66.05,
+			45.267
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Saint_John,_New_Brunswick",
+		"city": "Saint John"
+	},
+	"id": "Saint John"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf161e"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-63.6,
+			44.667
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "City_of_Halifax",
+		"city": "City of Halifax"
+	},
+	"id": "City of Halifax"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1620"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-63.133,
+			46.233
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Charlottetown",
+		"city": "Charlottetown"
+	},
+	"id": "Charlottetown"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1624"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-52.7,
+			47.55
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "St._John%27s,_Newfoundland_and_Labrador",
+		"city": "St. John%27s"
+	},
+	"id": "St. John%27s"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1634"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-56.167,
+			46.767
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Saint-Pierre,_Saint_Pierre_and_Miquelon",
+		"city": "Saint-Pierre"
+	},
+	"id": "Saint-Pierre"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf163e"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-51.217,
+			30.033
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Porto_Alegre",
+		"city": "Porto Alegre"
+	},
+	"id": "Porto Alegre"
+}]
+}

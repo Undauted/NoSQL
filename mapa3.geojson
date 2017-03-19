@@ -1,0 +1,273 @@
+{ 
+ "type": "FeatureCollection",
+  "features":[{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1681"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-0.117,
+			51.5
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "London",
+		"city": "London"
+	},
+	"id": "London"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1682"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			0,
+			51.467
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Greenwich",
+		"city": "Greenwich"
+	},
+	"id": "Greenwich"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1689"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.333,
+			48.867
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Paris",
+		"city": "Paris"
+	},
+	"id": "Paris"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1690"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			4.3,
+			52.067
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "The_Hague",
+		"city": "The Hague"
+	},
+	"id": "The Hague"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1691"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			4.35,
+			50.833
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Brussels",
+		"city": "Brussels"
+	},
+	"id": "Brussels"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1692"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			4.4,
+			51.217
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Antwerp",
+		"city": "Antwerp"
+	},
+	"id": "Antwerp"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1693"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			4.467,
+			51.933
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Rotterdam",
+		"city": "Rotterdam"
+	},
+	"id": "Rotterdam"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1695"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			4.883,
+			52.367
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Amsterdam",
+		"city": "Amsterdam"
+	},
+	"id": "Amsterdam"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1698"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			6.117,
+			49.6
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Luxembourg_(city)",
+		"city": "Luxembourg (city)"
+	},
+	"id": "Luxembourg (city)"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf1699"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			6.15,
+			46.2
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Geneva",
+		"city": "Geneva"
+	},
+	"id": "Geneva"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf169b"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			6.783,
+			51.233
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "D%C3%BCsseldorf",
+		"city": "D%C3%BCsseldorf"
+	},
+	"id": "D%C3%BCsseldorf"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf169c"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			6.967,
+			50.95
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Cologne",
+		"city": "Cologne"
+	},
+	"id": "Cologne"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16a0"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			7.45,
+			46.95
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Bern",
+		"city": "Bern"
+	},
+	"id": "Bern"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16a4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			7.75,
+			48.583
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Strasbourg",
+		"city": "Strasbourg"
+	},
+	"id": "Strasbourg"
+},
+{
+	"_id": {
+		"$oid": "58c92c5afdd8d6722fdf16a7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			8.683,
+			50.1
+		]
+	},
+	"type": "Feature",
+	"properties": {
+		"wikipedia": "Frankfurt",
+		"city": "Frankfurt"
+	},
+	"id": "Frankfurt"
+}]
+}
