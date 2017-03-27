@@ -1,0 +1,8 @@
+MUST HAVE:
+
+- MongoDB
+- Python
+
+1. Start in command line file prepare_file.bat
+2. When you don't have error start file resul_all.bat
+3. Now you have three maps in main folder
