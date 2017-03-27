@@ -19,13 +19,15 @@ Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-d
 ## Zadanie GEO
 [Zadanie GEO](https://undauted.github.io/NoSQL/)
 
+Instrukcja do skryptów znajduje się [tutaj]()
+
 Zbiór danych: [Offshore wells on the UKCS](http://data.ogauthority.opendata.arcgis.com/datasets/40b80e75b8004fab8c87218ae1664d91_0.csv). 
  
 Dane jakie zostały wykorzystane w tym zadaniu zawierają zbiór odwiertów morskich wokół Wielkiej Brytanii. Mamy tutaj plik csv zajmujący 3.9 MB, który zawiera najważniejsze informacje dotyczące odwiertów morskich.
 
 Plik csv został skonwertowany za pomocą strony [MyGeodata](https://mygeodata.cloud/converter/csv-to-geojson). Po konwersji plik zajmuje 12.9 MB.
 
-Liczba rekordów:
+<h6>Liczba rekordów</h6>
 
 ```
 Imported 11832 documents
@@ -89,7 +91,7 @@ Imported 11832 documents
 }
 ```
 
-<h6>Wyjaśnienie niektórych pól</h6>
+<h6>Wyjaśnienie najistotniejszych pól</h6>
 <br>
 <table>
   <thead>
@@ -126,7 +128,78 @@ Imported 11832 documents
     </tr>
  </tbody>
 </table>
-	
+
+### MongoDb
+
+<h6>Stworzenie bazy ORG</h6>
+
+```
+use ORG
+```
+
+<h6>Stworzenie kolekcji Wells</h6>	
+
+```
+db.createCollection("Wells")
+```
+
+<h6>Import danych do bazy</h6>	
+
+```
+mongoimport --db ORG --collection Wells --file OGA_Wells_WGS84.geojson --jsonArray
+```
+
+### Zapytania
+
+<h6>Odwierty położone 5km od odwiertu własności CONOCOPHILLIPS o koordynatach (53.44106130104489, 2.393602625903736)</h6>
+
+```
+db.Wells.find({
+	geometry:{
+		$near:{
+			$geometry:{ 
+				"type" : "Point", 
+				"coordinates" : [ 2.393602625903736,53.44106130104489 ] },
+				$maxDistance:5000
+				}
+			}
+});
+
+```
+
+[Mapa 1](https://github.com/Undauted/NoSQL/blob/master/mapa1.geojson)
+
+<h6>Odwiert operatora ENERGY RESOURCE TECHNOLOGY jest położony w centrum, a pozostałe odwierty sa w promieniu 0.1(52.94598756402161, 2.1531123182033376)</h6>
+
+```
+db.Wells.find({
+	geometry: { 
+		$geoWithin: { 
+			$center:  [ [ 2.1531123182033376, 52.94598756402161  ], 0.1 ] 
+		} 
+	}
+});
+```
+
+[Mapa 2](https://github.com/Undauted/NoSQL/blob/master/mapa2.geojson)
+
+<h6>Odwierty położone w konkretnym czworokącie</h6>
+
+```
+db.Wells.find({
+	geometry: {
+		$geoWithin: { 
+			$geometry: { 
+				type : 'Polygon', 
+				coordinates: [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]    ]]
+			}
+		} 
+	}				
+});
+```
+
+[Mapa 3]((https://github.com/Undauted/NoSQL/blob/master/mapa3.geojson))
+
 ## Zadanie 1
 
 ### PostgreSQL
