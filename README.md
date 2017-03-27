@@ -19,7 +19,7 @@ Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-d
 ## Zadanie GEO
 [Zadanie GEO](https://undauted.github.io/NoSQL/)
 
-Instrukcja do skryptów znajduje się [tutaj]()
+Instrukcja do skryptów znajduje się [tutaj](https://github.com/Undauted/NoSQL/blob/master/UserManualScripts.txt)
 
 Zbiór danych: [Offshore wells on the UKCS](http://data.ogauthority.opendata.arcgis.com/datasets/40b80e75b8004fab8c87218ae1664d91_0.csv). 
  
