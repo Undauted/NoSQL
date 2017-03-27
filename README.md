@@ -151,7 +151,7 @@ mongoimport --db ORG --collection Wells --file OGA_Wells_WGS84.geojson --jsonArr
 
 ### Zapytania
 
-<h6>Odwierty położone 5km od odwiertu własności CONOCOPHILLIPS o koordynatach (53.44106130104489, 2.393602625903736)</h6>
+Odwierty położone 5km od odwiertu własności CONOCOPHILLIPS o koordynatach (53.44106130104489, 2.393602625903736)
 
 ```
 db.Wells.find({
@@ -169,7 +169,7 @@ db.Wells.find({
 
 [Mapa 1](https://github.com/Undauted/NoSQL/blob/master/mapa1.geojson)
 
-<h6>Odwiert operatora ENERGY RESOURCE TECHNOLOGY jest położony w centrum, a pozostałe odwierty sa w promieniu 0.1(52.94598756402161, 2.1531123182033376)</h6>
+Odwiert operatora ENERGY RESOURCE TECHNOLOGY jest położony w centrum, a pozostałe odwierty sa w promieniu 0.1(52.94598756402161, 2.1531123182033376)
 
 ```
 db.Wells.find({
@@ -183,7 +183,7 @@ db.Wells.find({
 
 [Mapa 2](https://github.com/Undauted/NoSQL/blob/master/mapa2.geojson)
 
-<h6>Odwierty położone w konkretnym czworokącie</h6>
+Odwierty położone w konkretnym czworokącie
 
 ```
 db.Wells.find({
