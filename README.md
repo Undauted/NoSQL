@@ -706,10 +706,16 @@ db.post.aggregate([{
 <h6>Wynik zapytania</h6>
 Patrz: Agregracja 3 PostgreSQL
 
+### Porównanie czasu importu dla PostgreSQL oraz MongoDB
 
-# Porównanie czasu wykonania agregacji dla PostgreSQL oraz Mongo
+| 	Import  | PostgreSQL   |   MongoDb  |
+|-----------|--------------|------------|
+| Posts     | 23,886 ms     | 628,1095 ms   |
+| Users     | 18,384 ms     |  344,4309 ms 	| 
 
-| Agregacja | PostgreSQL   | 	Mongo   |
+### Porównanie czasu wykonania agregacji dla PostgreSQL oraz MongoDB
+
+| Agregacja | PostgreSQL   |   MongoDB  |
 |-----------|--------------|------------|
 | 1         | 5,839 ms     |  8,29 ms   |
 | 2         | 2,502 ms     |  32 ms  	| 
