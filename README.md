@@ -169,7 +169,7 @@ db.Wells.find({
 
 [Mapa 1](https://github.com/Undauted/NoSQL/blob/master/mapa1.geojson)
 
-2. Odwiert operatora ENERGY RESOURCE TECHNOLOGY jest położony w centrum, a pozostałe odwierty sa w promieniu 0.1 (52.94598756402161, 2.1531123182033376)
+2. Odwiert operatora ENERGY RESOURCE TECHNOLOGY jest położony w centrum, a pozostałe odwierty sa w promieniu 0.1 od niego (52.94598756402161, 2.1531123182033376)
 
 ```
 db.Wells.find({
