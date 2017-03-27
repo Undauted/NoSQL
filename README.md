@@ -708,7 +708,7 @@ Patrz: Agregracja 3 PostgreSQL
 
 ### Porównanie czasu importu dla PostgreSQL oraz MongoDB
 
-| 	Import  | PostgreSQL   |   MongoDb  |
+| 	Import  | PostgreSQL   |   MongoDB  |
 |-----------|--------------|------------|
 | Posts     | 23,886 ms     | 628,1095 ms   |
 | Users     | 18,384 ms     |  344,4309 ms 	| 
