@@ -129,7 +129,7 @@ Imported 11832 documents
  </tbody>
 </table>
 
-### MongoDb
+### MongoDB
 
 <h6>Stworzenie bazy ORG</h6>
 
@@ -158,8 +158,8 @@ db.Wells.find({
 	geometry:{
 		$near:{
 			$geometry:{ 
-				"type" : "Point", 
-				"coordinates" : [ 2.393602625903736,53.44106130104489 ] },
+				type : "Point", 
+				coordinates : [ 2.393602625903736,53.44106130104489 ] },
 				$maxDistance:5000
 				}
 			}
