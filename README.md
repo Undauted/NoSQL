@@ -17,8 +17,78 @@ Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-d
 # Zaliczenie:
 
 ## Zadanie GEO
-[Zadanie GEO](https://undauted.github.io/NoSQL/) 
-     
+[Zadanie GEO](https://undauted.github.io/NoSQL/)
+
+Zbiór danych:[Offshore wells on the UKCS](http://data.ogauthority.opendata.arcgis.com/datasets/40b80e75b8004fab8c87218ae1664d91_0.csv) 
+Zbiór danych jaki został wykorzystany w tym zadaniu zawierazbiór odwiertów morskich wokół Wielkiej Brytanii. Mamy tutaj plik csv zajmujący 3.9 MB, który zawiera najważniejsze informacje dotyczące odwiertów morskich.
+Plik csv został skonwertowany za pomocą strony [MyGeodata](https://mygeodata.cloud/converter/csv-to-geojson). Po konwersji plik zajmuje 12.9 MB.
+
+Liczba rekordów:
+
+```
+Imported 11832 documents
+```     
+	
+Przykładowy rekord
+
+```
+{
+		"type" : "Feature",
+        "properties" : {
+                "X" : 1.312231,
+                "Y" : 58.791347,
+                "OBJECTID" : "2001",
+                "WELLREGNO" : "16/07a- 14",
+                "DENNO" : "1493",
+                "TOPHOLEYDD" : "58.791944",
+                "TOPHOLEXDD" : "1.313861",
+                "TOPHOLEYGE" : "058 47 31.000N",
+                "TOPHOLEXGE" : "001 18 49.900E",
+                "TOPHOLEYNG" : "",
+                "TOPHOLEXNG" : "",
+                "COUNTRYCOD" : "SEAWARD",
+                "QUADRANTNO" : "16",
+                "BLOCKNO" : "7",
+                "BLOCKSUFFI" : "a",
+                "PLATFORM" : "",
+                "SLOTNO" : "",
+                "DRILLSEQNO" : "14",
+                "WELLSUFFIX" : "",
+                "ORIGINTENT" : "A",
+                "DATUMELEV" : "82",
+                "DATUMTYPE" : "KB",
+                "GROUNDELEV" : "0",
+                "WATERDEPTH" : "343",
+                "SPUDDATE" : "1980-04-09T00:00:00.000Z",
+                "DATETDREAC" : "1980-07-08T00:00:00.000Z",
+                "COMPLEDATE" : "1980-08-10T00:00:00.000Z",
+                "ORIGUNITS" : "F",
+                "OPERATOR" : "MARATHON OIL U.K. LLC",
+                "WELLSYMBOL" : "13",
+                "PRIMARYTAR" : "N",
+                "COMPLESTAT" : "AB3",
+                "FLOWCLASS" : "GCW",
+                "TVDSSDRILL" : "0",
+                "TOTALMDDRI" : "13178",
+                "PARENTROLE" : "",
+                "WELLINFO" : "http://data.ogauthority.opendata.arcgis.com/",
+                "NAME" : "",
+                "TOPHOLEDTM" : "ED 50",
+                "DEVTYPE" : "",
+                "OTHERCLASS" : ""
+        },
+        "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                        1.312231390246396,
+                        58.79134657742885
+                ]
+        }
+}
+```
+
+Wyjaśnienie pól
+	
 ## Zadanie 1
 
 ### PostgreSQL
