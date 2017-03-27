@@ -200,12 +200,100 @@ db.Wells.find({
 
 [Mapa 3](https://github.com/Undauted/NoSQL/blob/master/mapa3.geojson)
 
-## Zadanie 1
+### Przykładowy eksport
 
-### PostgreSQL
+```
+mongoexport -d ORG -c Wells -q "{
+	geometry:{
+		$near:{
+			$geometry:{ 
+				type : 'Point', 
+				coordinates : [ 2.393602625903736,53.44106130104489 ] },
+				$maxDistance:5000}}}" 
+	-o mapa1.geojson --jsonArray --pretty
+```
+
+## Zadanie 1
 
 Zbiór danych - [Health](https://archive.org/download/stackexchange/health.stackexchange.com.7z)
 
+W zadaniu 1 zbiór danych, który został wykorzystany dotyczy tematyki zdrowia. Spakowane dane zajmują 7 MB, natomiast po rozpakowaniu 36 MB. Na zbiór dancyh składa się 8 plików w formacie xml (Badges, Comments, PostsHistory, PostLinks, Posts, Tags, Users, Votes). Na potrzeby zadania wykorzystałem tylko i wyłącznie pliki Posts i Users.
+Konwersja danych z xml do csv, a następnie do jsona odbyła się dzięki programowi  Xml ValidatorBuddy. Cały zbiór danych zawiera 464 311 rekordów. Na moje potrzeby wykorzystuje 12390.
+
+<h6>Przykładowy rekord</h6>
+
+```
+{
+	"_Id": "4",
+	"_PostTypeId": "1",
+	"_CreationDate": "2015-03-31T19:11:24.947",
+	"_Score": "24",
+	"_ViewCount": "520",
+	"_Body": "<p>One of the most often-cited facts about human life, compared to those of other animals, is that the main reason we live so much longer is modern medicine. Because we can treat illnesses that would previously affect lifespan, we are far more likely to live greatly extended lifespans. However, this leads to two possible (conflicting) logical conclusions:</p>\n\n<ol>\n<li>People who by chance didn't get deadly diseases before modern medicine would live as long as people today, meaning the ability for any <em>individual</em> to survive ninety or more years, far longer than nearly all animals, is unrelated to modern medicine.</li>\n<li>Every illness one experiences weakens the body in some way, robbing it of future years. This would mean the role of modern medicine in extending lifespan is treating these illnesses to prevent the gradual reduction in lifespan.</li>\n</ol>\n\n<p>If the first is true, then lifespan itself isn't influenced by modern medicine unless it prevents death as the direct result of a disease, and only <em>average</em> lifespan is affected. In other words, if nine in ten dies at age thirty due to a deadly disease, and one in ten dies at age eighty by avoiding disease, the average life expectancy is thirty five, even though an individual could by living an extremely careful life survive to reach eighty.</p>\n\n<p>If the second is true, then short periods of non-deadly illnesses experienced by everyone each shorten life expectancy by a tiny amount, together decreasing <em>everyone's</em> lifespan to the same thirty five, rather than the effect being a result of averages.</p>\n\n<p><strong>So does each illness shorten lifespan, or is it only a result of averages that lifespan was so low pre-modern medicine, and humans always had the capacity for exceptionally-long lives?</strong></p>\n",
+	"_OwnerUserId": "11",
+	"_LastActivityDate": "2017-01-16T14:14:31.053",
+	"_Title": "If human life is so long largely due to modern medicine, does every illness shorten lifespan?",
+	"_Tags": "<life-expectancy><disease><statistics>",
+	"_AnswerCount": "2",
+	"_CommentCount": "4"
+}
+```
+
+<h6>Wyjaśnienie pól</h6>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Pole</th>
+      <th>Wyjaśnienie</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CreationDate</td>
+      <td>Data utworzenia posta</td>
+    </tr>
+	<tr>
+      <td>Score</td>
+      <td>Ilośc punktów otrzymanych za post</td>
+    </tr>
+    <tr>
+      <td>ViewCount</td>
+      <td>Liczba wyświetleń</td>
+    </tr>
+    <tr>
+      <td>Body</td>
+      <td>Treść posta</td>
+    </tr>
+     <tr>
+      <td>OwnerUserId</td>
+      <td>Id autora postu</td>       
+    </tr>
+	</tr>
+     <tr>
+      <td>LastActivityDate</td>
+      <td>Ostatnia aktywność</td>       
+    </tr>
+	<tr>
+      <td>Title</td>
+      <td>Tytuł</td>       
+    </tr>
+	<tr>
+      <td>Tags</td>
+      <td>Tagi</td>       
+    </tr>
+	<tr>
+      <td>AnswerCount</td>
+      <td>Ilośc odpowiedzi</td>       
+    </tr>
+	<tr>
+      <td>CommentCount</td>
+      <td>Ilość komentarzy</td>       
+    </tr>
+ </tbody>
+
+### PostgreSQL
+ 
 <h6>Utworzenie tabeli</h6>
 
 <h6>Posts</h6>
