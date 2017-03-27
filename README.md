@@ -19,8 +19,10 @@ Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-d
 ## Zadanie GEO
 [Zadanie GEO](https://undauted.github.io/NoSQL/)
 
-Zbiór danych:[Offshore wells on the UKCS](http://data.ogauthority.opendata.arcgis.com/datasets/40b80e75b8004fab8c87218ae1664d91_0.csv) 
-Zbiór danych jaki został wykorzystany w tym zadaniu zawierazbiór odwiertów morskich wokół Wielkiej Brytanii. Mamy tutaj plik csv zajmujący 3.9 MB, który zawiera najważniejsze informacje dotyczące odwiertów morskich.
+Zbiór danych: [Offshore wells on the UKCS](http://data.ogauthority.opendata.arcgis.com/datasets/40b80e75b8004fab8c87218ae1664d91_0.csv). 
+ 
+Dane jakie zostały wykorzystane w tym zadaniu zawierają zbiór odwiertów morskich wokół Wielkiej Brytanii. Mamy tutaj plik csv zajmujący 3.9 MB, który zawiera najważniejsze informacje dotyczące odwiertów morskich.
+
 Plik csv został skonwertowany za pomocą strony [MyGeodata](https://mygeodata.cloud/converter/csv-to-geojson). Po konwersji plik zajmuje 12.9 MB.
 
 Liczba rekordów:
@@ -33,7 +35,7 @@ Przykładowy rekord
 
 ```
 {
-		"type" : "Feature",
+	"type" : "Feature",
         "properties" : {
                 "X" : 1.312231,
                 "Y" : 58.791347,
