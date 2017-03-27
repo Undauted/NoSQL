@@ -31,7 +31,7 @@ Liczba rekordów:
 Imported 11832 documents
 ```     
 	
-Przykładowy rekord
+<h6>Przykładowy rekord</h6>
 
 ```
 {
@@ -89,7 +89,43 @@ Przykładowy rekord
 }
 ```
 
-Wyjaśnienie pól
+<h6>Wyjaśnienie niektórych pól</h6>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Pole</th>
+      <th>Wyjaśnienie</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>COUNTRYCOD</td>
+      <td>Kod należenie do konkretnego państwa </td>
+    </tr>
+	<tr>
+      <td>DENNO</td>
+      <td>Głębokość wiercenie</td>
+    </tr>
+    <tr>
+      <td>SPUDDATE</td>
+      <td>Data rozpoczęcia budowy</td>
+    </tr>
+    <tr>
+      <td>COMPLEDATE</td>
+      <td>Data zakończenia budowy</td>
+    </tr>
+     <tr>
+      <td>OPERATOR</td>
+      <td>Firma do której należy odwiert</td>       
+    </tr>
+	</tr>
+     <tr>
+      <td>coordinater</td>
+      <td>Długośc i szerokość geograficzna odwiertu</td>       
+    </tr>
+ </tbody>
+</table>
 	
 ## Zadanie 1
 
