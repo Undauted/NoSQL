@@ -198,7 +198,7 @@ db.Wells.find({
 });
 ```
 
-[Mapa 3]((https://github.com/Undauted/NoSQL/blob/master/mapa3.geojson))
+[Mapa 3](https://github.com/Undauted/NoSQL/blob/master/mapa3.geojson)
 
 ## Zadanie 1
 
