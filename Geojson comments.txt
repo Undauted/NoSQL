@@ -1,3 +1,0 @@
-db.miasta.find({geometry:{$near:{$geometry:{ "type" : "Point", "coordinates" : [ 21, 52.233 ] },$maxDistance:800000}}});
-db.miasta.find({geometry: { $geoWithin: { $center:  [ [ 4.3500,	50.8330  ], 5 ] } }});
-db.miasta.find({geometry: { $geoWithin: { $box:  [ [ -123,19  ], [ 51, 48 ] ] } }});

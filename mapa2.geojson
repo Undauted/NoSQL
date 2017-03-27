@@ -1,1425 +1,2477 @@
-{ 
+{
  "type": "FeatureCollection",
-  "features":[{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf159b"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-122.667,
-			45.517
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Portland,_Oregon",
-		"city": "Portland"
-	},
-	"id": "Portland"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf159c"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-122.417,
-			37.767
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "San_Francisco",
-		"city": "San Francisco"
-	},
-	"id": "San Francisco"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf159d"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-122.317,
-			47.6
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Seattle",
-		"city": "Seattle"
-	},
-	"id": "Seattle"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf159e"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-121.467,
-			38.55
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Sacramento,_California",
-		"city": "Sacramento"
-	},
-	"id": "Sacramento"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf159f"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-118.25,
-			34.05
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Los_Angeles",
-		"city": "Los Angeles"
-	},
-	"id": "Los Angeles"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a0"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-117.383,
-			33.933
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Riverside,_California",
-		"city": "Riverside"
-	},
-	"id": "Riverside"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-117.15,
-			32.767
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "San_Diego",
-		"city": "San Diego"
-	},
-	"id": "San Diego"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a2"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-117.033,
-			32.517
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Tijuana",
-		"city": "Tijuana"
-	},
-	"id": "Tijuana"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a3"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-115.467,
-			32.667
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Mexicali",
-		"city": "Mexicali"
-	},
-	"id": "Mexicali"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a4"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-115.133,
-			36.167
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Las_Vegas,_Nevada",
-		"city": "Las Vegas"
-	},
-	"id": "Las Vegas"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a8"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-112.067,
-			33.433
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Phoenix,_Arizona",
-		"city": "Phoenix"
-	},
-	"id": "Phoenix"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15a9"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-111.883,
-			40.75
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Salt_Lake_City",
-		"city": "Salt Lake City"
-	},
-	"id": "Salt Lake City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15aa"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-110.917,
-			32.2
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Tucson,_Arizona",
-		"city": "Tucson"
-	},
-	"id": "Tucson"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ab"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-109.433,
-			27.15
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Hanga_Roa",
-		"city": "Hanga Roa"
-	},
-	"id": "Hanga Roa"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ad"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-106.6,
-			35.1
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Albuquerque,_New_Mexico",
-		"city": "Albuquerque"
-	},
-	"id": "Albuquerque"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ae"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-106.417,
-			31.783
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "El_Paso,_Texas",
-		"city": "El Paso"
-	},
-	"id": "El Paso"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15af"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-106,
-			28.1
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Chihuahua,_Chihuahua",
-		"city": "Chihuahua"
-	},
-	"id": "Chihuahua"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b0"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-104.983,
-			39.733
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Denver",
-		"city": "Denver"
-	},
-	"id": "Denver"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-104.667,
-			24.017
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Durango,_Durango",
-		"city": "Durango"
-	},
-	"id": "Durango"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b3"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-103.4,
-			20.767
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Zapopan,_Jalisco",
-		"city": "Zapopan"
-	},
-	"id": "Zapopan"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b4"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-103.35,
-			20.667
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Guadalajara,_Jalisco",
-		"city": "Guadalajara"
-	},
-	"id": "Guadalajara"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b5"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-100.3,
-			25.667
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Monterrey",
-		"city": "Monterrey"
-	},
-	"id": "Monterrey"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b6"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-99.117,
-			19.4
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Mexico_City",
-		"city": "Mexico City"
-	},
-	"id": "Mexico City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b7"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-98.467,
-			29.533
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "San_Antonio",
-		"city": "San Antonio"
-	},
-	"id": "San Antonio"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b8"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-98.2,
-			19.05
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Puebla,_Puebla",
-		"city": "Puebla"
-	},
-	"id": "Puebla"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15b9"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-97.767,
-			30.267
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Austin,_Texas",
-		"city": "Austin"
-	},
-	"id": "Austin"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ba"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-97.533,
-			35.467
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Oklahoma_City",
-		"city": "Oklahoma City"
-	},
-	"id": "Oklahoma City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15bb"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-97.333,
-			37.683
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Wichita,_Kansas",
-		"city": "Wichita"
-	},
-	"id": "Wichita"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15bd"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-96.8,
-			32.767
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Dallas",
-		"city": "Dallas"
-	},
-	"id": "Dallas"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15be"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-96.133,
-			19.183
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Veracruz,_Veracruz",
-		"city": "Veracruz"
-	},
-	"id": "Veracruz"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15bf"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-95.367,
-			29.75
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Houston",
-		"city": "Houston"
-	},
-	"id": "Houston"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c0"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-94.567,
-			39.1
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Kansas_City,_Missouri",
-		"city": "Kansas City"
-	},
-	"id": "Kansas City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-93.25,
-			44.967
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Minneapolis",
-		"city": "Minneapolis"
-	},
-	"id": "Minneapolis"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c4"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-90.183,
-			38.617
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "St._Louis,_Missouri",
-		"city": "St. Louis"
-	},
-	"id": "St. Louis"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c5"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-90.067,
-			29.967
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "New_Orleans",
-		"city": "New Orleans"
-	},
-	"id": "New Orleans"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c6"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-89.967,
-			35.117
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Memphis,_Tennessee",
-		"city": "Memphis"
-	},
-	"id": "Memphis"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15c7"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-89.617,
-			20.967
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "M%C3%A9rida,_Yucat%C3%A1n",
-		"city": "M%C3%A9rida"
-	},
-	"id": "M%C3%A9rida"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15cb"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-87.95,
-			47.05
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Milwaukee",
-		"city": "Milwaukee"
-	},
-	"id": "Milwaukee"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15cc"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-87.617,
-			41.867
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Chicago",
-		"city": "Chicago"
-	},
-	"id": "Chicago"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ce"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-86.783,
-			36.167
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Nashville,_Tennessee",
-		"city": "Nashville"
-	},
-	"id": "Nashville"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d0"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-86.15,
-			39.783
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Indianapolis",
-		"city": "Indianapolis"
-	},
-	"id": "Indianapolis"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-85.75,
-			38.25
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Louisville,_Kentucky",
-		"city": "Louisville"
-	},
-	"id": "Louisville"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d2"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-84.5,
-			39.133
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Cincinnati",
-		"city": "Cincinnati"
-	},
-	"id": "Cincinnati"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d3"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-84.383,
-			33.75
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Atlanta",
-		"city": "Atlanta"
-	},
-	"id": "Atlanta"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d5"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-83.05,
-			42.333
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Detroit",
-		"city": "Detroit"
-	},
-	"id": "Detroit"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d6"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-82.983,
-			39.983
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Columbus,_Ohio",
-		"city": "Columbus"
-	},
-	"id": "Columbus"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d7"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-82.467,
-			27.967
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Tampa,_Florida",
-		"city": "Tampa"
-	},
-	"id": "Tampa"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d8"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-82.383,
-			23.133
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Havana",
-		"city": "Havana"
-	},
-	"id": "Havana"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15d9"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-81.667,
-			41.483
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Cleveland",
-		"city": "Cleveland"
-	},
-	"id": "Cleveland"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15da"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-81.65,
-			30.317
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Jacksonville,_Florida",
-		"city": "Jacksonville"
-	},
-	"id": "Jacksonville"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15dc"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-80.817,
-			35.2
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Charlotte,_North_Carolina",
-		"city": "Charlotte"
-	},
-	"id": "Charlotte"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15dd"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-80.217,
-			25.783
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Miami",
-		"city": "Miami"
-	},
-	"id": "Miami"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15de"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-79.967,
-			40.433
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Pittsburgh",
-		"city": "Pittsburgh"
-	},
-	"id": "Pittsburgh"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-79.383,
-			43.65
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Toronto",
-		"city": "Toronto"
-	},
-	"id": "Toronto"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e2"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-78.85,
-			42.9
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Buffalo,_New_York",
-		"city": "Buffalo"
-	},
-	"id": "Buffalo"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e3"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-78.633,
-			35.817
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Raleigh,_North_Carolina",
-		"city": "Raleigh"
-	},
-	"id": "Raleigh"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e5"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-77.6,
-			43.15
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Rochester,_New_York",
-		"city": "Rochester"
-	},
-	"id": "Rochester"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e6"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-77.333,
-			25.05
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Nassau,_Bahamas",
-		"city": "Nassau"
-	},
-	"id": "Nassau"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15e7"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-77.033,
-			38.883
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Washington,_D.C.",
-		"city": "Washington"
-	},
-	"id": "Washington"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ea"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-76.617,
-			39.283
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Baltimore",
-		"city": "Baltimore"
-	},
-	"id": "Baltimore"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ec"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-75.983,
-			36.85
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Virginia_Beach",
-		"city": "Virginia Beach"
-	},
-	"id": "Virginia Beach"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ed"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-75.8,
-			20.017
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Santiago_de_Cuba",
-		"city": "Santiago de Cuba"
-	},
-	"id": "Santiago de Cuba"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15ee"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-75.683,
-			45.417
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Ottawa",
-		"city": "Ottawa"
-	},
-	"id": "Ottawa"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15f1"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-75.167,
-			39.95
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Philadelphia",
-		"city": "Philadelphia"
-	},
-	"id": "Philadelphia"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15f3"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-74.183,
-			39.817
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Forked_River",
-		"city": "Forked River"
-	},
-	"id": "Forked River"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15f4"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-74.133,
-			41.433
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Jersey_City,_New_Jersey",
-		"city": "Jersey City"
-	},
-	"id": "Jersey City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15f6"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-74,
-			40.717
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "New_York_City",
-		"city": "New York City"
-	},
-	"id": "New York City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf15f7"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-73.55,
-			45.5
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Montreal",
-		"city": "Montreal"
-	},
-	"id": "Montreal"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1600"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-71.417,
-			41.817
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Providence,_Rhode_Island",
-		"city": "Providence"
-	},
-	"id": "Providence"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1603"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-71.217,
-			46.8
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Quebec_City",
-		"city": "Quebec City"
-	},
-	"id": "Quebec City"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1604"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-71.133,
-			21.45
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Cockburn_Town",
-		"city": "Cockburn Town"
-	},
-	"id": "Cockburn Town"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1605"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-71.05,
-			42.35
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Boston",
-		"city": "Boston"
-	},
-	"id": "Boston"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1615"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-66.667,
-			45.95
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Fredericton",
-		"city": "Fredericton"
-	},
-	"id": "Fredericton"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1617"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-66.05,
-			45.267
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Saint_John,_New_Brunswick",
-		"city": "Saint John"
-	},
-	"id": "Saint John"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf161e"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-63.6,
-			44.667
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "City_of_Halifax",
-		"city": "City of Halifax"
-	},
-	"id": "City of Halifax"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1620"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-63.133,
-			46.233
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Charlottetown",
-		"city": "Charlottetown"
-	},
-	"id": "Charlottetown"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1624"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-52.7,
-			47.55
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "St._John%27s,_Newfoundland_and_Labrador",
-		"city": "St. John%27s"
-	},
-	"id": "St. John%27s"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1634"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-56.167,
-			46.767
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Saint-Pierre,_Saint_Pierre_and_Miquelon",
-		"city": "Saint-Pierre"
-	},
-	"id": "Saint-Pierre"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf163e"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			-51.217,
-			30.033
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Porto_Alegre",
-		"city": "Porto Alegre"
-	},
-	"id": "Porto Alegre"
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+[{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181217ef"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.153112,
+		"Y": 52.945988,
+		"OBJECTID": "1020",
+		"WELLREGNO": "53/01a- 10",
+		"DENNO": "3471",
+		"TOPHOLEYDD": "52.946778",
+		"TOPHOLEXDD": "2.1545",
+		"TOPHOLEYGE": "052 56 48.400N",
+		"TOPHOLEXGE": "002 09 16.200E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "10",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "114",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "45",
+		"SPUDDATE": "1988-05-31T00:00:00.000Z",
+		"DATETDREAC": "1988-07-04T00:00:00.000Z",
+		"COMPLEDATE": "2013-03-14T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "N",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153112318203338,
+			52.94598756402161
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181217f0"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.179696,
+		"Y": 52.942877,
+		"OBJECTID": "1021",
+		"WELLREGNO": "53/01a- 5",
+		"DENNO": "3134",
+		"TOPHOLEYDD": "52.943667",
+		"TOPHOLEXDD": "2.181083",
+		"TOPHOLEYGE": "052 56 37.200N",
+		"TOPHOLEXGE": "002 10 51.900E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "156",
+		"SPUDDATE": "1987-05-10T00:00:00.000Z",
+		"DATETDREAC": "1987-05-31T00:00:00.000Z",
+		"COMPLEDATE": "2014-01-24T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "EC",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.179696056351887,
+			52.9428767647798
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812371f"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "10997",
+		"WELLREGNO": "49/26-D0",
+		"DENNO": "389",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D400",
+		"DRILLSEQNO": "",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-02-22T00:00:00.000Z",
+		"DATETDREAC": "1972-05-22T00:00:00.000Z",
+		"COMPLEDATE": "1988-09-01T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6670",
+		"TOTALMDDRI": "7762",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123720"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184667,
+		"Y": 53.008844,
+		"OBJECTID": "10998",
+		"WELLREGNO": "49/26-D10",
+		"DENNO": "408",
+		"TOPHOLEYDD": "53.009632",
+		"TOPHOLEXDD": "2.186056",
+		"TOPHOLEYGE": "053 00 34.675N",
+		"TOPHOLEXGE": "002 11 09.802E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D410",
+		"DRILLSEQNO": "10",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "118",
+		"SPUDDATE": "1972-05-24T00:00:00.000Z",
+		"DATETDREAC": "1972-08-03T00:00:00.000Z",
+		"COMPLEDATE": "1999-12-09T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6686",
+		"TOTALMDDRI": "7203",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184667128951625,
+			53.00884394031369
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123721"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "10999",
+		"WELLREGNO": "49/26-D15",
+		"DENNO": "392",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D415",
+		"DRILLSEQNO": "15",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-03-05T00:00:00.000Z",
+		"DATETDREAC": "1972-05-03T00:00:00.000Z",
+		"COMPLEDATE": "1972-08-17T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6674",
+		"TOTALMDDRI": "7217",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123722"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "11000",
+		"WELLREGNO": "49/26-D25",
+		"DENNO": "385",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D425",
+		"DRILLSEQNO": "25",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-02-08T00:00:00.000Z",
+		"DATETDREAC": "1972-05-11T00:00:00.000Z",
+		"COMPLEDATE": "1993-07-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6685",
+		"TOTALMDDRI": "7344",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123724"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184722,
+		"Y": 53.00874,
+		"OBJECTID": "11001",
+		"WELLREGNO": "49/26-D35",
+		"DENNO": "410",
+		"TOPHOLEYDD": "53.009528",
+		"TOPHOLEXDD": "2.186111",
+		"TOPHOLEYGE": "053 00 34.300N",
+		"TOPHOLEXGE": "002 11 10.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D435",
+		"DRILLSEQNO": "35",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-06-03T00:00:00.000Z",
+		"DATETDREAC": "1972-07-16T00:00:00.000Z",
+		"COMPLEDATE": "1972-07-18T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6687",
+		"TOTALMDDRI": "7146",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184722133516104,
+			53.008739937591365
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123725"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "11002",
+		"WELLREGNO": "49/26-D40",
+		"DENNO": "395",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D440",
+		"DRILLSEQNO": "40",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-03-16T00:00:00.000Z",
+		"DATETDREAC": "1972-04-25T00:00:00.000Z",
+		"COMPLEDATE": "1972-08-23T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6672",
+		"TOTALMDDRI": "7326",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123726"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184722,
+		"Y": 53.00874,
+		"OBJECTID": "11003",
+		"WELLREGNO": "49/26-D45",
+		"DENNO": "413",
+		"TOPHOLEYDD": "53.009528",
+		"TOPHOLEXDD": "2.186111",
+		"TOPHOLEYGE": "053 00 34.300N",
+		"TOPHOLEXGE": "002 11 10.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D445",
+		"DRILLSEQNO": "45",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-06-14T00:00:00.000Z",
+		"DATETDREAC": "1972-07-24T00:00:00.000Z",
+		"COMPLEDATE": "1994-09-02T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6683",
+		"TOTALMDDRI": "7342",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184722133516104,
+			53.008739937591365
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123727"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "11004",
+		"WELLREGNO": "49/26-D5",
+		"DENNO": "36",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D405",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1970-06-27T00:00:00.000Z",
+		"DATETDREAC": "1970-08-01T00:00:00.000Z",
+		"COMPLEDATE": "1974-05-25T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "7056",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123728"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184333,
+		"Y": 53.008768,
+		"OBJECTID": "11005",
+		"WELLREGNO": "49/26-D50",
+		"DENNO": "398",
+		"TOPHOLEYDD": "53.009556",
+		"TOPHOLEXDD": "2.185722",
+		"TOPHOLEYGE": "053 00 34.400N",
+		"TOPHOLEXGE": "002 11 08.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D450",
+		"DRILLSEQNO": "50",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-03-29T00:00:00.000Z",
+		"DATETDREAC": "1972-04-17T00:00:00.000Z",
+		"COMPLEDATE": "1972-08-20T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6685",
+		"TOTALMDDRI": "7565",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184333123237704,
+			53.00876793409067
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123729"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184722,
+		"Y": 53.00874,
+		"OBJECTID": "11006",
+		"WELLREGNO": "49/26-D55",
+		"DENNO": "415",
+		"TOPHOLEYDD": "53.009528",
+		"TOPHOLEXDD": "2.186111",
+		"TOPHOLEYGE": "053 00 34.300N",
+		"TOPHOLEXGE": "002 11 10.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D455",
+		"DRILLSEQNO": "55",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "121",
+		"SPUDDATE": "1972-01-25T00:00:00.000Z",
+		"DATETDREAC": "1972-07-09T00:00:00.000Z",
+		"COMPLEDATE": "1972-07-11T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6681",
+		"TOTALMDDRI": "7395",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184722133516104,
+			53.008739937591365
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812372a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184667,
+		"Y": 53.008844,
+		"OBJECTID": "11007",
+		"WELLREGNO": "49/26-D56",
+		"DENNO": "6716",
+		"TOPHOLEYDD": "53.009632",
+		"TOPHOLEXDD": "2.186056",
+		"TOPHOLEYGE": "053 00 34.675N",
+		"TOPHOLEXGE": "002 11 09.802E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "D410",
+		"DRILLSEQNO": "56",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "124",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "118",
+		"SPUDDATE": "1999-12-09T00:00:00.000Z",
+		"DATETDREAC": "2000-02-06T00:00:00.000Z",
+		"COMPLEDATE": "2000-03-09T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6520",
+		"TOTALMDDRI": "14787",
+		"PARENTROLE": "REDRILL",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184667128951625,
+			53.00884394031369
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812372b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184582,
+		"Y": 53.008887,
+		"OBJECTID": "11008",
+		"WELLREGNO": "49/26-D57",
+		"DENNO": "7867",
+		"TOPHOLEYDD": "53.009675",
+		"TOPHOLEXDD": "2.185971",
+		"TOPHOLEYGE": "053 00 34.830N",
+		"TOPHOLEXGE": "002 11 09.497E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "430",
+		"DRILLSEQNO": "57",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "117",
+		"SPUDDATE": "2001-10-29T00:00:00.000Z",
+		"DATETDREAC": "2002-01-29T00:00:00.000Z",
+		"COMPLEDATE": "2002-01-29T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "NE",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184582125558656,
+			53.00888694073486
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812372c"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184612,
+		"Y": 53.00885,
+		"OBJECTID": "11009",
+		"WELLREGNO": "49/26-D58",
+		"DENNO": "20847",
+		"TOPHOLEYDD": "53.009638",
+		"TOPHOLEXDD": "2.186001",
+		"TOPHOLEYGE": "053 00 34.698N",
+		"TOPHOLEXGE": "002 11 09.602E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "420",
+		"DRILLSEQNO": "58",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "40",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "34",
+		"SPUDDATE": "2009-05-21T00:00:00.000Z",
+		"DATETDREAC": "2009-07-21T00:00:00.000Z",
+		"COMPLEDATE": "2009-08-06T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "SHELL U.K. LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "ID",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "1960",
+		"TOTALMDDRI": "4885",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184612127434861,
+			53.00884993988435
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237bc"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.131942,
+		"Y": 52.957266,
+		"OBJECTID": "11153",
+		"WELLREGNO": "53/01- 1",
+		"DENNO": "95",
+		"TOPHOLEYDD": "52.958056",
+		"TOPHOLEXDD": "2.133331",
+		"TOPHOLEYGE": "052 57 29.000N",
+		"TOPHOLEXGE": "002 07 59.990E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "1",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "89",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "54",
+		"SPUDDATE": "1967-10-17T00:00:00.000Z",
+		"DATETDREAC": "1967-11-22T00:00:00.000Z",
+		"COMPLEDATE": "1967-11-22T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "5",
+		"PRIMARYTAR": "A",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GS",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "7336",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.131942457471913,
+			52.957265686520564
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237be"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.064092,
+		"Y": 52.917275,
+		"OBJECTID": "11155",
+		"WELLREGNO": "53/01- 3",
+		"DENNO": "255",
+		"TOPHOLEYDD": "52.918067",
+		"TOPHOLEXDD": "2.065481",
+		"TOPHOLEYGE": "052 55 05.040N",
+		"TOPHOLEXGE": "002 03 55.730E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "86",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "113",
+		"SPUDDATE": "1969-10-14T00:00:00.000Z",
+		"DATETDREAC": "1969-11-04T00:00:00.000Z",
+		"COMPLEDATE": "1969-11-04T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "5",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GS",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "6566",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.064092061982898,
+			52.91727463560736
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237bf"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.064092,
+		"Y": 52.917275,
+		"OBJECTID": "11156",
+		"WELLREGNO": "53/01- 3Z",
+		"DENNO": "255",
+		"TOPHOLEYDD": "52.918067",
+		"TOPHOLEXDD": "2.065481",
+		"TOPHOLEYGE": "052 55 05.040N",
+		"TOPHOLEXGE": "002 03 55.730E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "86",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "113",
+		"SPUDDATE": "1969-11-06T00:00:00.000Z",
+		"DATETDREAC": "1969-11-15T00:00:00.000Z",
+		"COMPLEDATE": "1969-11-21T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "4562",
+		"TOTALMDDRI": "4916",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.064092061982898,
+			52.91727463560736
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237c0"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.165141,
+		"Y": 52.932515,
+		"OBJECTID": "11157",
+		"WELLREGNO": "53/01- 4",
+		"DENNO": "423",
+		"TOPHOLEYDD": "52.933306",
+		"TOPHOLEXDD": "2.166528",
+		"TOPHOLEYGE": "052 55 59.900N",
+		"TOPHOLEXGE": "002 09 59.500E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "92",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "37",
+		"SPUDDATE": "1972-07-16T00:00:00.000Z",
+		"DATETDREAC": "1972-08-12T00:00:00.000Z",
+		"COMPLEDATE": "1972-08-12T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "5",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GS",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "7012",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.165141025936165,
+			52.932515267739596
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237c1"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.164392,
+		"Y": 52.91632,
+		"OBJECTID": "11158",
+		"WELLREGNO": "53/01a- 11",
+		"DENNO": "3990",
+		"TOPHOLEYDD": "52.917111",
+		"TOPHOLEXDD": "2.165778",
+		"TOPHOLEYGE": "052 55 01.600N",
+		"TOPHOLEXGE": "002 09 56.800E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "11",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "114",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "90",
+		"SPUDDATE": "1990-02-20T00:00:00.000Z",
+		"DATETDREAC": "1990-03-07T00:00:00.000Z",
+		"COMPLEDATE": "1990-03-12T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "SE",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "6531",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.1643915091575,
+			52.916319739791234
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f3"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.150628,
+		"Y": 52.90475,
+		"OBJECTID": "11208",
+		"WELLREGNO": "53/01a- 13",
+		"DENNO": "5889",
+		"TOPHOLEYDD": "52.905542",
+		"TOPHOLEXDD": "2.152014",
+		"TOPHOLEYGE": "052 54 19.950N",
+		"TOPHOLEXGE": "002 09 07.250E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "13",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "135",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "106",
+		"SPUDDATE": "1996-07-21T00:00:00.000Z",
+		"DATETDREAC": "1996-08-12T00:00:00.000Z",
+		"COMPLEDATE": "1996-08-17T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "5",
+		"PRIMARYTAR": "AS",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GS",
+		"TVDSSDRILL": "6710",
+		"TOTALMDDRI": "6857",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.150627535063872,
+			52.904750213268315
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f4"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.136862,
+		"Y": 52.934431,
+		"OBJECTID": "11209",
+		"WELLREGNO": "53/01a- 6",
+		"DENNO": "3246",
+		"TOPHOLEYDD": "52.935222",
+		"TOPHOLEXDD": "2.13825",
+		"TOPHOLEYGE": "052 56 06.800N",
+		"TOPHOLEXGE": "002 08 17.700E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "113",
+		"SPUDDATE": "1987-09-28T00:00:00.000Z",
+		"DATETDREAC": "1987-10-12T00:00:00.000Z",
+		"COMPLEDATE": "1987-10-16T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "A",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "7090",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.136862284276277,
+			52.93443100939297
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f5"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.142473,
+		"Y": 52.949349,
+		"OBJECTID": "11210",
+		"WELLREGNO": "53/01a- 7",
+		"DENNO": "3277",
+		"TOPHOLEYDD": "52.950139",
+		"TOPHOLEXDD": "2.143861",
+		"TOPHOLEYGE": "052 57 00.500N",
+		"TOPHOLEXGE": "002 08 37.900E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "7",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "113",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "52.5",
+		"SPUDDATE": "1987-11-08T00:00:00.000Z",
+		"DATETDREAC": "1987-11-23T00:00:00.000Z",
+		"COMPLEDATE": "1987-11-23T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "D",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6883.5",
+		"TOTALMDDRI": "6997",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.142472957215312,
+			52.94934855154138
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f6"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.122389,
+		"Y": 52.968154,
+		"OBJECTID": "11211",
+		"WELLREGNO": "53/01a- 8",
+		"DENNO": "3301",
+		"TOPHOLEYDD": "52.968944",
+		"TOPHOLEXDD": "2.123778",
+		"TOPHOLEYGE": "052 58 08.200N",
+		"TOPHOLEXGE": "002 07 25.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "8",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "112",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "51",
+		"SPUDDATE": "1987-11-28T00:00:00.000Z",
+		"DATETDREAC": "1987-12-16T00:00:00.000Z",
+		"COMPLEDATE": "1987-12-21T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "E",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "7156",
+		"TOTALMDDRI": "7148",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.122388888875353,
+			52.968153927971116
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f7"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.173503,
+		"Y": 52.907487,
+		"OBJECTID": "11212",
+		"WELLREGNO": "53/01a- 9",
+		"DENNO": "3412",
+		"TOPHOLEYDD": "52.908278",
+		"TOPHOLEXDD": "2.174889",
+		"TOPHOLEYGE": "052 54 29.800N",
+		"TOPHOLEXGE": "002 10 29.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "9",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "112",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1988-03-30T00:00:00.000Z",
+		"DATETDREAC": "1988-04-14T00:00:00.000Z",
+		"COMPLEDATE": "1988-04-18T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "SC",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "7225",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.173503002151912,
+			52.90748655954576
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f8"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.153115,
+		"Y": 52.945963,
+		"OBJECTID": "11213",
+		"WELLREGNO": "53/01a-A2",
+		"DENNO": "3773",
+		"TOPHOLEYDD": "52.946753",
+		"TOPHOLEXDD": "2.154503",
+		"TOPHOLEYGE": "052 56 48.311N",
+		"TOPHOLEXGE": "002 09 16.209E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "3",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "48",
+		"SPUDDATE": "1989-03-08T00:00:00.000Z",
+		"DATETDREAC": "1989-06-07T00:00:00.000Z",
+		"COMPLEDATE": "2012-06-17T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "E",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6510",
+		"TOTALMDDRI": "9365",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153115319050772,
+			52.94596256325317
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237f9"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.153056,
+		"Y": 52.94596,
+		"OBJECTID": "11214",
+		"WELLREGNO": "53/01a-A3",
+		"DENNO": "3774",
+		"TOPHOLEYDD": "52.94675",
+		"TOPHOLEXDD": "2.154444",
+		"TOPHOLEYGE": "052 56 48.300N",
+		"TOPHOLEXGE": "002 09 16.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "1",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "48",
+		"SPUDDATE": "1989-03-23T00:00:00.000Z",
+		"DATETDREAC": "1989-05-15T00:00:00.000Z",
+		"COMPLEDATE": "2012-06-21T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "D",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6479",
+		"TOTALMDDRI": "9250",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153056317719775,
+			52.94595956248954
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237fa"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.153112,
+		"Y": 52.94596,
+		"OBJECTID": "11215",
+		"WELLREGNO": "53/01a-A4",
+		"DENNO": "3775",
+		"TOPHOLEYDD": "52.94675",
+		"TOPHOLEXDD": "2.1545",
+		"TOPHOLEYGE": "052 56 48.300N",
+		"TOPHOLEXGE": "002 09 16.200E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "6",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "48",
+		"SPUDDATE": "1989-04-07T00:00:00.000Z",
+		"DATETDREAC": "1989-04-06T00:00:00.000Z",
+		"COMPLEDATE": "2012-06-15T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "B",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6960",
+		"TOTALMDDRI": "7360",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153112319071375,
+			52.94595956312297
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237fb"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.15314,
+		"Y": 52.945932,
+		"OBJECTID": "11216",
+		"WELLREGNO": "53/01a-A5",
+		"DENNO": "3776",
+		"TOPHOLEYDD": "52.946722",
+		"TOPHOLEXDD": "2.154528",
+		"TOPHOLEYGE": "052 56 48.200N",
+		"TOPHOLEXGE": "002 09 16.300E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "5",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "48",
+		"SPUDDATE": "1989-03-01T00:00:00.000Z",
+		"DATETDREAC": "1989-05-06T00:00:00.000Z",
+		"COMPLEDATE": "2012-06-13T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "C",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6443",
+		"TOTALMDDRI": "9122",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153140320615266,
+			52.94593156254104
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237fc"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.153112,
+		"Y": 52.94596,
+		"OBJECTID": "11217",
+		"WELLREGNO": "53/01a-A6",
+		"DENNO": "5053",
+		"TOPHOLEYDD": "52.94675",
+		"TOPHOLEXDD": "2.1545",
+		"TOPHOLEYGE": "052 56 48.300N",
+		"TOPHOLEXGE": "002 09 16.200E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "4",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "45",
+		"SPUDDATE": "1993-08-05T00:00:00.000Z",
+		"DATETDREAC": "1993-10-25T00:00:00.000Z",
+		"COMPLEDATE": "2012-06-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "ENERGY RESOURCE TECHNOLOGY (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6287",
+		"TOTALMDDRI": "16500",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.153112319071375,
+			52.94595956312297
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237fd"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.091945,
+		"Y": 52.894763,
+		"OBJECTID": "11218",
+		"WELLREGNO": "53/01b- 12",
+		"DENNO": "4626",
+		"TOPHOLEYDD": "52.895556",
+		"TOPHOLEXDD": "2.093333",
+		"TOPHOLEYGE": "052 53 44.000N",
+		"TOPHOLEXGE": "002 05 36.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "1",
+		"BLOCKSUFFI": "b",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "12",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "104",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "88",
+		"SPUDDATE": "1991-12-30T00:00:00.000Z",
+		"DATETDREAC": "1992-01-19T00:00:00.000Z",
+		"COMPLEDATE": "1992-01-25T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "NE",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "7002",
+		"TOTALMDDRI": "7002",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.091945429903253,
+			52.894763229528344
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181237fe"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.221112,
+		"Y": 52.997962,
+		"OBJECTID": "11219",
+		"WELLREGNO": "53/02- 1",
+		"DENNO": "105",
+		"TOPHOLEYDD": "52.99875",
+		"TOPHOLEXDD": "2.2225",
+		"TOPHOLEYGE": "052 59 55.500N",
+		"TOPHOLEXGE": "002 13 21.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "1",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "84",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "130",
+		"SPUDDATE": "1967-11-27T00:00:00.000Z",
+		"DATETDREAC": "1968-01-14T00:00:00.000Z",
+		"COMPLEDATE": "1968-02-02T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "7073",
+		"TOTALMDDRI": "7083",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.221112348691191,
+			52.997962002545776
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123802"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.215441,
+		"Y": 52.906255,
+		"OBJECTID": "11223",
+		"WELLREGNO": "53/02- 13",
+		"DENNO": "14704",
+		"TOPHOLEYDD": "52.907046",
+		"TOPHOLEXDD": "2.216826",
+		"TOPHOLEYGE": "052 54 25.366N",
+		"TOPHOLEXGE": "002 13 00.574E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "13",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "125",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "162",
+		"SPUDDATE": "2006-04-12T00:00:00.000Z",
+		"DATETDREAC": "2006-04-24T00:00:00.000Z",
+		"COMPLEDATE": "2006-05-06T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "14",
+		"PRIMARYTAR": "AR3",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "5106",
+		"TOTALMDDRI": "5231",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "JW"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.215441052227503,
+			52.90625499380548
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123833"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.215441,
+		"Y": 52.906255,
+		"OBJECTID": "11272",
+		"WELLREGNO": "53/02- 13Z",
+		"DENNO": "14704",
+		"TOPHOLEYDD": "52.907046",
+		"TOPHOLEXDD": "2.216826",
+		"TOPHOLEYGE": "052 54 25.366N",
+		"TOPHOLEXGE": "002 13 00.574E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "13",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "117",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "162",
+		"SPUDDATE": "2006-05-06T00:00:00.000Z",
+		"DATETDREAC": "2006-05-15T00:00:00.000Z",
+		"COMPLEDATE": "2006-06-06T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "AR3",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6416",
+		"TOTALMDDRI": "6596",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.215441052227503,
+			52.90625499380548
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123835"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.23192,
+		"Y": 52.966239,
+		"OBJECTID": "11274",
+		"WELLREGNO": "53/02- 3",
+		"DENNO": "203",
+		"TOPHOLEYDD": "52.967028",
+		"TOPHOLEXDD": "2.233306",
+		"TOPHOLEYGE": "052 58 01.300N",
+		"TOPHOLEXGE": "002 13 59.900E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "100",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "135",
+		"SPUDDATE": "1969-03-26T00:00:00.000Z",
+		"DATETDREAC": "1969-04-22T00:00:00.000Z",
+		"COMPLEDATE": "1969-04-21T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "7191",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.231919594289347,
+			52.966239105126114
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123838"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.20628,
+		"Y": 52.977905,
+		"OBJECTID": "11277",
+		"WELLREGNO": "53/02- 6",
+		"DENNO": "3261",
+		"TOPHOLEYDD": "52.978694",
+		"TOPHOLEXDD": "2.207667",
+		"TOPHOLEYGE": "052 58 43.300N",
+		"TOPHOLEXGE": "002 12 27.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "127",
+		"SPUDDATE": "1987-10-20T00:00:00.000Z",
+		"DATETDREAC": "1987-10-31T00:00:00.000Z",
+		"COMPLEDATE": "1987-11-05T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "NW",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "6615",
+		"TOTALMDDRI": "6725",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.206279612601205,
+			52.97790519018576
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123839"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.230002,
+		"Y": 52.971239,
+		"OBJECTID": "11278",
+		"WELLREGNO": "53/02- 7",
+		"DENNO": "3387",
+		"TOPHOLEYDD": "52.972028",
+		"TOPHOLEXDD": "2.231389",
+		"TOPHOLEYGE": "052 58 19.300N",
+		"TOPHOLEXGE": "002 13 53.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "7",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "112",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "142",
+		"SPUDDATE": "1988-03-01T00:00:00.000Z",
+		"DATETDREAC": "1988-03-13T00:00:00.000Z",
+		"COMPLEDATE": "1988-03-27T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "NE",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "7054",
+		"TOTALMDDRI": "7196",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.230002392935278,
+			52.971239244106016
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812383a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.217004,
+		"Y": 52.907265,
+		"OBJECTID": "11279",
+		"WELLREGNO": "53/02- 8",
+		"DENNO": "3831",
+		"TOPHOLEYDD": "52.908056",
+		"TOPHOLEXDD": "2.218389",
+		"TOPHOLEYGE": "052 54 29.000N",
+		"TOPHOLEXGE": "002 13 06.200E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "8",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "118",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "162",
+		"SPUDDATE": "1989-08-15T00:00:00.000Z",
+		"DATETDREAC": "1989-08-29T00:00:00.000Z",
+		"COMPLEDATE": "1989-09-03T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "WC",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6569",
+		"TOTALMDDRI": "6569",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.217004058755674,
+			52.90726504384304
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812383b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.217004,
+		"Y": 52.907265,
+		"OBJECTID": "11280",
+		"WELLREGNO": "53/02- 8Z",
+		"DENNO": "3831",
+		"TOPHOLEYDD": "52.908056",
+		"TOPHOLEXDD": "2.218389",
+		"TOPHOLEYGE": "052 54 29.000N",
+		"TOPHOLEXGE": "002 13 06.200E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "53",
+		"BLOCKNO": "2",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "8",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "118",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "162",
+		"SPUDDATE": "1989-09-03T00:00:00.000Z",
+		"DATETDREAC": "1989-09-16T00:00:00.000Z",
+		"COMPLEDATE": "1989-09-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "WC",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6370",
+		"TOTALMDDRI": "6602",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.217004058755674,
+			52.90726504384304
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812397a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.213695,
+		"Y": 53.00399,
+		"OBJECTID": "11599",
+		"WELLREGNO": "49/27-H1",
+		"DENNO": "2105",
+		"TOPHOLEYDD": "53.004778",
+		"TOPHOLEXDD": "2.215083",
+		"TOPHOLEYGE": "053 00 17.200N",
+		"TOPHOLEXGE": "002 12 54.300E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "27",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "H",
+		"SLOTNO": "5",
+		"DRILLSEQNO": "1",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "130",
+		"SPUDDATE": "1983-03-16T00:00:00.000Z",
+		"DATETDREAC": "1983-05-13T00:00:00.000Z",
+		"COMPLEDATE": "1984-08-22T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "HA",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6790",
+		"TOTALMDDRI": "7395",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.213694981977996,
+			53.003990112528044
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812397b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.213723,
+		"Y": 53.003962,
+		"OBJECTID": "11600",
+		"WELLREGNO": "49/27-H2",
+		"DENNO": "2146",
+		"TOPHOLEYDD": "53.00475",
+		"TOPHOLEXDD": "2.215111",
+		"TOPHOLEYGE": "053 00 17.100N",
+		"TOPHOLEXGE": "002 12 54.400E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "27",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "H",
+		"SLOTNO": "6",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "130",
+		"SPUDDATE": "1983-05-21T00:00:00.000Z",
+		"DATETDREAC": "1983-06-27T00:00:00.000Z",
+		"COMPLEDATE": "1983-07-02T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "HB",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6848",
+		"TOTALMDDRI": "7652",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.213722983525486,
+			53.00396211194422
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812397c"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.213695,
+		"Y": 53.00399,
+		"OBJECTID": "11601",
+		"WELLREGNO": "49/27-H3",
+		"DENNO": "2162",
+		"TOPHOLEYDD": "53.004778",
+		"TOPHOLEXDD": "2.215083",
+		"TOPHOLEYGE": "053 00 17.200N",
+		"TOPHOLEXGE": "002 12 54.300E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "27",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "H",
+		"SLOTNO": "4",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "110",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "130",
+		"SPUDDATE": "1983-07-04T00:00:00.000Z",
+		"DATETDREAC": "1983-08-02T00:00:00.000Z",
+		"COMPLEDATE": "1986-12-03T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "HC",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6927",
+		"TOTALMDDRI": "7818",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.213694981977996,
+			53.003990112528044
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181239b0"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.213798,
+		"Y": 53.004062,
+		"OBJECTID": "11653",
+		"WELLREGNO": "49/27-H4",
+		"DENNO": "20486",
+		"TOPHOLEYDD": "53.00485",
+		"TOPHOLEXDD": "2.215186",
+		"TOPHOLEYGE": "053 00 17.460N",
+		"TOPHOLEXGE": "002 12 54.670E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "27",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "H",
+		"SLOTNO": "2",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "136",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "146",
+		"SPUDDATE": "2009-02-18T00:00:00.000Z",
+		"DATETDREAC": "",
+		"COMPLEDATE": "2009-03-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "2",
+		"PRIMARYTAR": "N",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "DR"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.213797982232567,
+			53.00406211600814
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18123a21"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.184644,
+		"Y": 53.00887,
+		"OBJECTID": "11766",
+		"WELLREGNO": "49/26- 25",
+		"DENNO": "298",
+		"TOPHOLEYDD": "53.009658",
+		"TOPHOLEXDD": "2.186033",
+		"TOPHOLEYGE": "053 00 34.770N",
+		"TOPHOLEXGE": "002 11 09.720E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "26",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "25",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "84",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "105",
+		"SPUDDATE": "1970-06-26T00:00:00.000Z",
+		"DATETDREAC": "1970-08-01T00:00:00.000Z",
+		"COMPLEDATE": "1970-08-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "6972",
+		"TOTALMDDRI": "6972",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			2.184644127586791,
+			53.0088699408896
+		]
+	}
 }]
-}
+}}}}

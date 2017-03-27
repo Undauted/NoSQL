@@ -1,0 +1,1 @@
+python Scripts\import.py OGA_Wells_WGS84.geojson

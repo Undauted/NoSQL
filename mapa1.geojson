@@ -1,436 +1,1077 @@
-{ 
+{
  "type": "FeatureCollection",
-  "features":[{
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+[{
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16dd"
+		"$oid": "58d8fbf2a90cc75e181217dc"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.393603,
+		"Y": 53.441061,
+		"OBJECTID": "1001",
+		"WELLREGNO": "49/17- D2",
+		"DENNO": "135",
+		"TOPHOLEYDD": "53.441833",
+		"TOPHOLEXDD": "2.395",
+		"TOPHOLEYGE": "053 26 30.600N",
+		"TOPHOLEXGE": "002 23 42.000E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "D",
+		"SLOTNO": "1",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "86",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "97",
+		"SPUDDATE": "1974-06-16T00:00:00.000Z",
+		"DATETDREAC": "1974-07-07T00:00:00.000Z",
+		"COMPLEDATE": "2015-03-13T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			21,
-			52.233
+			2.393602625903736,
+			53.44106130104489
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Warsaw",
-		"city": "Warsaw"
-	},
-	"id": "Warsaw"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16da"
+		"$oid": "58d8fbf1a90cc75e181213f0"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.393795,
+		"Y": 53.441097,
+		"OBJECTID": "999",
+		"WELLREGNO": "49/17- 2",
+		"DENNO": "599",
+		"TOPHOLEYDD": "53.441869",
+		"TOPHOLEXDD": "2.395192",
+		"TOPHOLEYGE": "053 26 30.730N",
+		"TOPHOLEXGE": "002 23 42.690E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "86",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "97",
+		"SPUDDATE": "1968-04-13T00:00:00.000Z",
+		"DATETDREAC": "1968-05-10T00:00:00.000Z",
+		"COMPLEDATE": "2015-03-16T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			19.933,
-			50.05
+			2.393794629466122,
+			53.441097304394695
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Krak%C3%B3w",
-		"city": "Krak%C3%B3w"
-	},
-	"id": "Krak%C3%B3w"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16dc"
+		"$oid": "58d8fbf2a90cc75e18123a58"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375381,
+		"Y": 53.423784,
+		"OBJECTID": "11821",
+		"WELLREGNO": "49/17- 7",
+		"DENNO": "259",
+		"TOPHOLEYDD": "53.424556",
+		"TOPHOLEXDD": "2.376778",
+		"TOPHOLEYGE": "053 25 28.400N",
+		"TOPHOLEXGE": "002 22 36.400E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "7",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "107",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "78",
+		"SPUDDATE": "1969-11-15T00:00:00.000Z",
+		"DATETDREAC": "1969-12-07T00:00:00.000Z",
+		"COMPLEDATE": "1969-12-14T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9450",
+		"TOTALMDDRI": "9343",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			20.517,
-			54.717
+			2.375380728458311,
+			53.42378353143844
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Kaliningrad",
-		"city": "Kaliningrad"
-	},
-	"id": "Kaliningrad"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16d6"
+		"$oid": "58d8fbf2a90cc75e181217dd"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375464,
+		"Y": 53.423256,
+		"OBJECTID": "1002",
+		"WELLREGNO": "49/17-C1",
+		"DENNO": "568",
+		"TOPHOLEYDD": "53.424028",
+		"TOPHOLEXDD": "2.376861",
+		"TOPHOLEYGE": "053 25 26.500N",
+		"TOPHOLEXGE": "002 22 36.700E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "C",
+		"SLOTNO": "n/a",
+		"DRILLSEQNO": "1",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "107",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "76",
+		"SPUDDATE": "1974-03-25T00:00:00.000Z",
+		"DATETDREAC": "1974-04-07T00:00:00.000Z",
+		"COMPLEDATE": "2015-05-23T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			18.667,
-			54.35
+			2.375463747266804,
+			53.423255515176805
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Gda%C5%84sk",
-		"city": "Gda%C5%84sk"
-	},
-	"id": "Gda%C5%84sk"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16e4"
+		"$oid": "58d8fbf2a90cc75e181217df"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375464,
+		"Y": 53.423256,
+		"OBJECTID": "1004",
+		"WELLREGNO": "49/17-C3",
+		"DENNO": "1984",
+		"TOPHOLEYDD": "53.424028",
+		"TOPHOLEXDD": "2.376861",
+		"TOPHOLEYGE": "053 25 26.500N",
+		"TOPHOLEXGE": "002 22 36.700E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "C",
+		"SLOTNO": "4",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "113",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "76",
+		"SPUDDATE": "1982-08-17T00:00:00.000Z",
+		"DATETDREAC": "1982-09-24T00:00:00.000Z",
+		"COMPLEDATE": "2015-05-27T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "CD",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			24.017,
-			49.85
+			2.375463747266804,
+			53.423255515176805
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Lviv",
-		"city": "Lviv"
-	},
-	"id": "Lviv"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16e9"
+		"$oid": "58d8fbf2a90cc75e181217de"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375464,
+		"Y": 53.423256,
+		"OBJECTID": "1003",
+		"WELLREGNO": "49/17-C2Z",
+		"DENNO": "577",
+		"TOPHOLEYDD": "53.424028",
+		"TOPHOLEXDD": "2.376861",
+		"TOPHOLEYGE": "053 25 26.500N",
+		"TOPHOLEXGE": "002 22 36.700E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "C",
+		"SLOTNO": "1",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "107",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "76",
+		"SPUDDATE": "1974-05-11T00:00:00.000Z",
+		"DATETDREAC": "1974-05-28T00:00:00.000Z",
+		"COMPLEDATE": "2015-05-19T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			25.283,
-			54.683
+			2.375463747266804,
+			53.423255515176805
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Vilnius",
-		"city": "Vilnius"
-	},
-	"id": "Vilnius"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16f4"
+		"$oid": "58d8fbf2a90cc75e18123a61"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375464,
+		"Y": 53.423256,
+		"OBJECTID": "11830",
+		"WELLREGNO": "49/17-C2",
+		"DENNO": "577",
+		"TOPHOLEYDD": "53.424028",
+		"TOPHOLEXDD": "2.376861",
+		"TOPHOLEYGE": "053 25 26.500N",
+		"TOPHOLEXGE": "002 22 36.700E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "C",
+		"SLOTNO": "1",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "107",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "76",
+		"SPUDDATE": "1974-04-14T00:00:00.000Z",
+		"DATETDREAC": "1974-05-06T00:00:00.000Z",
+		"COMPLEDATE": "1974-05-10T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9262",
+		"TOTALMDDRI": "9989",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			27.567,
-			53.9
+			2.375463747266804,
+			53.423255515176805
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Minsk",
-		"city": "Minsk"
-	},
-	"id": "Minsk"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16c0"
+		"$oid": "58d8fbf2a90cc75e181217e0"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.375381,
+		"Y": 53.423228,
+		"OBJECTID": "1005",
+		"WELLREGNO": "49/17-C4",
+		"DENNO": "2477",
+		"TOPHOLEYDD": "53.424",
+		"TOPHOLEXDD": "2.376778",
+		"TOPHOLEYGE": "053 25 26.400N",
+		"TOPHOLEXGE": "002 22 36.400E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "C",
+		"SLOTNO": "3",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "112",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "76",
+		"SPUDDATE": "1984-08-19T00:00:00.000Z",
+		"DATETDREAC": "1984-10-01T00:00:00.000Z",
+		"COMPLEDATE": "2015-05-30T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "D",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			13.417,
-			52.517
+			2.375380746123065,
+			53.423227513323674
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Berlin",
-		"city": "Berlin"
-	},
-	"id": "Berlin"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16c4"
+		"$oid": "58d8fbf2a90cc75e18123a55"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11818",
+		"WELLREGNO": "49/17- 3",
+		"DENNO": "178",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "8",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "111",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1968-10-30T00:00:00.000Z",
+		"DATETDREAC": "1968-12-16T00:00:00.000Z",
+		"COMPLEDATE": "1968-12-29T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "8845",
+		"TOTALMDDRI": "8734",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			14.417,
-			50.083
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Prague",
-		"city": "Prague"
-	},
-	"id": "Prague"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16c1"
+		"$oid": "58d8fbf2a90cc75e18123a5c"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11825",
+		"WELLREGNO": "49/17-B3",
+		"DENNO": "439",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1972-10-01T00:00:00.000Z",
+		"DATETDREAC": "1972-10-19T00:00:00.000Z",
+		"COMPLEDATE": "1972-10-22T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "8619",
+		"TOTALMDDRI": "8735",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			13.733,
-			51.05
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Dresden",
-		"city": "Dresden"
-	},
-	"id": "Dresden"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16d1"
+		"$oid": "58d8fbf2a90cc75e18123a5d"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11826",
+		"WELLREGNO": "49/17-B4",
+		"DENNO": "418",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1972-06-29T00:00:00.000Z",
+		"DATETDREAC": "1972-07-30T00:00:00.000Z",
+		"COMPLEDATE": "1972-08-14T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9597",
+		"TOTALMDDRI": "10556",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			17.1,
-			48.133
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Bratislava",
-		"city": "Bratislava"
-	},
-	"id": "Bratislava"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16d7"
+		"$oid": "58d8fbf2a90cc75e18123a5b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11824",
+		"WELLREGNO": "49/17-B2",
+		"DENNO": "442",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1972-10-21T00:00:00.000Z",
+		"DATETDREAC": "1972-11-20T00:00:00.000Z",
+		"COMPLEDATE": "1972-11-24T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "10809",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			19.05,
-			47.467
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Budapest",
-		"city": "Budapest"
-	},
-	"id": "Budapest"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16cf"
+		"$oid": "58d8fbf2a90cc75e18123a5f"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11828",
+		"WELLREGNO": "49/17-B7",
+		"DENNO": "458",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "",
+		"DRILLSEQNO": "7",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1972-12-24T00:00:00.000Z",
+		"DATETDREAC": "1973-02-07T00:00:00.000Z",
+		"COMPLEDATE": "1973-03-05T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9650",
+		"TOTALMDDRI": "12852",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			16.367,
-			48.2
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Vienna",
-		"city": "Vienna"
-	},
-	"id": "Vienna"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16e5"
+		"$oid": "58d8fbf2a90cc75e18123a60"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331823,
+		"Y": 53.446589,
+		"OBJECTID": "11829",
+		"WELLREGNO": "49/17-B8",
+		"DENNO": "5930",
+		"TOPHOLEYDD": "53.447361",
+		"TOPHOLEXDD": "2.333222",
+		"TOPHOLEYGE": "053 26 50.500N",
+		"TOPHOLEXGE": "002 19 59.600E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "8",
+		"DRILLSEQNO": "8",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1978-10-30T00:00:00.000Z",
+		"DATETDREAC": "",
+		"COMPLEDATE": "1978-12-29T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "18",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB2",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "8749",
+		"PARENTROLE": "REDRILL",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			24.133,
-			56.967
+			2.331822936200534,
+			53.44658878061794
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Riga",
-		"city": "Riga"
-	},
-	"id": "Riga"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16b7"
+		"$oid": "58d8fbf2a90cc75e18123a5e"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.331737,
+		"Y": 53.446783,
+		"OBJECTID": "11827",
+		"WELLREGNO": "49/17-B5",
+		"DENNO": "428",
+		"TOPHOLEYDD": "53.447555",
+		"TOPHOLEXDD": "2.333136",
+		"TOPHOLEYGE": "053 26 51.197N",
+		"TOPHOLEXGE": "002 19 59.291E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "B",
+		"SLOTNO": "",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "77",
+		"SPUDDATE": "1972-08-15T00:00:00.000Z",
+		"DATETDREAC": "1972-09-21T00:00:00.000Z",
+		"COMPLEDATE": "1972-10-01T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "CONOCOPHILLIPS (U.K.) LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9570",
+		"TOTALMDDRI": "10703",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			12.383,
-			51.333
+			2.331736927917123,
+			53.44678278596569
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Leipzig",
-		"city": "Leipzig"
-	},
-	"id": "Leipzig"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16bc"
+		"$oid": "58d8fbf2a90cc75e18123a54"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.335835,
+		"Y": 53.425768,
+		"OBJECTID": "11817",
+		"WELLREGNO": "49/17- 15",
+		"DENNO": "19666",
+		"TOPHOLEYDD": "53.426541",
+		"TOPHOLEXDD": "2.337233",
+		"TOPHOLEYGE": "053 25 35.546N",
+		"TOPHOLEXGE": "002 20 14.038E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "15",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "134",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "95",
+		"SPUDDATE": "2008-08-08T00:00:00.000Z",
+		"DATETDREAC": "2008-09-08T00:00:00.000Z",
+		"COMPLEDATE": "2008-09-16T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "VERUS PETROLEUM UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "VN1",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9492",
+		"TOTALMDDRI": "9626",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			13.033,
-			55.583
+			2.335834696897626,
+			53.42576814767682
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Malm%C3%B6",
-		"city": "Malm%C3%B6"
-	},
-	"id": "Malm%C3%B6"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16c3"
+		"$oid": "58d8fbf2a90cc75e1812364b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.428334,
+		"Y": 53.474027,
+		"OBJECTID": "10785",
+		"WELLREGNO": "49/18- 5Z",
+		"DENNO": "5461",
+		"TOPHOLEYDD": "53.474797",
+		"TOPHOLEXDD": "2.429732",
+		"TOPHOLEYGE": "053 28 29.269N",
+		"TOPHOLEXGE": "002 25 47.034E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "18",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "115",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "91",
+		"SPUDDATE": "1995-03-22T00:00:00.000Z",
+		"DATETDREAC": "1995-04-06T00:00:00.000Z",
+		"COMPLEDATE": "1995-04-28T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "E",
+		"COMPLESTAT": "AB1",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9658",
+		"TOTALMDDRI": "10030",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			14.283,
-			48.3
+			2.428334429176484,
+			53.474026769879835
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Linz",
-		"city": "Linz"
-	},
-	"id": "Linz"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16bb"
+		"$oid": "58d8fbf2a90cc75e1812364a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.428334,
+		"Y": 53.474027,
+		"OBJECTID": "10784",
+		"WELLREGNO": "49/18- 5",
+		"DENNO": "5461",
+		"TOPHOLEYDD": "53.474797",
+		"TOPHOLEXDD": "2.429732",
+		"TOPHOLEYGE": "053 28 29.269N",
+		"TOPHOLEXGE": "002 25 47.034E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "18",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "115",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "91",
+		"SPUDDATE": "1995-02-28T00:00:00.000Z",
+		"DATETDREAC": "1995-03-18T00:00:00.000Z",
+		"COMPLEDATE": "1995-03-21T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "PERENCO UK LIMITED",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "E",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "9276",
+		"TOTALMDDRI": "9398",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			12.567,
-			55.667
+			2.428334429176484,
+			53.474026769879835
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Copenhagen",
-		"city": "Copenhagen"
-	},
-	"id": "Copenhagen"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1702"
+		"$oid": "58d8fbf2a90cc75e18123a1b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": 2.321065,
+		"Y": 53.440574,
+		"OBJECTID": "11760",
+		"WELLREGNO": "49/17- 1",
+		"DENNO": "7",
+		"TOPHOLEYDD": "53.441347",
+		"TOPHOLEXDD": "2.322464",
+		"TOPHOLEYGE": "053 26 28.850N",
+		"TOPHOLEXGE": "002 19 20.870E",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "49",
+		"BLOCKNO": "17",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "1",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "95",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "79",
+		"SPUDDATE": "1965-08-28T00:00:00.000Z",
+		"DATETDREAC": "1965-11-29T00:00:00.000Z",
+		"COMPLEDATE": "1965-12-04T00:00:00.000Z",
+		"ORIGUNITS": "F",
+		"OPERATOR": "",
+		"WELLSYMBOL": "6",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GW",
+		"TVDSSDRILL": "9771",
+		"TOTALMDDRI": "9676",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			30.517,
-			50.45
+			2.321064864218971,
+			53.440574462520864
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Kiev",
-		"city": "Kiev"
-	},
-	"id": "Kiev"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16cc"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			15.433,
-			47.067
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Graz",
-		"city": "Graz"
-	},
-	"id": "Graz"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16bd"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			13.033,
-			47.8
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Salzburg",
-		"city": "Salzburg"
-	},
-	"id": "Salzburg"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16af"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			9.983,
-			53.583
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Hamburg",
-		"city": "Hamburg"
-	},
-	"id": "Hamburg"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16ae"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			9.717,
-			52.367
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Hanover",
-		"city": "Hanover"
-	},
-	"id": "Hanover"
-},
-{
-	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16ef"
-	},
-	"geometry": {
-		"type": "Point",
-		"coordinates": [
-			26.717,
-			58.383
-		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Tartu",
-		"city": "Tartu"
-	},
-	"id": "Tartu"
+	}
 }]
-
-}
+}}}}

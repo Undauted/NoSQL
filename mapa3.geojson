@@ -1,273 +1,2345 @@
-{ 
+{
  "type": "FeatureCollection",
-  "features":[{
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+{
+ "type": "FeatureCollection",
+ "features": 
+[{
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1681"
+		"$oid": "58d8fbf2a90cc75e18121ffe"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.342385,
+		"Y": 60.300358,
+		"OBJECTID": "5081",
+		"WELLREGNO": "204/24- 2",
+		"DENNO": "4814",
+		"TOPHOLEYDD": "60.300972",
+		"TOPHOLEXDD": "-4.340528",
+		"TOPHOLEYGE": "060 18 03.500N",
+		"TOPHOLEXGE": "004 20 25.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "25.999",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "500.024",
+		"SPUDDATE": "1992-09-09T00:00:00.000Z",
+		"DATETDREAC": "1992-10-04T00:00:00.000Z",
+		"COMPLEDATE": "1992-10-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "DA",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2808.793",
+		"TOTALMDDRI": "2835.006",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			-0.117,
-			51.5
+			-4.342385366221329,
+			60.30035777247068
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "London",
-		"city": "London"
-	},
-	"id": "London"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1682"
+		"$oid": "58d8fbf2a90cc75e18121fff"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.342385,
+		"Y": 60.300358,
+		"OBJECTID": "5082",
+		"WELLREGNO": "204/24- 2Y",
+		"DENNO": "4814",
+		"TOPHOLEYDD": "60.300972",
+		"TOPHOLEXDD": "-4.340528",
+		"TOPHOLEYGE": "060 18 03.500N",
+		"TOPHOLEXGE": "004 20 25.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "Y",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "26.001",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "500.024",
+		"SPUDDATE": "1992-11-01T00:00:00.000Z",
+		"DATETDREAC": "1992-11-29T00:00:00.000Z",
+		"COMPLEDATE": "1992-11-30T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "",
+		"WELLSYMBOL": "1",
+		"PRIMARYTAR": "DA",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "UNKW",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "928.116",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			0,
-			51.467
+			-4.342385366221329,
+			60.30035777247068
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Greenwich",
-		"city": "Greenwich"
-	},
-	"id": "Greenwich"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1689"
+		"$oid": "58d8fbf2a90cc75e18122000"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.342385,
+		"Y": 60.300358,
+		"OBJECTID": "5083",
+		"WELLREGNO": "204/24- 2Z",
+		"DENNO": "4814",
+		"TOPHOLEYDD": "60.300972",
+		"TOPHOLEXDD": "-4.340528",
+		"TOPHOLEYGE": "060 18 03.500N",
+		"TOPHOLEXGE": "004 20 25.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "7.925",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "500.024",
+		"SPUDDATE": "1992-10-23T00:00:00.000Z",
+		"DATETDREAC": "1992-10-30T00:00:00.000Z",
+		"COMPLEDATE": "1992-11-01T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "",
+		"WELLSYMBOL": "1",
+		"PRIMARYTAR": "DA",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "UNKW",
+		"TVDSSDRILL": "0",
+		"TOTALMDDRI": "2699.979",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			2.333,
-			48.867
+			-4.342385366221329,
+			60.30035777247068
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Paris",
-		"city": "Paris"
-	},
-	"id": "Paris"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1690"
+		"$oid": "58d8fbf2a90cc75e1812207a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339604,
+		"Y": 60.300544,
+		"OBJECTID": "5205",
+		"WELLREGNO": "204/24a-A2",
+		"DENNO": "5433",
+		"TOPHOLEYDD": "60.301158",
+		"TOPHOLEXDD": "-4.337747",
+		"TOPHOLEYGE": "060 18 04.170N",
+		"TOPHOLEXGE": "004 20 15.890W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P13",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "507.5",
+		"SPUDDATE": "1995-06-11T00:00:00.000Z",
+		"DATETDREAC": "1995-06-24T00:00:00.000Z",
+		"COMPLEDATE": "1995-06-24T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2173",
+		"TOTALMDDRI": "5268",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			4.3,
-			52.067
+			-4.339604304422411,
+			60.30054381744812
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "The_Hague",
-		"city": "The Hague"
-	},
-	"id": "The Hague"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1691"
+		"$oid": "58d8fbf2a90cc75e1812207f"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340669,
+		"Y": 60.300539,
+		"OBJECTID": "5210",
+		"WELLREGNO": "204/24a-A22",
+		"DENNO": "21606",
+		"TOPHOLEYDD": "60.301153",
+		"TOPHOLEXDD": "-4.338812",
+		"TOPHOLEYGE": "060 18 04.150N",
+		"TOPHOLEXGE": "004 20 19.722W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W18",
+		"DRILLSEQNO": "22",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "509",
+		"SPUDDATE": "2009-12-26T00:00:00.000Z",
+		"DATETDREAC": "2010-03-16T00:00:00.000Z",
+		"COMPLEDATE": "2010-05-04T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "P4T",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2194",
+		"TOTALMDDRI": "4718",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			4.35,
-			50.833
+			-4.340669331759611,
+			60.30053880272396
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Brussels",
-		"city": "Brussels"
-	},
-	"id": "Brussels"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1692"
+		"$oid": "58d8fbf2a90cc75e181220b5"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.338375,
+		"Y": 60.3103,
+		"OBJECTID": "5264",
+		"WELLREGNO": "204/24a-A5",
+		"DENNO": "5812",
+		"TOPHOLEYDD": "60.310914",
+		"TOPHOLEXDD": "-4.336517",
+		"TOPHOLEYGE": "060 18 39.290N",
+		"TOPHOLEXGE": "004 20 11.460W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P18",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "1996-04-18T00:00:00.000Z",
+		"DATETDREAC": "1996-05-19T00:00:00.000Z",
+		"COMPLEDATE": "1996-05-19T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2162.7",
+		"TOTALMDDRI": "3454",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			4.4,
-			51.217
+			-4.338374813360256,
+			60.310300202547026
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Antwerp",
-		"city": "Antwerp"
-	},
-	"id": "Antwerp"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1693"
+		"$oid": "58d8fbf2a90cc75e1812203e"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339014,
+		"Y": 60.310139,
+		"OBJECTID": "5145",
+		"WELLREGNO": "204/24a-A14",
+		"DENNO": "8552",
+		"TOPHOLEYDD": "60.310753",
+		"TOPHOLEXDD": "-4.337156",
+		"TOPHOLEYGE": "060 18 38.710N",
+		"TOPHOLEXGE": "004 20 13.760W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "14",
+		"DRILLSEQNO": "14",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2003-02-08T00:00:00.000Z",
+		"DATETDREAC": "2003-04-15T00:00:00.000Z",
+		"COMPLEDATE": "2003-05-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "Q",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2407",
+		"TOTALMDDRI": "4286",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			4.467,
-			51.933
+			-4.339013821005948,
+			60.31013918774634
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Rotterdam",
-		"city": "Rotterdam"
-	},
-	"id": "Rotterdam"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1695"
+		"$oid": "58d8fbf2a90cc75e18122082"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339052,
+		"Y": 60.310305,
+		"OBJECTID": "5213",
+		"WELLREGNO": "204/24a-A3",
+		"DENNO": "5518",
+		"TOPHOLEYDD": "60.310919",
+		"TOPHOLEXDD": "-4.337194",
+		"TOPHOLEYGE": "060 18 39.310N",
+		"TOPHOLEXGE": "004 20 13.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P17",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "1995-05-06T00:00:00.000Z",
+		"DATETDREAC": "1995-06-11T00:00:00.000Z",
+		"COMPLEDATE": "1995-06-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "1",
+		"PRIMARYTAR": "",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "UNKW",
+		"TVDSSDRILL": "2180.85",
+		"TOTALMDDRI": "5300",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			4.883,
-			52.367
+			-4.339051831197144,
+			60.31030519349521
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Amsterdam",
-		"city": "Amsterdam"
-	},
-	"id": "Amsterdam"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1698"
+		"$oid": "58d8fbf2a90cc75e18122002"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339133,
+		"Y": 60.310444,
+		"OBJECTID": "5085",
+		"WELLREGNO": "204/24- 4",
+		"DENNO": "5242",
+		"TOPHOLEYDD": "60.311058",
+		"TOPHOLEXDD": "-4.337275",
+		"TOPHOLEYGE": "060 18 39.810N",
+		"TOPHOLEXGE": "004 20 14.190W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "26.4",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506.6",
+		"SPUDDATE": "1994-05-19T00:00:00.000Z",
+		"DATETDREAC": "1994-07-02T00:00:00.000Z",
+		"COMPLEDATE": "1994-07-25T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "H",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2188",
+		"TOTALMDDRI": "4377",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			6.117,
-			49.6
+			-4.339132841006392,
+			60.31044419763772
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Luxembourg_(city)",
-		"city": "Luxembourg (city)"
-	},
-	"id": "Luxembourg (city)"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf1699"
+		"$oid": "58d8fbf2a90cc75e1812207e"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.338722,
+		"Y": 60.310475,
+		"OBJECTID": "5209",
+		"WELLREGNO": "204/24a-A21",
+		"DENNO": "5877",
+		"TOPHOLEYDD": "60.311089",
+		"TOPHOLEXDD": "-4.336864",
+		"TOPHOLEYGE": "060 18 39.920N",
+		"TOPHOLEXGE": "004 20 12.710W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P16",
+		"DRILLSEQNO": "21",
+		"WELLSUFFIX": "R",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506",
+		"SPUDDATE": "2009-04-30T00:00:00.000Z",
+		"DATETDREAC": "2009-05-10T00:00:00.000Z",
+		"COMPLEDATE": "2009-05-27T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "Y",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2133",
+		"TOTALMDDRI": "3721",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			6.15,
-			46.2
+			-4.338721832065273,
+			60.31047520441806
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Geneva",
-		"city": "Geneva"
-	},
-	"id": "Geneva"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf169b"
+		"$oid": "58d8fbf2a90cc75e181220b6"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.338722,
+		"Y": 60.310475,
+		"OBJECTID": "5265",
+		"WELLREGNO": "204/24a-A6",
+		"DENNO": "5877",
+		"TOPHOLEYDD": "60.311089",
+		"TOPHOLEXDD": "-4.336864",
+		"TOPHOLEYGE": "060 18 39.920N",
+		"TOPHOLEXGE": "004 20 12.710W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P16",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506",
+		"SPUDDATE": "1996-05-20T00:00:00.000Z",
+		"DATETDREAC": "1996-05-29T00:00:00.000Z",
+		"COMPLEDATE": "1996-06-16T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "14",
+		"PRIMARYTAR": "AF",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2165",
+		"TOTALMDDRI": "2520",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "JW"
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			6.783,
-			51.233
+			-4.338721832065273,
+			60.31047520441806
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "D%C3%BCsseldorf",
-		"city": "D%C3%BCsseldorf"
-	},
-	"id": "D%C3%BCsseldorf"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf169c"
+		"$oid": "58d8fbf2a90cc75e181220b7"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.338722,
+		"Y": 60.310475,
+		"OBJECTID": "5266",
+		"WELLREGNO": "204/24a-A6Z",
+		"DENNO": "5877",
+		"TOPHOLEYDD": "60.311089",
+		"TOPHOLEXDD": "-4.336864",
+		"TOPHOLEYGE": "060 18 39.920N",
+		"TOPHOLEXGE": "004 20 12.710W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P16",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506",
+		"SPUDDATE": "1996-06-30T00:00:00.000Z",
+		"DATETDREAC": "1996-07-08T00:00:00.000Z",
+		"COMPLEDATE": "2009-04-30T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "AF",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2155",
+		"TOTALMDDRI": "3100",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			6.967,
-			50.95
+			-4.338721832065273,
+			60.31047520441806
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Cologne",
-		"city": "Cologne"
-	},
-	"id": "Cologne"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16a0"
+		"$oid": "58d8fbf2a90cc75e18122039"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339561,
+		"Y": 60.310836,
+		"OBJECTID": "5140",
+		"WELLREGNO": "204/24a-A11",
+		"DENNO": "6806",
+		"TOPHOLEYDD": "60.31145",
+		"TOPHOLEXDD": "-4.337703",
+		"TOPHOLEYGE": "060 18 41.220N",
+		"TOPHOLEXGE": "004 20 15.730W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P12",
+		"DRILLSEQNO": "11",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508.01",
+		"SPUDDATE": "2000-03-26T00:00:00.000Z",
+		"DATETDREAC": "2000-04-30T00:00:00.000Z",
+		"COMPLEDATE": "2000-05-07T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "7",
+		"PRIMARYTAR": "AM",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OS",
+		"TVDSSDRILL": "2112.5",
+		"TOTALMDDRI": "5100",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			7.45,
-			46.95
+			-4.33956087384675,
+			60.310836206596285
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Bern",
-		"city": "Bern"
-	},
-	"id": "Bern"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16a4"
+		"$oid": "58d8fbf2a90cc75e1812203a"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339561,
+		"Y": 60.310836,
+		"OBJECTID": "5141",
+		"WELLREGNO": "204/24a-A11Z",
+		"DENNO": "6806",
+		"TOPHOLEYDD": "60.31145",
+		"TOPHOLEXDD": "-4.337703",
+		"TOPHOLEYGE": "060 18 41.220N",
+		"TOPHOLEXGE": "004 20 15.730W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P12",
+		"DRILLSEQNO": "11",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508.01",
+		"SPUDDATE": "2000-05-07T00:00:00.000Z",
+		"DATETDREAC": "2000-05-10T00:00:00.000Z",
+		"COMPLEDATE": "2000-06-08T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "AM",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2122.27",
+		"TOTALMDDRI": "5110",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			7.75,
-			48.583
+			-4.33956087384675,
+			60.310836206596285
 		]
-	},
-	"type": "Feature",
-	"properties": {
-		"wikipedia": "Strasbourg",
-		"city": "Strasbourg"
-	},
-	"id": "Strasbourg"
+	}
 },
 {
 	"_id": {
-		"$oid": "58c92c5afdd8d6722fdf16a7"
+		"$oid": "58d8fbf2a90cc75e1812203c"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.337885,
+		"Y": 60.310577,
+		"OBJECTID": "5143",
+		"WELLREGNO": "204/24a-A13",
+		"DENNO": "8271",
+		"TOPHOLEYDD": "60.311191",
+		"TOPHOLEXDD": "-4.336027",
+		"TOPHOLEYGE": "060 18 40.288N",
+		"TOPHOLEXGE": "004 20 09.696W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P19",
+		"DRILLSEQNO": "13",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "29",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2002-05-15T00:00:00.000Z",
+		"DATETDREAC": "2002-06-03T00:00:00.000Z",
+		"COMPLEDATE": "2002-06-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "AP",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "3837",
+		"TOTALMDDRI": "3866",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
 	},
 	"geometry": {
 		"type": "Point",
 		"coordinates": [
-			8.683,
-			50.1
+			-4.337884816011842,
+			60.31057721969369
 		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812203d"
 	},
 	"type": "Feature",
 	"properties": {
-		"wikipedia": "Frankfurt",
-		"city": "Frankfurt"
+		"X": -4.337885,
+		"Y": 60.310577,
+		"OBJECTID": "5144",
+		"WELLREGNO": "204/24a-A13Z",
+		"DENNO": "8271",
+		"TOPHOLEYDD": "60.311191",
+		"TOPHOLEXDD": "-4.336027",
+		"TOPHOLEYGE": "060 18 40.288N",
+		"TOPHOLEXGE": "004 20 09.696W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P19",
+		"DRILLSEQNO": "13",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "29",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2002-06-10T00:00:00.000Z",
+		"DATETDREAC": "2002-06-28T00:00:00.000Z",
+		"COMPLEDATE": "2002-09-23T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "Z",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2113",
+		"TOTALMDDRI": "3837",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
 	},
-	"id": "Frankfurt"
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.337884816011842,
+			60.31057721969369
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812207b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340003,
+		"Y": 60.311524,
+		"OBJECTID": "5206",
+		"WELLREGNO": "204/24a-A20",
+		"DENNO": "19867",
+		"TOPHOLEYDD": "60.312138",
+		"TOPHOLEXDD": "-4.338145",
+		"TOPHOLEYGE": "060 18 43.698N",
+		"TOPHOLEXGE": "004 20 17.323W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W17",
+		"DRILLSEQNO": "20",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2008-09-21T00:00:00.000Z",
+		"DATETDREAC": "2008-09-25T00:00:00.000Z",
+		"COMPLEDATE": "2008-09-28T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "14",
+		"PRIMARYTAR": "W17",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "1139",
+		"TOTALMDDRI": "1167",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "JW"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340002923467347,
+			60.3115242265399
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812207c"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340003,
+		"Y": 60.311524,
+		"OBJECTID": "5207",
+		"WELLREGNO": "204/24a-A20Y",
+		"DENNO": "19867",
+		"TOPHOLEYDD": "60.312138",
+		"TOPHOLEXDD": "-4.338145",
+		"TOPHOLEYGE": "060 18 43.698N",
+		"TOPHOLEXGE": "004 20 17.323W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W17",
+		"DRILLSEQNO": "20",
+		"WELLSUFFIX": "Y",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2009-03-08T00:00:00.000Z",
+		"DATETDREAC": "2009-03-23T00:00:00.000Z",
+		"COMPLEDATE": "2009-04-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "W17",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2179",
+		"TOTALMDDRI": "3826",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340002923467347,
+			60.3115242265399
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812207d"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340003,
+		"Y": 60.311524,
+		"OBJECTID": "5208",
+		"WELLREGNO": "204/24a-A20Z",
+		"DENNO": "19867",
+		"TOPHOLEYDD": "60.312138",
+		"TOPHOLEXDD": "-4.338145",
+		"TOPHOLEYGE": "060 18 43.698N",
+		"TOPHOLEXGE": "004 20 17.323W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W17",
+		"DRILLSEQNO": "20",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2008-09-28T00:00:00.000Z",
+		"DATETDREAC": "2009-02-02T00:00:00.000Z",
+		"COMPLEDATE": "2009-03-08T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "14",
+		"PRIMARYTAR": "W17",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2099",
+		"TOTALMDDRI": "3692",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "JW"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340002923467347,
+			60.3115242265399
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122038"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340064,
+		"Y": 60.311286,
+		"OBJECTID": "5139",
+		"WELLREGNO": "204/24a-A10",
+		"DENNO": "6572",
+		"TOPHOLEYDD": "60.3119",
+		"TOPHOLEXDD": "-4.338206",
+		"TOPHOLEYGE": "060 18 42.840N",
+		"TOPHOLEXGE": "004 20 17.540W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W13",
+		"DRILLSEQNO": "10",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508.01",
+		"SPUDDATE": "1999-02-12T00:00:00.000Z",
+		"DATETDREAC": "1999-03-07T00:00:00.000Z",
+		"COMPLEDATE": "1999-04-08T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "AK",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2412.3",
+		"TOTALMDDRI": "4175",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340063911849911,
+			60.31128621672107
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181220ba"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340064,
+		"Y": 60.311286,
+		"OBJECTID": "5269",
+		"WELLREGNO": "204/24a-A9",
+		"DENNO": "6547",
+		"TOPHOLEYDD": "60.3119",
+		"TOPHOLEXDD": "-4.338206",
+		"TOPHOLEYGE": "060 18 42.840N",
+		"TOPHOLEXGE": "004 20 17.540W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W14",
+		"DRILLSEQNO": "9",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508.01",
+		"SPUDDATE": "1999-01-08T00:00:00.000Z",
+		"DATETDREAC": "1999-01-31T00:00:00.000Z",
+		"COMPLEDATE": "1999-06-09T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "AL",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2255.7",
+		"TOTALMDDRI": "3430",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340063911849911,
+			60.31128621672107
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122081"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340716,
+		"Y": 60.310669,
+		"OBJECTID": "5212",
+		"WELLREGNO": "204/24a-A24",
+		"DENNO": "22108",
+		"TOPHOLEYDD": "60.311283",
+		"TOPHOLEXDD": "-4.338858",
+		"TOPHOLEYGE": "060 18 40.619N",
+		"TOPHOLEXGE": "004 20 19.888W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W110",
+		"DRILLSEQNO": "24",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2010-05-12T00:00:00.000Z",
+		"DATETDREAC": "2010-07-03T00:00:00.000Z",
+		"COMPLEDATE": "2010-08-19T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "P4I",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2351",
+		"TOTALMDDRI": "5300",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340715894542464,
+			60.310669184525594
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812203f"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340833,
+		"Y": 60.310822,
+		"OBJECTID": "5146",
+		"WELLREGNO": "204/24a-A15",
+		"DENNO": "8555",
+		"TOPHOLEYDD": "60.311436",
+		"TOPHOLEXDD": "-4.338975",
+		"TOPHOLEYGE": "060 18 41.170N",
+		"TOPHOLEXGE": "004 20 20.310W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "15",
+		"DRILLSEQNO": "15",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "509",
+		"SPUDDATE": "2003-02-12T00:00:00.000Z",
+		"DATETDREAC": "2003-05-25T00:00:00.000Z",
+		"COMPLEDATE": "2003-07-26T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "R",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2452",
+		"TOTALMDDRI": "3481",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340832906062213,
+			60.310822188705316
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122045"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.341275,
+		"Y": 60.310911,
+		"OBJECTID": "5152",
+		"WELLREGNO": "204/24a-A18",
+		"DENNO": "12865",
+		"TOPHOLEYDD": "60.311525",
+		"TOPHOLEXDD": "-4.339417",
+		"TOPHOLEYGE": "060 18 41.490N",
+		"TOPHOLEXGE": "004 20 21.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W16",
+		"DRILLSEQNO": "18",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "510",
+		"SPUDDATE": "2005-07-09T00:00:00.000Z",
+		"DATETDREAC": "2005-08-07T00:00:00.000Z",
+		"COMPLEDATE": "2005-08-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "W16",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "2694",
+		"TOTALMDDRI": "3908",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.341274922462071,
+			60.31091118603241
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122077"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.341275,
+		"Y": 60.310911,
+		"OBJECTID": "5202",
+		"WELLREGNO": "204/24a-A18Z",
+		"DENNO": "12865",
+		"TOPHOLEYDD": "60.311525",
+		"TOPHOLEXDD": "-4.339417",
+		"TOPHOLEYGE": "060 18 41.490N",
+		"TOPHOLEXGE": "004 20 21.900W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W16",
+		"DRILLSEQNO": "18",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "510",
+		"SPUDDATE": "2005-08-14T00:00:00.000Z",
+		"DATETDREAC": "2005-08-26T00:00:00.000Z",
+		"COMPLEDATE": "2005-12-08T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "Z",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2257",
+		"TOTALMDDRI": "3122",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.341274922462071,
+			60.31091118603241
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122080"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.341153,
+		"Y": 60.311141,
+		"OBJECTID": "5211",
+		"WELLREGNO": "204/24a-A23",
+		"DENNO": "21646",
+		"TOPHOLEYDD": "60.311755",
+		"TOPHOLEXDD": "-4.339295",
+		"TOPHOLEYGE": "060 18 42.319N",
+		"TOPHOLEXGE": "004 20 21.463W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W19",
+		"DRILLSEQNO": "23",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "510",
+		"SPUDDATE": "2009-12-26T00:00:00.000Z",
+		"DATETDREAC": "2010-04-07T00:00:00.000Z",
+		"COMPLEDATE": "2010-04-27T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "P3I",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2474",
+		"TOTALMDDRI": "3799",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.341152932053602,
+			60.311141196381705
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181220b8"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340239,
+		"Y": 60.311039,
+		"OBJECTID": "5267",
+		"WELLREGNO": "204/24a-A7",
+		"DENNO": "6356",
+		"TOPHOLEYDD": "60.311653",
+		"TOPHOLEXDD": "-4.338381",
+		"TOPHOLEYGE": "060 18 41.950N",
+		"TOPHOLEXGE": "004 20 18.170W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W11",
+		"DRILLSEQNO": "7",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "82.021",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "1660.1",
+		"SPUDDATE": "1998-03-25T00:00:00.000Z",
+		"DATETDREAC": "1998-05-24T00:00:00.000Z",
+		"COMPLEDATE": "2005-04-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "2",
+		"PRIMARYTAR": "AH",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "",
+		"TOTALMDDRI": "0",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "DR"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340238902690372,
+			60.31103920500643
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122042"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340238,
+		"Y": 60.31104,
+		"OBJECTID": "5149",
+		"WELLREGNO": "204/24a-A17",
+		"DENNO": "12242",
+		"TOPHOLEYDD": "60.311654",
+		"TOPHOLEXDD": "-4.33838",
+		"TOPHOLEYGE": "060 18 41.954N",
+		"TOPHOLEXGE": "004 20 18.169W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W11",
+		"DRILLSEQNO": "17",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "503.9",
+		"SPUDDATE": "2005-04-11T00:00:00.000Z",
+		"DATETDREAC": "2005-04-25T00:00:00.000Z",
+		"COMPLEDATE": "2005-06-03T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "W11",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2225",
+		"TOTALMDDRI": "4857",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.34023790271984,
+			60.31104020505783
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122043"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340238,
+		"Y": 60.31104,
+		"OBJECTID": "5150",
+		"WELLREGNO": "204/24a-A17Y",
+		"DENNO": "12242",
+		"TOPHOLEYDD": "60.311654",
+		"TOPHOLEXDD": "-4.33838",
+		"TOPHOLEYGE": "060 18 41.954N",
+		"TOPHOLEXGE": "004 20 18.169W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W11",
+		"DRILLSEQNO": "17",
+		"WELLSUFFIX": "Y",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "503.9",
+		"SPUDDATE": "2005-09-16T00:00:00.000Z",
+		"DATETDREAC": "2005-09-16T00:00:00.000Z",
+		"COMPLEDATE": "2005-12-06T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "Z",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2226",
+		"TOTALMDDRI": "4917",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.34023790271984,
+			60.31104020505783
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122044"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340238,
+		"Y": 60.31104,
+		"OBJECTID": "5151",
+		"WELLREGNO": "204/24a-A17Z",
+		"DENNO": "12242",
+		"TOPHOLEYDD": "60.311654",
+		"TOPHOLEXDD": "-4.33838",
+		"TOPHOLEYGE": "060 18 41.954N",
+		"TOPHOLEXGE": "004 20 18.169W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W11",
+		"DRILLSEQNO": "17",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "503.9",
+		"SPUDDATE": "2005-06-03T00:00:00.000Z",
+		"DATETDREAC": "2005-06-09T00:00:00.000Z",
+		"COMPLEDATE": "2005-09-15T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "16",
+		"PRIMARYTAR": "Z",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2166.3",
+		"TOTALMDDRI": "4788",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "INJECTOR",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.34023790271984,
+			60.31104020505783
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122078"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339769,
+		"Y": 60.311099,
+		"OBJECTID": "5203",
+		"WELLREGNO": "204/24a-A19",
+		"DENNO": "19866",
+		"TOPHOLEYDD": "60.311713",
+		"TOPHOLEXDD": "-4.337911",
+		"TOPHOLEYGE": "060 18 42.166N",
+		"TOPHOLEXGE": "004 20 16.480W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P111",
+		"DRILLSEQNO": "19",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2008-09-19T00:00:00.000Z",
+		"DATETDREAC": "2008-10-07T00:00:00.000Z",
+		"COMPLEDATE": "2008-11-07T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "14",
+		"PRIMARYTAR": "A19",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "1692",
+		"TOTALMDDRI": "1726",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "JW"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339768893827399,
+			60.3110992136872
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122079"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339769,
+		"Y": 60.311099,
+		"OBJECTID": "5204",
+		"WELLREGNO": "204/24a-A19Z",
+		"DENNO": "19866",
+		"TOPHOLEYDD": "60.311713",
+		"TOPHOLEXDD": "-4.337911",
+		"TOPHOLEYGE": "060 18 42.166N",
+		"TOPHOLEXGE": "004 20 16.480W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P111",
+		"DRILLSEQNO": "19",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2008-11-07T00:00:00.000Z",
+		"DATETDREAC": "2008-11-28T00:00:00.000Z",
+		"COMPLEDATE": "2009-02-07T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "A19",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2162",
+		"TOTALMDDRI": "3546",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339768893827399,
+			60.3110992136872
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e181220b9"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.33993,
+		"Y": 60.310855,
+		"OBJECTID": "5268",
+		"WELLREGNO": "204/24a-A8",
+		"DENNO": "6408",
+		"TOPHOLEYDD": "60.311469",
+		"TOPHOLEXDD": "-4.338072",
+		"TOPHOLEYGE": "060 18 41.290N",
+		"TOPHOLEXGE": "004 20 17.060W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P14",
+		"DRILLSEQNO": "8",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "505.998",
+		"SPUDDATE": "1998-06-14T00:00:00.000Z",
+		"DATETDREAC": "1998-12-21T00:00:00.000Z",
+		"COMPLEDATE": "1999-05-21T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "A1",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2154.5",
+		"TOTALMDDRI": "3487",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339929884471339,
+			60.310855202276954
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122083"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339927,
+		"Y": 60.310855,
+		"OBJECTID": "5214",
+		"WELLREGNO": "204/24a-A4",
+		"DENNO": "5801",
+		"TOPHOLEYDD": "60.311469",
+		"TOPHOLEXDD": "-4.338069",
+		"TOPHOLEYGE": "060 18 41.290N",
+		"TOPHOLEXGE": "004 20 17.050W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P11",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "81",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506.6",
+		"SPUDDATE": "1996-04-02T00:00:00.000Z",
+		"DATETDREAC": "1996-04-09T00:00:00.000Z",
+		"COMPLEDATE": "1996-04-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "AC",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2188.1",
+		"TOTALMDDRI": "4377",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339926884393534,
+			60.3108552023179
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122084"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339927,
+		"Y": 60.310855,
+		"OBJECTID": "5215",
+		"WELLREGNO": "204/24a-A4Z",
+		"DENNO": "5801",
+		"TOPHOLEYDD": "60.311469",
+		"TOPHOLEXDD": "-4.338069",
+		"TOPHOLEYGE": "060 18 41.290N",
+		"TOPHOLEXGE": "004 20 17.050W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P11",
+		"DRILLSEQNO": "4",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "506.6",
+		"SPUDDATE": "2000-06-24T00:00:00.000Z",
+		"DATETDREAC": "2000-07-10T00:00:00.000Z",
+		"COMPLEDATE": "2000-08-01T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "AN",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2172",
+		"TOTALMDDRI": "3985",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339926884393534,
+			60.3108552023179
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122040"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339929,
+		"Y": 60.310856,
+		"OBJECTID": "5147",
+		"WELLREGNO": "204/24a-A16",
+		"DENNO": "10677",
+		"TOPHOLEYDD": "60.31147",
+		"TOPHOLEXDD": "-4.338071",
+		"TOPHOLEYGE": "060 18 41.293N",
+		"TOPHOLEXGE": "004 20 17.054W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P11",
+		"DRILLSEQNO": "16",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2004-06-10T00:00:00.000Z",
+		"DATETDREAC": "2004-06-17T00:00:00.000Z",
+		"COMPLEDATE": "2004-06-22T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "P11",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2222",
+		"TOTALMDDRI": "3720",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339928884500862,
+			60.31085620232837
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122041"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.339929,
+		"Y": 60.310856,
+		"OBJECTID": "5148",
+		"WELLREGNO": "204/24a-A16Z",
+		"DENNO": "10677",
+		"TOPHOLEYDD": "60.31147",
+		"TOPHOLEXDD": "-4.338071",
+		"TOPHOLEYGE": "060 18 41.293N",
+		"TOPHOLEXGE": "004 20 17.054W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "P11",
+		"DRILLSEQNO": "16",
+		"WELLSUFFIX": "Z",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2004-06-22T00:00:00.000Z",
+		"DATETDREAC": "2004-07-14T00:00:00.000Z",
+		"COMPLEDATE": "2004-08-11T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "19",
+		"PRIMARYTAR": "Z",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2154",
+		"TOTALMDDRI": "4664",
+		"PARENTROLE": "SIDETRACK",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "PRODUCER",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.339928884500862,
+			60.31085620232837
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e1812203b"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.340374,
+		"Y": 60.310804,
+		"OBJECTID": "5142",
+		"WELLREGNO": "204/24a-A12",
+		"DENNO": "7309",
+		"TOPHOLEYDD": "60.311418",
+		"TOPHOLEXDD": "-4.338516",
+		"TOPHOLEYGE": "060 18 41.105N",
+		"TOPHOLEXGE": "004 20 18.657W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "A",
+		"SLOTNO": "W12A",
+		"DRILLSEQNO": "12",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "D",
+		"DATUMELEV": "29",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "508",
+		"SPUDDATE": "2001-05-08T00:00:00.000Z",
+		"DATETDREAC": "2001-08-14T00:00:00.000Z",
+		"COMPLEDATE": "2001-08-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "2",
+		"PRIMARYTAR": "34L",
+		"COMPLESTAT": "COMPLETED_OPERATING",
+		"FLOWCLASS": "",
+		"TVDSSDRILL": "2335.1",
+		"TOTALMDDRI": "5360",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": "DR"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.340373893159005,
+			60.31080419429095
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18121ffb"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.452903,
+		"Y": 60.271626,
+		"OBJECTID": "5078",
+		"WELLREGNO": "204/23- 2",
+		"DENNO": "18727",
+		"TOPHOLEYDD": "60.272243",
+		"TOPHOLEXDD": "-4.451044",
+		"TOPHOLEYGE": "060 16 20.073N",
+		"TOPHOLEXGE": "004 27 03.760W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "23",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "2",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "E",
+		"DATUMELEV": "23.5",
+		"DATUMTYPE": "RT",
+		"GROUNDELEV": "",
+		"WATERDEPTH": "552",
+		"SPUDDATE": "2007-11-26T00:00:00.000Z",
+		"DATETDREAC": "2007-12-30T00:00:00.000Z",
+		"COMPLEDATE": "2008-01-17T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "8",
+		"PRIMARYTAR": "SWF",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "OW",
+		"TVDSSDRILL": "2528",
+		"TOTALMDDRI": "2552",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.45290263523383,
+			60.271626179194314
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122001"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.309919,
+		"Y": 60.318684,
+		"OBJECTID": "5084",
+		"WELLREGNO": "204/24- 3",
+		"DENNO": "5188",
+		"TOPHOLEYDD": "60.319297",
+		"TOPHOLEXDD": "-4.308061",
+		"TOPHOLEYGE": "060 19 09.470N",
+		"TOPHOLEXGE": "004 18 29.020W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "3",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "26.5",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "496.1",
+		"SPUDDATE": "1994-02-23T00:00:00.000Z",
+		"DATETDREAC": "1994-04-18T00:00:00.000Z",
+		"COMPLEDATE": "1994-05-15T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "12",
+		"PRIMARYTAR": "G",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GOW",
+		"TVDSSDRILL": "2827.15",
+		"TOTALMDDRI": "2854",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.309918539885656,
+			60.31868390744353
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d8fbf2a90cc75e18122003"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.305574,
+		"Y": 60.283284,
+		"OBJECTID": "5086",
+		"WELLREGNO": "204/24- 5",
+		"DENNO": "5254",
+		"TOPHOLEYDD": "60.283898",
+		"TOPHOLEXDD": "-4.303719",
+		"TOPHOLEYGE": "060 17 02.032N",
+		"TOPHOLEXGE": "004 18 13.387W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "5",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "26.2",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "437.8",
+		"SPUDDATE": "1994-06-04T00:00:00.000Z",
+		"DATETDREAC": "1994-07-01T00:00:00.000Z",
+		"COMPLEDATE": "1994-07-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "12",
+		"PRIMARYTAR": "I",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "GOW",
+		"TVDSSDRILL": "2672.5",
+		"TOTALMDDRI": "3093",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.305574466331983,
+			60.28328363026694
+		]
+	}
 }]
-}
+},
+{
+ "type":
+ "Feature",
+ "geometry": {
+ "type": "Polygon",
+ "coordinates": [[[ -4.399989, 60.324 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.475, 60.265], [ -4.399989, 60.324 ]]]},
+ "properties": {"value": "query field"} 
+} 
+},
+{
+ "type":
+ "Feature",
+ "geometry": {
+ "type": "Polygon",
+ "coordinates": [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]]]},
+ "properties": {"value": "query field"} 
+} 
+},
+{
+ "type":
+ "Feature",
+ "geometry": {
+ "type": "Polygon",
+ "coordinates": [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]]]},
+ "properties": {"value": "query field"} 
+} 
+},
+{
+ "type":
+ "Feature",
+ "geometry": {
+ "type": "Polygon",
+ "coordinates": [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]]]},
+ "properties": {"value": "query field"} 
+} 
+]}
