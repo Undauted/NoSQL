@@ -220,7 +220,7 @@ Zbiór danych - [Health](https://archive.org/download/stackexchange/health.stack
 W zadaniu 1 zbiór danych, który został wykorzystany dotyczy tematyki zdrowia. Spakowane dane zajmują 7 MB, natomiast po rozpakowaniu 36 MB. Na zbiór dancyh składa się 8 plików w formacie xml (Badges, Comments, PostsHistory, PostLinks, Posts, Tags, Users, Votes). Na potrzeby zadania wykorzystałem tylko i wyłącznie pliki Posts i Users.
 Konwersja danych z xml do csv, a następnie do jsona odbyła się dzięki programowi  Xml ValidatorBuddy. Cały zbiór danych zawiera 464 311 rekordów. Na moje potrzeby wykorzystuje 12390.
 
-<h6>Przykładowy rekord</h6>
+<h6>Przykładowy rekord Posts.json</h6>
 
 ```
 {
@@ -292,6 +292,35 @@ Konwersja danych z xml do csv, a następnie do jsona odbyła się dzięki progra
     </tr>
  </tbody>
 </table>
+
+<h6>Przykładowy rekord Users.json</h6>
+
+```
+	"_Id": "6",
+	"_Reputation": "101",
+	"_CreationDate": "2015-03-31T17:54:11.950",
+	"_DisplayName": "Loreno Heer",
+	"_LastAccessDate": "2015-06-18T01:04:11.067",
+	"_AboutMe": "<p>Computer scientist. Mathematics and physics student.</p>\n\n<p>Interested in <a href=\"https://en.wikipedia.org/wiki/Low-dimensional_topology\" rel=\"nofollow\">low-dimensional topology</a>, geometric topology, algebraic topology, knot theory and theoretical computer science.</p>\n\n<p>I know <a href=\"https://en.wikipedia.org/wiki/C%2B%2B\" rel=\"nofollow\">C++</a>, <a href=\"https://en.wikipedia.org/wiki/Haskell_%28programming_language%29\" rel=\"nofollow\">Haskell</a>, <a href=\"https://en.wikipedia.org/wiki/Java_%28programming_language%29\" rel=\"nofollow\">Java</a>, <a href=\"https://en.wikipedia.org/wiki/R_%28programming_language%29\" rel=\"nofollow\">R</a> and <a href=\"https://en.wikipedia.org/wiki/LaTeX\" rel=\"nofollow\">LaTeX</a>. Basic understanding of <a href=\"https://en.wikipedia.org/wiki/Python_%28programming_language%29\" rel=\"nofollow\">Python</a> and <a href=\"https://en.wikipedia.org/wiki/X86_assembly_language\" rel=\"nofollow\">x86 assembly</a> (<a href=\"https://en.wikipedia.org/wiki/FASM\" rel=\"nofollow\">FASM</a> syntax).</p>\n",
+	"_Views": "3",
+	"_UpVotes": "5",
+	"_DownVotes": "0",
+	"_AccountId": "3229416"
+```
+
+<h6>Wyjaśnienie pól</h6>
+
+| Pole            | Znaczenie                 |
+|-----------------|---------------------------|
+| Reputation      | Reputacja         		  |
+| CreationDate    | Data utworzenia konta     |
+| DisplayName     | Nazwa użytkownika         |
+| LastAccessDate  | Data ostatniego logowania |
+| AboutMe		  | Informacje o użytkowniku  |
+| Views           | Ilość wyświetleń profilu  |
+| UpVotes         | Głosy na tak              |
+| DownVotes       | Głosy na nie              |
+
 
 ### PostgreSQL
  
