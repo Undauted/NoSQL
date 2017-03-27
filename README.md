@@ -291,6 +291,7 @@ Konwersja danych z xml do csv, a następnie do jsona odbyła się dzięki progra
       <td>Ilość komentarzy</td>       
     </tr>
  </tbody>
+</table>
 
 ### PostgreSQL
  
