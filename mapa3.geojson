@@ -1,18 +1,9 @@
 {
  "type": "FeatureCollection",
  "features": 
-{
- "type": "FeatureCollection",
- "features": 
-{
- "type": "FeatureCollection",
- "features": 
-{
- "type": "FeatureCollection",
- "features": 
 [{
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18121ffe"
+		"$oid": "58d907dea90cc75e1812da3c"
 	},
 	"type": "Feature",
 	"properties": {
@@ -68,7 +59,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18121fff"
+		"$oid": "58d907dea90cc75e1812da3d"
 	},
 	"type": "Feature",
 	"properties": {
@@ -124,7 +115,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122000"
+		"$oid": "58d907dea90cc75e1812da3e"
 	},
 	"type": "Feature",
 	"properties": {
@@ -180,7 +171,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207a"
+		"$oid": "58d907dea90cc75e1812dab8"
 	},
 	"type": "Feature",
 	"properties": {
@@ -236,7 +227,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207f"
+		"$oid": "58d907dea90cc75e1812dabd"
 	},
 	"type": "Feature",
 	"properties": {
@@ -292,7 +283,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220b5"
+		"$oid": "58d907dea90cc75e1812daf3"
 	},
 	"type": "Feature",
 	"properties": {
@@ -348,7 +339,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203e"
+		"$oid": "58d907dea90cc75e1812da7c"
 	},
 	"type": "Feature",
 	"properties": {
@@ -404,7 +395,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122082"
+		"$oid": "58d907dea90cc75e1812dac0"
 	},
 	"type": "Feature",
 	"properties": {
@@ -460,7 +451,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122002"
+		"$oid": "58d907dea90cc75e1812da40"
 	},
 	"type": "Feature",
 	"properties": {
@@ -516,7 +507,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207e"
+		"$oid": "58d907dea90cc75e1812dabc"
 	},
 	"type": "Feature",
 	"properties": {
@@ -572,7 +563,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220b6"
+		"$oid": "58d907dea90cc75e1812daf4"
 	},
 	"type": "Feature",
 	"properties": {
@@ -628,7 +619,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220b7"
+		"$oid": "58d907dea90cc75e1812daf5"
 	},
 	"type": "Feature",
 	"properties": {
@@ -684,7 +675,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122039"
+		"$oid": "58d907dea90cc75e1812da77"
 	},
 	"type": "Feature",
 	"properties": {
@@ -740,7 +731,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203a"
+		"$oid": "58d907dea90cc75e1812da78"
 	},
 	"type": "Feature",
 	"properties": {
@@ -796,7 +787,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203c"
+		"$oid": "58d907dea90cc75e1812da7a"
 	},
 	"type": "Feature",
 	"properties": {
@@ -852,7 +843,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203d"
+		"$oid": "58d907dea90cc75e1812da7b"
 	},
 	"type": "Feature",
 	"properties": {
@@ -908,7 +899,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207b"
+		"$oid": "58d907dea90cc75e1812dab9"
 	},
 	"type": "Feature",
 	"properties": {
@@ -964,7 +955,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207c"
+		"$oid": "58d907dea90cc75e1812daba"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1020,7 +1011,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812207d"
+		"$oid": "58d907dea90cc75e1812dabb"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1076,7 +1067,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122038"
+		"$oid": "58d907dea90cc75e1812da76"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1132,7 +1123,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220ba"
+		"$oid": "58d907dea90cc75e1812daf8"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1188,7 +1179,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122081"
+		"$oid": "58d907dea90cc75e1812dabf"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1244,7 +1235,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203f"
+		"$oid": "58d907dea90cc75e1812da7d"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1300,7 +1291,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122045"
+		"$oid": "58d907dea90cc75e1812da83"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1356,7 +1347,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122077"
+		"$oid": "58d907dea90cc75e1812dab5"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1412,7 +1403,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122080"
+		"$oid": "58d907dea90cc75e1812dabe"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1468,7 +1459,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220b8"
+		"$oid": "58d907dea90cc75e1812daf6"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1524,7 +1515,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122042"
+		"$oid": "58d907dea90cc75e1812da80"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1580,7 +1571,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122043"
+		"$oid": "58d907dea90cc75e1812da81"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1636,7 +1627,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122044"
+		"$oid": "58d907dea90cc75e1812da82"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1692,7 +1683,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122078"
+		"$oid": "58d907dea90cc75e1812dab6"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1748,7 +1739,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122079"
+		"$oid": "58d907dea90cc75e1812dab7"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1804,7 +1795,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e181220b9"
+		"$oid": "58d907dea90cc75e1812daf7"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1860,7 +1851,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122083"
+		"$oid": "58d907dea90cc75e1812dac1"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1916,7 +1907,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122084"
+		"$oid": "58d907dea90cc75e1812dac2"
 	},
 	"type": "Feature",
 	"properties": {
@@ -1972,7 +1963,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122040"
+		"$oid": "58d907dea90cc75e1812da7e"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2028,7 +2019,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122041"
+		"$oid": "58d907dea90cc75e1812da7f"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2084,7 +2075,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e1812203b"
+		"$oid": "58d907dea90cc75e1812da79"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2140,7 +2131,63 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18121ffb"
+		"$oid": "58d907dea90cc75e1812da42"
+	},
+	"type": "Feature",
+	"properties": {
+		"X": -4.401849,
+		"Y": 60.322861,
+		"OBJECTID": "5087",
+		"WELLREGNO": "204/24- 6",
+		"DENNO": "5270",
+		"TOPHOLEYDD": "60.323475",
+		"TOPHOLEXDD": "-4.399989",
+		"TOPHOLEYGE": "060 19 24.510N",
+		"TOPHOLEXGE": "004 23 59.960W",
+		"TOPHOLEYNG": "",
+		"TOPHOLEXNG": "",
+		"COUNTRYCOD": "SEAWARD",
+		"QUADRANTNO": "204",
+		"BLOCKNO": "24",
+		"BLOCKSUFFI": "a",
+		"PLATFORM": "",
+		"SLOTNO": "",
+		"DRILLSEQNO": "6",
+		"WELLSUFFIX": "",
+		"ORIGINTENT": "A",
+		"DATUMELEV": "25",
+		"DATUMTYPE": "KB",
+		"GROUNDELEV": "0",
+		"WATERDEPTH": "576.9",
+		"SPUDDATE": "1994-07-07T00:00:00.000Z",
+		"DATETDREAC": "1994-08-02T00:00:00.000Z",
+		"COMPLEDATE": "1994-08-14T00:00:00.000Z",
+		"ORIGUNITS": "M",
+		"OPERATOR": "BP EXPLORATION OPERATING COMPANY LIMITED",
+		"WELLSYMBOL": "4",
+		"PRIMARYTAR": "P",
+		"COMPLESTAT": "AB3",
+		"FLOWCLASS": "DH",
+		"TVDSSDRILL": "3019.4",
+		"TOTALMDDRI": "3050",
+		"PARENTROLE": "",
+		"WELLINFO": "http://data.ogauthority.opendata.arcgis.com/",
+		"NAME": "",
+		"TOPHOLEDTM": "ED 50",
+		"DEVTYPE": "",
+		"OTHERCLASS": ""
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-4.401849156070346,
+			60.32286081002461
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58d907dea90cc75e1812da39"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2196,7 +2243,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122001"
+		"$oid": "58d907dea90cc75e1812da3f"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2252,7 +2299,7 @@
 },
 {
 	"_id": {
-		"$oid": "58d8fbf2a90cc75e18122003"
+		"$oid": "58d907dea90cc75e1812da41"
 	},
 	"type": "Feature",
 	"properties": {
@@ -2305,34 +2352,6 @@
 			60.28328363026694
 		]
 	}
-}]
-},
-{
- "type":
- "Feature",
- "geometry": {
- "type": "Polygon",
- "coordinates": [[[ -4.399989, 60.324 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.475, 60.265], [ -4.399989, 60.324 ]]]},
- "properties": {"value": "query field"} 
-} 
-},
-{
- "type":
- "Feature",
- "geometry": {
- "type": "Polygon",
- "coordinates": [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]]]},
- "properties": {"value": "query field"} 
-} 
-},
-{
- "type":
- "Feature",
- "geometry": {
- "type": "Polygon",
- "coordinates": [[[ -4.399991, 60.325 ], [ -4.3080609999999995, 60.319297 ],   [ -4.30, 60.28 ], [ -4.48, 60.26], [ -4.399991, 60.325 ]]]},
- "properties": {"value": "query field"} 
-} 
 },
 {
  "type":
